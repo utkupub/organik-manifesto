@@ -5,6 +5,7 @@
 Önce deniz kenarlarında,
 bir köy, bir iskele, bir dağ,
 başladım kemirmeye doğayı.
+
 Sonra,
 meşeyi odun,
 çamları bardak yaptım.
@@ -113,7 +114,8 @@ Okyanus akıntılarının yerini bile değiştirdim
 Kimi yeri çöl ettim,
 kim yeri sel bastırdım.
 
-8 milyarı geçen bir işgal ordusu dikmedim mi karşına?  , Tabur Tabur devletler,
+8 milyarı geçen bir işgal ordusu dikmedim mi karşına?
+Tabur Tabur devletler,
 Tabur Tabur dizilen şirketler
 her gün yeni yaralar açar
 bedeninde.

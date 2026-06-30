@@ -1,5 +1,12 @@
 4. # **BÖLÜM \- A++ İNSAN OLMAK** {#bölüm---a++-i̇nsan-olmak}
 
+Gri gökyüzünün altında, ıslanmaktaydım.
+Kaldırımda yer bulmuş ağacın altına sığındım. 
+Kafamı yukarı kaldırdım, çıplak dallarına yüzümü kaldırdım.
+İğne iğne gelen damlalar düştü yüzüme.
+Göğe kaldırdığı kollarını seyrettim.
+Damlalar gizledi gözlerimden akanı.
+
 Doğa artık sadece,
 büyük objektifli fotoğraf makinelerinin
 ve çok ödüllü 4K belgesellerin konusu.
@@ -35,7 +42,7 @@ barajlar kurarız.
 
 İnsanın,
 Gökteki, Yerdeki ve Sudaki yansımasına
- yemin olsun ki,
+yemin olsun ki,
 acıklı bir sona doğru çok hızlı koşuyoruz.
 
 Oysa,
@@ -170,7 +177,7 @@ Kaç ağacın kökleri yerinden kopar?
 
 Ya bir otomobil için;
 Kaç ton demir,
- kaç ton su,
+kaç ton su,
 kaç ton kömür harcanır,
 kime sormalı bu hesabı?
 
