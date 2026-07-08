@@ -1,8 +1,10 @@
 ## **DOĞMAMIŞIN VE YENİDOĞANIN HAKKI**
 
-*“Can içinde can taşıyanlara nasıl kıyarsın.”*
+*BU, VAR OLMAK İSTEYEN BİR IŞIĞIN,* 
+*DÜNYAYLA BULUŞMASIDIR.*
 
-![][image4]
+Can içinde, 
+can taşıyanlara nasıl kıyarsın!
 
 Bir koyun bile olsa,
 analara, doğmamışlara,
@@ -15,17 +17,20 @@ ve yaşama doğru koşmak
 ve ona tutunmak ister.
 
 Farkında değildim ama ben de istedim.
-Sen de belki farkında değildin ama sen de istedin.
+Sen de belki farkında değildin,
+ama sen de istedin.
 Yoksa bu cümleyi nasıl okurdun.
 
-Bu, doğanın en eski, en yalın yasası.
+Bu, 
+doğanın en eski, 
+en yalın yasası.
 Önünde kimse duramaz.
 
 Eğer anaya zorluk geliyorsa,
-doğmamış canın kaderini belirleyebilecek tek varlık,
+doğmamıştan vazgeçebilecek tek varlık,
 onu bağrında taşıyan
 anasıdır.
-“Ne zorlu bir karar\!”
+“Ne zorlu bir karar!”
 
 Doğurmak istese de istemese de,
 zoru kolay edecek olan başkalarıdır.
@@ -37,5 +42,9 @@ gökten alınmış kut taşır;
 ona engel olmak,
 Göğün huzurunda
 borç biriktirmektir.*
+
+Dünyaya gelebilmek,
+hayata tutunabilmek,
+her canlıya hakdır.
 
 

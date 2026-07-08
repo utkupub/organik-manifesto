@@ -30,7 +30,7 @@ ne de karanlıktaki izlerini görüyorsun.
 İnsanın ve hükmü altındaki canlıların gecesi,
 artık yapay aydınlıkla,
 gürültüyle ve görünmez dalgalarla yaralandı.
-Seninle  beraber her canlının ritmini bozmaya ne hakkın var.
+Seninle beraber her canlının ritmini bozmaya ne hakkın var.
 
 Uykunun ve rüyanın kapıları kapanıyor;
 herkes tedirgin,
@@ -103,7 +103,7 @@ Artık insana dinleme hakkı, mezarda sadece.
 Dinlenirken karanlıkta, rüyalarda,
 ruhumuz için o ışığı arar dururuz.
 
-Ey\! Havadakiler,
+Ey! Havadakiler,
 toprağın altında ve üstünde duranlar
 ve suyun içindekiler
 hepiniz tanık olun ki;

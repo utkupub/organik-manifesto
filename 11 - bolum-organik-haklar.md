@@ -21,7 +21,7 @@ Kocayınca, korkmadan,
 eceliyle,
 huzurla ölmek istedi.
 
-*“Can dediğin, keklikte de var mikropta da.“*
+*“Can dediğin, keklikte de var mikropta da.”*
 
 Her canlı doğar, yaşar ve ölür.
 Bu hükmü ne sen yazdın, ne ben.
@@ -40,4 +40,3 @@ Kibirle üstünü örter.
 
 Aşağıda yazılanlar yeni haklar değildir.
 Unutulanın hatırlatılmasıdır.
-.![][image2]

@@ -6,7 +6,7 @@
 
 Bağlan,
 zincirlen,
-hapsedil\!
+hapsedil!
 Kapıların ardında kalmış özgür olmayan can,
 nasıl beden içinde kalsın.
 
@@ -29,6 +29,17 @@ tel örgülerin ardına hapsedilmiş
 betona mahkum,
 odalara sıkışmış insan dahil
 bütün canlılara haktır.
+
+Sirkleri, 
+su parklarını, 
+hayvanat bahçelerini
+eğlence sanırsın da
+o düşkün hallerini görmez misin?
+Senin hapishanelerini de
+dondurma yiyerek dolaşsalar
+sana eğlenceli gelir mi?
+Senin orada bulunman bir suçtandır,
+hayvanların suçu ne?
 
 İnsan,
 yeryüzünü adım adım yürüyüşünü yapmadan
@@ -93,7 +104,7 @@ kutla selamlayarak gezebilir.
 Tek izin,
 yolun o büyük sahibinden istenir.
 
-Ama sakın unutma\!
+Ama sakın unutma!
 Bastığın her toprak,
 bir başka canın yurdudur.
 Eşiklerden eğilerek geçilir; saygıyla gezilir,

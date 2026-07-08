@@ -1,4 +1,4 @@
-# **GRİ ANKA**
+7. # **BÖLÜM \- GRİ ANKA** {#bölüm---gri-anka}
 
 Bu yazılar durdurur mu?
 Ya filmler,
@@ -9,21 +9,21 @@ haberi?
 
 Dinleyenler, bağıranlar bir avuç insan\!
 Bize uğramasın ölümün melekleri, yeter\!
-ne okumak,
+Ne okumak,
 ne görmek,
 ne duymak,
 ne seyretmek,
 ne izlemekle
 harekete geçemiyor kimse!
 
-Yediğim ve içtiğim hep benim sandım! 
-Tükettiğim ve arzularım hep benim sandım!
+Yediğim ve içtiğim, hep benim sandım! 
+Tükettiğim ve arzularım, hep benim sandım!
 Kirli bir yozlaşma var aklımda.
 Bir çelişki doğdu sıcakla klimanın arasında.
 Kalıcı bir duyarsızlık tadı bıraktı ağzımda.
 
 Üç uyaran dernek, üç uyarılan tesis.
-beş çırpınan vakıf, kırk beş bin yanan hektar,
+Beş çırpınan vakıf, kırk beş bin yanan hektar,
 ümitsizlik bırakır her bir eklemimde.
 
 Savaşlar ve ölümler açıktan ticaret.
@@ -48,27 +48,27 @@ Yüzlerce, binlerce gemi gerekecek,
 doğayı ve geleceğimizi 
 kurtaracak!
 
-Binlerce ağrı dağı gerekecek,
+Binlerce Ağrı Dağı gerekecek,
 felaketlerin sonunda.
 
 Kargalar yetmez artık yolları, iskeleleri bulmaya.
 
-Büyük yıkımdan sonrasında,
+Büyük yıkımdan sonra,
 Aklım gelir başıma! 
 Samanlıkta,
 kibritle oynayıp,
 yangın sonrasında çırpınan ağlayan
 çocuklar gibi.
 
- Yaşaması güç de olsa,
- bir pay kalırsa insana, 
- yeni bir gelecek kapısı aralanacak.
+Yaşaması güç de olsa,
+bir pay kalırsa insana, 
+yeni bir gelecek kapısı aralanacak.
 
 Bunları yazdırtan da! 
 Doğanın kendi için yaratıldığını sanan da! 
 Kibirlendiği bir buçuk kilogramlık beyin.
 
-“homo sapiens” için yakılmış **rüzgâr ağlatısı** nı, okudun mu?.
+“homo sapiens” için yakılmış **rüzgâr ağlatısını** okudun mu?
 
 Küller küllere, 
 tozlar tozlara, 
@@ -76,7 +76,7 @@ sular sulara karışır,
 insanlık konacak bir Ağrı Dağı bulur, 
 
 Küllerimizden yeniden doğacak, 
-gri bir zümrüdüanka!
+gri bir Zümrüdüanka!
 
 Evrim, çatal dilini saplayacak böğrümüze!
 Gemiden inenler,

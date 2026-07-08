@@ -1,4 +1,4 @@
-## **DOĞAL, TARİHİ,**  **KÜLTÜR VARLIKLARINA SAYGI** {#doğal,-tari̇hi̇,-kültür-varliklarina-saygi}
+## **DOĞAL VE KÜLTÜREL VARLIKLARA SAYGI**
 
 *BU, OSMANLI’NIN,*
 *BİZANS’IN,*
@@ -22,13 +22,16 @@ rüzgâr yontsun,
 su oysun,
 zaman anlatsın.
 
-İnsanların,
-dillerini, sözlü, danslı, müzikli,
-her türlü kültürlerini,
-tarihsel,
-antropolojik kazanımını araştır;
-bul, kayda al, yaşat ki,
-sözel olanlar zaman içinde kaybolup gitmesin.
+Doğa insanı,
+insan da tarihi ve kültürü oluşturdu.
+
+İnsanların dillerini,
+sözlü, danslı, müzikli kültürlerini,
+araştır;
+bul, kayda al, yaşat.
+
+Sen yaşatmazsan,
+her şey tarihin akışında kaybolup gider.
 
 Toprak altındaki fosili gün ışığına çıkar;
 mağara dibindeki iskeleti tarihle;
@@ -54,20 +57,16 @@ tarihi eser kaçırmak,
 tahrip etmek ne bahaneyle olursa olsun,
 insanlık ayıbı ve suçudur.
 
-İnsan,
-tarihe iz bırakmak çabalar durur...
+İnsan, tarihe iz bırakmaya çabalar durur...
 Bir ömür, unutulmamaya adanır:
 kimi türküsünde,
 kimi köprüsünde,
 kimi dikili bir taşta yaşar.
-**Geçmişin izlerini gün yüzüne çıkar; **
+**Geçmişin izlerini gün yüzüne çıkar;**
 **en küçük ayrıntıyı koru.**
 Bu mirası yok saymak
 ya da sessizliğe gömmek,
 insanlık onuruna vurulacak en büyük darbedir.
 
 Tanıtmak, anlatmak, yaşatmak,
-**doğanın, tarihin, kültürün ve atalarının, hakkıdır.**
-
-##
-
+**doğanın, tarihin, kültürün ve atalarının hakkıdır.**

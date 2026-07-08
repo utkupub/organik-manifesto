@@ -1,7 +1,7 @@
 ## **SÜRÜ VE ÖRGÜTLENME HAKKI** {#sürü-ve-örgütlenme-hakki}
 
 O koca uçsuz bucaksız ovada,
-toz kaldırıp ard arda yürüyenleri gördün mü?.
+toz kaldırıp art arda yürüyenleri gördün mü?
 Beraber uçan,
 çekirgeleri, kırlangıçları, arıları\!
 Kurtları, çakalları
@@ -10,7 +10,7 @@ beraber avlananları.
 Karga bayramların da,
 gökyüzüne hayret ve korku içinde bakmadın mı?
 
-Bir arada, yakın olmak var  güç verir her bir canlıya, ormana.
+Bir arada, yakın olmak var güç verir her bir canlıya, ormana.
 
 Su damlalarının birbirine katılması gibi,
 birbirine benzeyen bir araya gelmeye çalışır,

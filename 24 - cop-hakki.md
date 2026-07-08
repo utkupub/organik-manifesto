@@ -4,7 +4,7 @@ Her can yediğini dışkılar;
 tüyünü döker,
 derisini yeniler,
 kabuğunu bırakır,
-kemiğini geride koyar.
+kemiği toprağa kalır.
 Sonunda kendi bedeni de çöp olur.
 Bu doğanın doğal döngüsü,
 yaşamın varoluş biçimi bu.
@@ -24,19 +24,21 @@ petrol,
 nükleer,
 kimyasallar.
 Denizde çöp adaları, karada dağlar haline dönüşen çöp yığınları.
-Aklı sıra çok temiz\! deterjanı şampuanı bile zehirli.
+Aklı sıra çok temiz!
+Deterjanı, şampuanı bile zehirli.
 
 Artık
 suya, toprağa, göğe,
-hatta göğün ötesine pisliğini saçma\!
+hatta göğün ötesine pisliğini saçma!
 
-Çöplerin,
-organik yahut en azından geri dönüşen,
-dönüştürülebilen,
-yeniden kullanılabilir olmalı.
+Çöp,
+organik olmalı
+yahut en azından geri dönüşebilmeli,
+dönüştürülebilmeli,
+yeniden kullanılabilmeli.
 
-Çöpün zehir değil,
-kompost edilebilmeli,
+Çöp zehir değil,
+kompost olabilmeli,
 can olmalı;
 başka canlılara besin,
 dünyaya yeniden nefes olmalıdır.
@@ -44,5 +46,3 @@ dünyaya yeniden nefes olmalıdır.
 Hiçbir şey yok olmaz;
 hepsi biçim değiştirir,
 tekrar can bulur.
-
-##

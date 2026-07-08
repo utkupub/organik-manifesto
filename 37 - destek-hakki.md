@@ -8,35 +8,45 @@
 *BU, BİR DELİNİN BAĞIRIŞI,*
 *ONUN DURULUŞU VE GÜLÜMSEMESİDİR.*
 
-Anası ölen eniklere, azılı düşmanı baktı görmedin mi?
-Doğa sana acımasız görünür\!
-Ama merhamettir,  yavruları büyüten onları.
-Kanadını üstlerine germese yağmurda ne yaparlar\!
-Önden liderler yiyor, İnsan soyunda çok mu farklı\!
-Ama çakallar bile avdan payı ayırırlar zayıflara.
+Anası ölen eniklere
+azılı düşmanı bile baktı, kolladı;
+görmedin mi?
+
+Doğa sana acımasız görünür.
+Ama yavruları büyüten de merhamettir.
+Kanadını üstlerine germese
+yağmurda ne yaparlar?
+
+Önden liderler yer.
+İnsan soyunda çok mu farklı?
+Ama çakallar bile
+avdan pay ayırır zayıflara.
+
 Sürüde yorulan, düşen beklenir.
-Çünkü her canlı bilir:
+Nice canlı bilir:
 Günün birinde güç tükenir,
 diz titrer,
 görüş solar.
+Eşikler yükselir.
 O vakit dayanışma gerek olur.
 
 Sürüde yaşayan her canlının,
-yavru ise,
-zayıfsa gözetilme,
-hasta ise desteğe,
-yaşlı ise rahat ettirilmeye hakkı vardır.
-Bu yüzden sürü vardır zaten.
+yavruysa gözetilmeye,
+zayıfsa korunmaya,
+hastaysa ilaca, bakıma,
+yaşlıysa bir bastona, dinlenmeye,
+yalnızsa bir omuza yaslanmaya,
+güven içinde yaşamaya hakkı vardır.
+Sürünün varlık sebebi budur.
 
-Bu iyilik değil,
-yaşamın sürekliliğini sağlayan bir dengedir.
-İnsan bencillik,
-hırs ve umursamazlık ile bu dengeyi bozma eğilimindedir.
+Destek, iyilik değildir.
+Merhamet gösterisi değildir.
+Sürünün kendine verdiği sözdür.
 
-İnsan,
-kendi sürüsünden çalar,
-kendi sürüsünü kandırır,
-kendi öz sürüsüne parazit,
-kendi öz sürüsünün içinde yırtıcı oldu.
+Bu,
+yol boyunca taşıyanın,
+yarın taşınacağını bilmesidir.
 
-##   {#heading}
+Bu yüzden destek,
+yalnızca zayıfın değil,
+sürünün hakkıdır.

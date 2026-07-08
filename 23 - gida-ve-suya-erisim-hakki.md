@@ -71,9 +71,10 @@ Dünya,
 kurdu kuşu, otu, ağacı, insanı da,
 suladı, doyurdu.
 
-Yer, Gök ve Suyun varoluşsal sebebidir ki ,
-her bir canlıyı,
-yine sular,
-yine doyurur;
-Yeterki insan,
-her şeyi sadece kendine istemesin\!
+Yer, Gök ve Su'nun varoluş sebebi budur:
+her bir canlıyı
+yine sulamak,
+yine doyurmak.
+
+Yeter ki insan,
+her şeyi sadece kendine istemesin!

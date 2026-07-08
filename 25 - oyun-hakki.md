@@ -6,7 +6,8 @@ Kuzuların sıçramalarını?
 Kargaların çatılardan karda kaymalarını?
 Yunusların dönmelerini suda?
 
-Birazcık aklı olan hepiciğinin, yavruların doğasında var.
+Birazcık aklı olanların hepiciğinde,
+yavruların doğasında var.
 Her can, oyunla büyür;
 oyunla güçlenir,
 yaşamayı öğrenir.
@@ -31,15 +32,19 @@ zihnin ve ruhun temel besinidir.
 İnsanın oyunları zamanla kurallara
 ve araçlara büründü,
 spor adını aldı.
-Yeni hatta dijital oyunların çoğu,
-doğal hayattan kopuk görünse de,
-insan hayatı,
-ruhunda yaşayan bir canlıdır.
+
+Dijital oyunlar,
+doğadan kopuk görünebilir.
+
+Ama insan,
+hayatı ruhunda da yaşar;
+oyunu da oraya taşır.
 
 Hiçbir canlının ve kendisinin
-ruhen ve fiziken zarar görmediği,
-aklını ruhunu diri tutup disipline eden,
-şiddetsiz her oyun insana da haktır.
+ruhen, fiziken zarar görmediği,
+aklını, ruhunu zehirlemeyen,
+diri tutup disipline eden,
+her oyun insana da haktır.
 
 Büyüyünce oyun bitmez,
 yalnızca şekil değiştirir;

@@ -3,6 +3,7 @@
 *BU, MEŞE KORULUKLARINDA GEZİNMEK,*
 *ÇİMENLERE HUZURLA UZANMAK,*
 *VE ÜSTÜNDE AKAN BULUTLARI SEYREDEBİLMEKTİR.*
+*BU, KADİM ORMANLARI RAHAT BIRAKMAKTIR.*
 
 Orman, koru, çalı çırpı, hepsi kutsaldır.
 Ahenkli bir huzurla içindeki her canı besler,
@@ -29,12 +30,14 @@ gölgesine sığındığı,
 çiftleşip bağırdığı,
 üstünden uçtuğu,
 patikalarında koştuğu,
-o yeşil, o kara, o kadim sisler içindeki hayatın geçtiği yerdir.
+o yeşil, o kara, 
+o kadim sisler içindeki hayatın geçtiği yerdir.
 
 Bundan böyle kesme, yakma.
 Orman ürün değil, yaşayan bütündür;
 “Gençleştirme” bahanesiyle dahi kesim yapma.
-Kesim, kut’u yaralar; orman yaşamın kaynağıdır.
+Kesim, kut’u yaralar; 
+orman yaşamın kaynağıdır.
 
 Her bir ağaç yansa
 ve her bir yaprak küle dönüşse de,
@@ -55,28 +58,35 @@ Orman insanı odun indiren değil,
 ormanla bir olan kişidir;
 rızkını zarar vermeden,
 hatta yarar katarak arar.
-Bugünün insanı orman için yangın,
+
+Bugünün insanı,
+orman için
+yangın,
 gürültü,
 ışık,
-elektromanyetik
-ve ambalaj pisliğidir.
-İnsan,
-ne bahaneyle olursa olsun,
-ormandan uzak dursun.
+elektromanyetik kirlilik
+ve ambalaj pisliği,
+ormandaki her tür için
+ölüm demektir.
 
-Yakınında piknik yapar,
-yangın çıkarır.
-Yol geçirir;
-izmarit atar,
-hayvan ezer,
-ormanı böler.
-Av için girer, can alır.
-
-Ormana ne yerleşim yapılır ne bina kurulur.
+Ormana,
+ne yerleşim yapılır, ne bina kurulur.
 Turizm otel, tesis de kurulmaz.
 İçinden, yakınından yol geçirilmez.
 Ormana maden sahası açılmaz,
 baraj yapılıp suyu alınmaz.
+
+İnsan,
+ne bahaneyle olursa olsun,
+ormandan uzak dursun.
+
+Çok canın çekiyorsa ormanda dolaşmak,
+önce fidanları büyüt,
+sonra dik binlerce, milyonlarca.
+
+Onlar yetişip orman olduğunda
+sen de istemeyeceksin
+kimsenin girmesini o ormana.
 
 Orman satılmaz,
 kiralanmaz,
@@ -86,38 +96,6 @@ ne de devletlerin malıdır.
 Orman bütün dünyanın,
 bütün canlıların ortak vatanıdır.
 
-Kökü incitmeyeceğiz;
-gövdeyi yaralamayacağız;
-dalı kırmayacağız.
-Ağaç yalnız odun değildir,
-yerle göğü bağlayan sütundur.
-
-Çok canın çekiyorsa ormanda dolaşmak,
-önce fidanları büyüt,
-sonra dik binlerce, milyonlarca,
-sonra büyüt, sonra koru bakalım.
-Onlar yetişip orman olduğunda
-sen de istemeyeceksin kimsenin girmesini o ormana.
-Bir tane düşüncesiz kampçının canının çektiği bir sigara,
-gece üşüdü ya da romantik olsun diye yaktığı ateş,
-koskoca bir ormanı küle çevirir.
-Ya mangalcılar\!
-O büyüttüğün ormana bakalım misafir kabul edecek misin?
-
-Ormanı yakmak yerine koru,
-uçağından helikopterine yerde gökte,
-her türlü erken uyarı ve söndürme ekibin alarmda olsun.
-Silahlanmaya konfora harcadığının onda birini harcasan,
-yer gök ağaç olur, orman olur,
-ey aklıyla övünen insan\!
-
-Ormanları genişlet ve birbirine bağla ki;
-tohum,
-kurt kuş,
-rüzgar aksın birinden ötekine,
-yalnız orman,
-yalnız insan gibi yaşayamaz.
-
 Her adağın öldürmek değil,
 yaşatmak olsun,
 tohum olsun,
@@ -126,7 +104,8 @@ Yeni doğanlar ve ataların için ağaç ve koruluk yap.
 Bil ki sen 100 tane ağaç dikersin,
 o koruluk olur,
 milyonlarca başka cana can verir.
-Bütün bu yaşama sebep olursun. “Ne güzel bir sebeptir o\!”
+Bütün bu yaşama sebep olursun.
+“Ne güzel bir sebeptir o!”
 
 Yanan bir meşenin çığlığını,
 yere devrilen,
@@ -140,24 +119,25 @@ Dal kessen dahi,
 gün doğusunun alazında arın;
 Yaratıcıya toprak için şükret,
 yeni canlara sebep ol.
-S**açı saç**,
 tohum saç,
 fidan dik,
 kurda kuşa armağan bırak.
+Saçı geleneğini hatırla.
 
-Orman,
-insan eli değmeden,
-özgür döngüsünde var olacak.
-Kereste için,
-kavak, bambu gibi hızlı büyüyen türler ek;
-Kendi tarla toprağını iyi ve geri dönüştürerek kullan.
+Ormanları genişlet ve birbirine bağla ki;
+tohum,
+kurt kuş,
+rüzgar aksın birinden ötekine,
+yalnız orman,
+yalnız insan gibi yaşayamaz.
 
-Kağıt ve başka orman ürünlerine,
-ihtiyacını azalt ki kesmen gerekmesin.
-İyi kullanırsan,
-sana tarım artıkları bile yeter.
+Birleşen ormanlara Etügen diyeceğiz yeniden.
+Kökü incitmeyeceğiz;
+gövdeyi yaralamayacağız;
+dalı kırmayacağız.
+Ağaç yalnız odun değildir,
+yerle göğü bağlayan sütundur.
 
-Ormanı kesme yerini dolduramazsın.
+Ormanı yok etme, yerini dolduramazsın.
 
 **İnsansızlık, ormanın hakkıdır.**
-

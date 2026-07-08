@@ -24,7 +24,7 @@ Her biri kendi ocağının kapısında bekçidir.
 sevdiklerini,
 topluluğunu
 korumak için çitler, duvarlar, kaleler, ordular
-kurdu, yasalar, sözleşmeler  yazdı.
+kurdu, yasalar, sözleşmeler yazdı.
 
 Ama çoğu zaman unutuyor:
 Gerçek güvenlik,
@@ -59,7 +59,7 @@ devlet,
 din,
 mezhep, renk,
 dil, köken
-herşeyi kullanıyor,
+her şeyi kullanıyor,
 her inancı,
 her farklı olanı kaşıyorlar.
 
@@ -96,7 +96,7 @@ kuş oldu uçmaya vardı.
 Ne çok orman yandı,
 ne çok şehir harap oldu.
 
-Ama yine and olsun ki,  tehlike geldiğinde:
+Ama yine ant olsun ki, tehlike geldiğinde:
 "Canıma kıymaya gelen, kendini sorgulasın.
 Ben özümü ve sevdiklerimi korurum;
 kutlu olanı savunurum."

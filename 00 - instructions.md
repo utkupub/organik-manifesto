@@ -9,6 +9,14 @@ Bu kılavuz, manifesto metninde noktalama birliğini korumak için kullanılır.
 - Metinler tek tek not değil, kitaplaşacak bir bütünün parçası olarak ele alınır.
 - `00 - instructions.md` yalnızca yönlendirici kuralları içerir; manifesto metni bu dosyada yazılmaz.
 
+### 0.1 `04 - yola-cikis.md` Şiiri ve Dağıtılmış Başlangıç Parçaları
+- `04 - yola-cikis.md` içindeki şiir, kitabın ana açılış şiiridir; ilk taslakta daha uzun olan bu şiirin birçok ilgili parçası, okuru yormamak için Organik Haklar ve diğer ilgili bölümlerin başına dağıtılmıştır.
+- Bölümlerin başındaki italik, çoğu zaman `BU, ...` kalıbıyla başlayan şiirsel parçalar bağımsız süs, rastgele epigraf veya bölüm dışı alıntı gibi okunmaz.
+- Bu parçalar, `04 - yola-cikis.md` şiirinin kitabın içine serpilmiş devamı ve ilgili bölümün öz anlatısı olarak değerlendirilir.
+- Editoryal incelemede önce bu şiir parçasının bölüm gövdesiyle nasıl açıldığını kontrol et: baştaki imge alttaki metinde açıklanıyor, somutlanıyor veya etik bir hakka dönüşüyorsa korunur.
+- Bu şiir parçalarında halk dili, dobra söz, sert kelime veya doğrudan hitap varsa, bunlar metnin genel sesiyle uyumlu olduğu sürece yumuşatılmaz.
+- Bir bölümde başlangıç şiiriyle gövde arasında bağ zayıfsa, parçayı silmek yerine gövdeye küçük bir köprü, somut imge veya mühür cümlesi öner.
+
 
 
 
@@ -76,6 +84,7 @@ Bu kılavuz, manifesto metninde noktalama birliğini korumak için kullanılır.
 - Metin yalnızca teşhis etmez; çözüm, sorumluluk ve eylem çağrısı da taşır.
 - Kutsal, emanet, ruh, onur, adalet gibi değer yüklü sözcükler metnin omurgasında kalır.
 - Aşırı gündelik, reklamsal veya tüketim odaklı slogan dili kullanılmaz.
+- `hakkı`, `hakdır` ve `canlıya haktır` gibi kullanımlar aynı şey gibi otomatik düzeltilmez. `hakdır`, standart imla dışı görünse de bilinçli kullanıldığında verilmiş bir hakkı değil, zaten var olan, doğal, kutsal veya kozmik hüküm niteliğindeki hakkı hissettirir; özellikle yemin, kut, gök, can ve kutsallık tonunda korunur. `her canlıya haktır` gibi yönelme ekiyle kurulan ifadeler de bazı yerlerde kutsal kitap çevirisi tadı taşıyan arkaik/hüküm dili olarak okunur; bu kullanımlar hata sayılmadan bağlama göre korunur.
 
 ### 7.3 Özne-Fiil Yerleşimi ve Vurgu
 - Türkçe doğal düzende fiilin sonda birikimli vurgu yaratması korunur.
@@ -140,6 +149,7 @@ Bu kılavuz, manifesto metninde noktalama birliğini korumak için kullanılır.
 - Her bölümde en az bir duyusal tasvir (ses, koku, dokunuş, ışık, sıcaklık) kullan.
 - Her bölümde kapanışı bir yemin, şahitlik veya kolektif çağrı ile bağla.
 
+
 ### 8.5 Uyum Skoru (Hızlı Değerlendirme)
 - Aşağıdaki 6 ölçütten her biri 1 puan üzerinden değerlendirilir:
   - Epik-şiirsel ritim var mı?
@@ -151,3 +161,49 @@ Bu kılavuz, manifesto metninde noktalama birliğini korumak için kullanılır.
 - 0-2 puan: bölüm ton dışı; yeniden yazım gerekir.
 - 3-4 puan: kısmi uyum; vurgu satırları güçlendirilir.
 - 5-6 puan: yüksek uyum; yalnızca ince ritim düzeltmesi yapılır.
+
+
+## 9) Haklardan Sonrası Ritim ve Sıkılaştırma Raporu
+- Bu bölüm, haklar dizisinden sonraki metinleri çalışmak için geçici editoryal not olarak kullanılabilir.
+- Öncelik sırası: önce `44 - bolum-a-insan-olmak.md`, sonra `45 - bolum-isgalimsin.md`, sonra `49 - gri-anka.md`.
+- `46 - bolum-akil-beden-uyum.md` ve `50 - yolun-sonunda.md` daha ince ayar ister.
+- `48 - bolum-itiraf.md` büyük ölçüde yerinde; fazla kısaltılmamalıdır.
+
+### 9.1 A++ İnsan Olmak
+- `44 - bolum-a-insan-olmak.md` içinde 74. satır civarında başlayan "Daha büyük, daha geniş..." tüketim listesi iyi çalışıyor; ancak hemen ardından kredi kartı, banka borcu, karbon, plastik ve atık listeleri geliyor.
+- 74-106 arası aynı fikri birkaç biçimde söylüyor: insan tüketici ve borçlu. Bu bölüm sıkıştırılırsa ritim güçlenir.
+- 117. satır civarında metin kendi tekrarını yakalıyor: "Gereksiz tekrar..." Bu iyi bir bilinç anı; fakat ardından metin gerçekten tekrar etmeye devam ediyor.
+- Bu noktadan sonra bölüm hızlanmalı ya da daha kişisel, daha çarpıcı bir kırılmaya geçmeli.
+- 146-202 arası uçurum, nükleer, kanser, kıtlık, nüfus, ev/otomobil hesabı, hava durumu, sel ve yangın zinciri kuruyor.
+- Bu zincirdeki tek tek imgeler güçlü; birlikte okunduğunda envanter hissi doğuruyor. En sert 2-3 imge seçilirse bölüm daha vurucu olur.
+
+### 9.2 İşgalimsin
+- `45 - bolum-isgalimsin.md` içinde 56-115 arası bölümün en riskli yeri.
+- Baraj, rüzgar türbini, güneş tarlası, su havzası, bataklık, maden, bomba, radyoaktif atık, fabrika, uydu, otel, GDO, mercan ve iklim aynı suç kataloğunda art arda geliyor.
+- Bu ritim bilinçli bir işgal dökümü gibi çalışıyor; fakat fazla uzarsa okur görüntüleri seçemeden geçiyor.
+- Kalması en güçlü imgeler: maden yarası, radyoaktif dışkı, geceyi kıtalarla ışıkla doldurmak, ıstakozların donuk gözleri.
+- Daha düz kalan teknik liste satırları azaltılabilir.
+- 131. satırdan sonra çözüm fikri başlıyor ve çok değerli. Bu kısım daha kısa tutulup `46 - bolum-akil-beden-uyum.md` bölümüne pas veren bir köprüye çevrilebilir.
+
+### 9.3 Akıl, Beden, Uyum
+- `46 - bolum-akil-beden-uyum.md` içinde 70-100 arası şehir, mahalle, ulaşım ve enerji önerileri iyi; ancak yer yer açıklayıcı plana yaklaşıyor.
+- Bu bölüm kısa süreliğine şiirsel manifesto tonundan kentsel tasarım notuna kayıyor.
+- 115-131 arası "Bu tepki sana..." tekrarları hoş; fakat iki üç örnek fazla.
+- En güçlü dört örnek kalsa ritim daha diri olur: balkon, kedi, kamp/ateş, çimen kokusu veya gün doğumu.
+
+### 9.4 Gri Anka
+- `49 - gri-anka.md` içinde 37-54 arası Nuh'un Gemisi, bilgi, yüzlerce gemi, Ağrı Dağı ve kargalar fikrini art arda büyütüyor.
+- İmge iyi; ancak biraz açıklanıyor. Daha az cümleyle daha mitik kalabilir.
+- 56-69 arası "aklın başa gelmesi / beyin / kibir" fikri iki kez dönüyor.
+- Bu kısım sıkılaştırılırsa kapanışın gücü artar.
+
+### 9.5 Yolun Sonunda
+- `50 - yolun-sonunda.md` güçlü bir ant metni gibi çalışıyor.
+- 30-44 arası tohum, çocuk, hasta, komşu, yolcu, hasat, adak ve can borcu biraz madde madde akıyor.
+- Tamamen kesilmemeli; fakat tören dili güçlendirilip liste hissi azaltılabilir.
+
+### 9.6 İtiraf
+- `48 - bolum-itiraf.md` içinde 37-46 arasındaki yer adları listesi uzun; ancak burada çalışıyor.
+- Çünkü itirafın "duydum ama yapmadım" ağırlığını büyütüyor.
+- Bu bölüm fazla kısaltılmamalı.
+- Gerekirse coğrafya listesinden yalnızca bir iki yer azaltılarak daha hızlı yapılabilir.

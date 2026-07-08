@@ -12,7 +12,7 @@
 Her canlı,
 doğal hakları çiğnendiğinde,
 hak arama,
-adalet  isteme hakkı vardır.
+adalet isteme hakkı vardır.
 
 Bir tavuk,
 tilkiye karşı,
@@ -24,14 +24,13 @@ Bir balinayı,
 bir ayıyı acımasızca katledenlere karşı
 “demir çoban” hala yüzebiliyorsa;
 gün gelir,
-bir tavuğun hayatı hatta darı ambarı hayali için
-“demir kadın” koşar.
+bir tavuğun hayatını savunan da olur.
 
 Hem hassas,
-herkes için eşitlikçi,
-Boşuna mı,
+hem herkes için eşit olmalıdır.
+Boşuna mı
 o kadının gözleri bağlı,
-elinde terazi\!
+elinde terazi?
 
 Adalet,
 yalnızca insanlara özgü değildir;
@@ -60,7 +59,4 @@ Bu yalnızca doğa kanunu değil,
 Gök hep şahit olmuştur ki,
 adaletin olmadığı yerde,
 öfke büyür, denge bozulur.
-
-Doğa barış sunmaz.
-
-##
+Hak öyle ya da böyle yerini bulur.

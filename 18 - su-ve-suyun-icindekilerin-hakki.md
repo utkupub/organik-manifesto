@@ -1,21 +1,20 @@
-## **SU ve SUYUN İÇİNDEKİLERİN HAKKI** {#su-ve-suyun-i̇çi̇ndeki̇leri̇n-hakki}
+## **SU ve SUYUN İÇİNDEKİLERİN HAKKI**
 
-Su, okyanus, deniz ve göller yaşamın ilk soluğu.
+*BU, DENİZLERDEKİ AĞITLARA KULAK VERMEKTİR.*
+
+Su,
+okyanus, deniz ve göller yaşamın ilk soluğu.
 
 Sünger, inci, mercan gibi
 kıymetli varlıklara el sürme.
+
 Ahtapot, yengeç, ıstakoz, midye;
-bu canları
 yemek ya da başka bir nedenle
 toplama.
 
 Avcılık, denizlerdeki yaşamın sonunu getirdi.
 Üreme döngüleri çökme noktasında.
-Denizlerde de
-avlanma
-artık.
-
-Balık için, temiz su çiftlikleri kurmaya mecbursun.
+Denizlerde avlanma artık.
 
 Deniz kuşunu, memelisini, kaplumbağasını
 huzursuz etme.
@@ -34,6 +33,7 @@ Bütün bitkilerin canı bu suya bağlı.
 Sadece obruktan korkarsın
 ama çölleştireceksin
 her yeri.
+
 Kirletme yer altı sularını
 tuzla,
 tarım ilaçlarıyla.
@@ -45,11 +45,14 @@ gürültüyle doldurma.
 Karalar yetmedi,
 denizleri ekonomik alan diye sınırlamaya,
 tapulamaya başladın.
+
 Denizi de deldin,
 petrol için,
 gaz için.
+
 Ne çok boru döşedin,
 ne çok fiber.
+
 Gemilerin, tankerlerin,
 sonar ve makine gürültüsünden,
 balinaların şarkıları
@@ -57,9 +60,12 @@ duyulmaz oldu.
 
 Ne çok kirlettin,
 atıkla,
-petrolle,
-hepsi birbirine bağlı,
-suyun.
+petrolle.
+
+Atık da,
+petrol de,
+gürültü de,
+aynı suya karışır.
 
 Hava gibi,
 suyu da ısıttın.
@@ -70,4 +76,7 @@ Hele o nükleer denemelerin,
 askeri tatbikatların,
 ne balık bıraktı ne mercan.
 
-Suyun ve içindekilerin hakkına kulak ver.
+Su ve içindekilerin hakkını unutan insana,
+Naylon içinde yüzen,
+zehirli mikroplastik dolu balıklar
+müste-haktır.

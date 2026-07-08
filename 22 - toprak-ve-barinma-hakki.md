@@ -3,7 +3,7 @@
 *BU, ŞEHİRLİLERİN HAREKETİ DEĞİLDİR,*
 *BÜYÜYEN, TÜKETEN ŞEHİRLERİN ÜRETEN KÖYLERE DÖNÜŞÜMÜDÜR.*
 
-Görmezmisin, karıncadan arıya,
+Görmez misin, karıncadan arıya,
 tilkiden baykuşa,
 köstebekten balığa,
 timsaha kadar,
@@ -22,12 +22,12 @@ Bir canlının yuvasını bozmak,
 yuvasından sürmek,
 en ağır günah sayılır.
 Yuvasından çıkmaya zorlanan her canlı direnir,
-köstebekte, köpek te, yılan da, insan da.
+köstebek de, köpek de, yılan da, insan da.
 
 Elbette o güzel insanların da,
 kendisini,
 yavrusunu doyuracak,
-geçimini sürdürecek**,**
+geçimini sürdürecek,
 toprağa ve barınağa hakkı vardır.
 
 Yuvanı yaparken orada var olan canları sokağa atma,
@@ -36,7 +36,7 @@ Mümkünse, bir ağaç bile kesme.
 Zorda kalırsan önce taşımaya çalış.
 Eğer kesmek zorunda kalırsan,
 can borcunu aynı bölgede
-hemen yanı başında çok daha fazlasını dikerek öde.
+hemen yanı başına çok daha fazlasını dikerek öde.
 Yuva için,
 asla bir evlek alandan fazlasını işgal etme.
 Yuvanı beton yığını haline getirme.
@@ -44,7 +44,7 @@ O toprak sana emanettir,
 sen de o toprağa emanetsin.
 Her can bir gün toprağa dönecektir.
 
-Yuvanı, evini, bahçesini mütevazi yap.
+Yuvanı, evini, bahçeni mütevazı yap.
 Yuvada ne lazımsa ancak o kadar.
 Suyu ziyan etme,
 mümkün olduğunca gıdanı bahçende üret.
@@ -54,7 +54,7 @@ Başkasının yuvasına,
 yurduna,
 obasına asla rızasız girme,
 hep ön kapıdan selamlayarak,
-eşiklere basarak başını eğerek gir.
+eşikten geçerken başını eğerek gir.
 
 Yuvan evin senin ailen için bir kaledir,
 lakin duvarlarını alçak tut.
@@ -81,5 +81,3 @@ Hepsine aynı saygıyı göster.
 
 Dünya çok geniştir;
 açgözlülük olmasa hiçbir canlıya darlık düşmez.
-
-##

@@ -12,6 +12,12 @@ bir gün gözlerini kapatır.
 Kimi için çok erken,
 kimi için ise geç.
 
+Birbirini yiyen, 
+tüketen her can bir döngüdedir.
+Ölüm yaşamın karşıtı değil, devamıdır.
+Ölmek, 
+doğmak kadar doğal bir tekrardır.
+
 O hüzünlü günde,
 belki bir solucan bir böcek gözyaşı dökmez ama,
 filler, köpekler, kargalar, maymunlar;
@@ -22,37 +28,34 @@ yas tutar, dürter, yalar, ağlar, ulur.
 **hakkını verme** vardır doğada.
 
 Ölen yavrusunu terk eden fil,
-ne kadar iç paralar\!
+ne kadar iç paralar!
 Ama yine de hayat devam eder.
-
-Kaçınılmaz olduğu gibi,
-onurlu bir ölüm de,
-her can için **bir haktır**.
 
 İnsan için,
 ölümü kabul etmek daha zor.
 Akıl ölüme karşı bir üstünlük sağlamaz,
 aksine zorluk çıkarır.
 
-Bu zorlukla baş edebilmek için,
-ölümü suskun,
-soğuk bir beden yerine,
-yaratıcısına,
-gölgelere,
-toprağa karışan bir ruh,
-gömülen bedeni de,
-toprağa yeniden doğmak için
-bir fidan tohumu olduğuna fikrine tutunur.
+Suskun, soğuk bir beden.
+Yaratıcısına, gölgelere
+karışan bir ruh.
+
+Toprağa atılan,
+yeniden doğacak bir tohum.
 
 Ölüm uykusunda da,
 sevdiklerinize yakın olunuz.
 
 Bu geride kalanlar için de
-mutlak bir vazife kolaylığıdır.
+mutlak bir kolaylıktır.
 
 Bazı hastalıklar vardır ki,
-kurtulma ümidi olmayan yaşam,
-artık sadece acıdan ibarettir.
-O vakit,
-can sahibinin onurlu vedasını istemesini,
- anlamak gerekir.
+kurtulma ümidi yoktur.
+Can sahibinin,
+acıdan başka yol kalmadığında,
+onurlu vedasını istemesini
+anlamak gerekir.
+
+Kaçınılmaz olduğu gibi,
+onurlu bir ölüm de,
+her can için **bir haktır**.

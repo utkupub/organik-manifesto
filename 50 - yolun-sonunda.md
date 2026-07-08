@@ -1,4 +1,4 @@
-# **YOLUN SONUNDA** {#yolun-sonunda}
+8. # **BÖLÜM \- YOLUN SONUNDA** {#bölüm---yolun-sonunda}
 
 Gök, Yer–Su tanık olsun ki:
 Her atık toprağa dönüşecek,

@@ -8,30 +8,54 @@
 *Kuşlar da geçmez oldu üstümüzden.*
 *Buralara yazacağız defalarca bu güzel kelimeyi.*
 
-Mutluluk için önce özgürlük gerek\!
+Mutluluk için önce özgürlük gerek!
 Kime sorsan, bambaşka haykırır onun adını,
 Hükmedeni görmedin mi, ne çok korkar ondan.
 Seçebilmek özgürlük müdür?
 Hadi seç bakalım, yaşayacağın apartmanın katını, cephesini.
 Hadi seç bakalım, atılacağın zindanı.
-Hadi seç bakalım, çocuklarından mı, hayatından mı vazgeçeksin\!
+Hadi seç bakalım, çocuklarından mı, hayatından mı vazgeçeksin!
 
-Özgürlük, beton duvarlar arasına sıkışmış bir parkta dolaşabilmek de değildir.
-Bazen, seni doyuran toprağın bağrında, kimsenin karışmadığı, sazdan samandan da olsa bir barınak yapabilmektir. Satın almamayı seçip, o toprakta yetiştirdiğin bir domates seni özgür kılabilir. Bahçede çalışıp yorgunlukla demlediğin çayda özgürlüğün tadına bakarsın.
+Beyaz güvercinler,
+beton duvarlar arasına sıkışmış bir parktan hiç havalanmadı.
+
+Bozkırın tezenesi çağırdığında,
+ılık, tozlu rüzgâr geldi aklına.
+
+Açık bozkırda küçücük bir barınak
+seni daha çok özgür kılabilir.
+Çalı çırpıyla çevirdiğin sebze bahçenden
+bir domates seni özgür kılabilir.
+Toprağın yüzünü tırmaladıktan sonra,
+kucağına tırmanan kedinin mırıltısına elini sokup,
+dibi kararmış çaydanlıkta
+demlediğin bir bardak çayda
+özgürlüğün tadına bakarsın.
+
 O toprak, o gök, o su senin değildir.
-Söylenenlere bakma hiç kimsenin de olmadı\!
-Ama nefes aldığın sürece, sen onlarınsın onlar da senin parçan.
+Söylenenlere bakma, hiç kimsenin de olmadı!
+Ama nefes aldığın sürece,
+sen onlarınsın, onlar da senin parçan.
 
-Özgürlük, saatlerini satışa çıkarmak ya da patron seçmek değildir. Özgürlük patronsuz, müdürsüz sevdiğin iş ile geçimlik sağlayabilmektedir. Emeğini harcadığında karşılığını adaletle alabilmektir.
+Özgürlük,
+saatlerini satışa çıkarmak ya da patron seçmek değildir.
+Özgürlük patronsuz,
+müdürsüz sevdiğin iş ile geçimlik sağlayabilmektir.
+Emeğini harcadığında karşılığını adaletle alabilmektir.
 
-Özgürlük, araba markası değildir.  İşe gitmeye çalışırken tercih ettiğin yollarda değildir. Direkt ya da bilinçaltına yönlendirilmiş seçkilere, “Hayır” diyebilmektir.
+Özgürlük,
+bilinçaltına sızdırılmış seçeneklere “Hayır” diyebilmektir.
 
-Yeni, güzel, hızlı ve konforlu şeylere sahip olmak seni özgürleştirmez. Seni özgürleştiren şey bunlara bağımlı olmamaktır.
+Bir ayının, bir çakalın, bir ağacın
+yüzme havuzu yok!
+Bir yuvası, yavruları, bir avuç toprağı;
+başka neyi var?
+Süslü giysileri, aradığı başka tatları da yok!
 
-Hangi hayvanın arabası, hangi ağacın yüzme havuzu var\! Özgürlük, gereksiz yüklerinde kurtulmaktır. Dileğince çalışıp, dilediğinde tembellik yapabilmektir.
-
-Bir ayı, bir çakalın, yuvası ve yavrularından başka neyi var?
-Süslü giysileri, her öğünde aradığı başka tatlarda yok\!
+Özgürlük,
+gereksiz yüklerinden kurtulmaktır.
+Dileğince çalışıp,
+dilediğinde tembellik yapabilmektir.
 
 Özgürlük,
 sınırsızca tüketmek,
@@ -41,46 +65,80 @@ veya sıkılınca yok etmek değildir.
 Tükettiğimiz kadar borçlu, bir o kadar köleyiz...
 
 Özgürlük,
-öldürebilmek, başkasının hakkını çalabilmek de asla değildir.
+öldürebilmek,
+başkasının hakkını çalabilmek de asla değildir.
 Adalet yoksa, özgürlük de yoktur.
-Özgürlük çalınmaz\!
-Bunun için asılsan da, salıncakta sallansa da sadece özgür olunur.
+Özgürlük çalınmaz!
 
-Bazen sınırsız, denetimsiz bir başıboşluk halinde yollarda yumruk kaldırmaktır.
-Bazen hayallere düşen turuncu fırçanın tuvaldeki  darbesidir.
-Onun için ne bedeller ödendi bir bilsen.
-“Ya istiklal, ya ölüm\!” dedirtecek keskindir onun yoksunluğu.
+Bazen,
+yollarda yumruk kaldırmak,
+Bazen,
+hayallere düşen turuncu fırçanın duvardaki darbesidir.
 
-Özgürlük, bir hamakta akşama kadar yatabilmek, otların arasında günlerce yürüyebilmektir.
+Özgürlük adına,
+ne bedeller ödendi!
+“Ya istiklal, ya ölüm!” dedirtecek keskindir,
+onun yoksunluğu.
 
-İlk nefesimizde özgürdük, bu koca sosyal çöplük köleleştirdi hepimizi. Bitmek bilmeyen arzularımızın esiriyiz.
+Bu yolun sonunda,
+Salıncakta sallanmak da var,
+Dar ağacında sallanmak da!
 
-Başarısızlık, korku, endişe salgın bir hastalık, biricik aklımızın zindanı.
+Özgürlük,
+bir hamakta akşama kadar yatabilmek,
+otların arasında günlerce yürüyebilmektir.
 
-Apartmanların arasında; yarım saat güneş gören bir sardunya kadar huzurlu, çöplerin arasından yemek artığı bulan bir tekir kadar mutlu, yarı aç yarı tok gezen, çükleri kesilmiş ve küpelenmiş sokak köpekleri kadar özgürüz.
+İlk nefesimizde özgürdük,
+bu koca sosyal çöplük köleleştirdi hepimizi.
+Bitmek bilmeyen arzularımızın esiriyiz.
 
-Özgürlük, konuşabilmek, susabilmek, duyabilmek ve dinleyebilmektir. Okuyabilmek, yazabilmek, çizebilmek, boyayabilmek, keşfedebilmek, yeniden yaratabilmektir.
-Akıllara erişebilmek, Gök’ün altında, Yer’in üstündeyken nerede duracağın söylenmeden yürüyebilmek, haykırıp bağırabilmektir.
+Başarısızlık,
+korku, endişe salgın bir hastalık,
+biricik aklımızın zindanı.
 
-Coğrafyana kafa tutabilmek, içine doğduğun kültüre ve dine tabii ya da aykırı olabilmektir.
+Apartmanların arasında;
+yarım saat güneş gören bir sardunya kadar
+huzurlu,
+çöplerin arasından yemek artığı bulan bir tekir kadar
+mutlu,
+yarı aç yarı tok gezen,
+çükleri kesilmiş ve küpelenmiş sokak köpekleri kadar
+özgürüz.
 
-Biyolojine kafa tutabilmek ve rengine kendin karar verebilmendir. Dostluğun ve aşkın sınırına da ve sınırsızlığı da karar verebilmektir.
+Özgürlük,
+konuşabilmek, susabilmek, duyabilmek ve dinleyebilmektir.
+Okuyabilmek, yazabilmek, çizebilmek, boyayabilmek,
+keşfedebilmek, yeniden yaratabilmektir.
 
-Sahile çadır atıp, gece sabaha kadar gökyüzünde yıldızları seyredip, saatlerce yüzebilmektir.
+Akıllara erişebilmek,
+Gök’ün altında,
+Yer’in üstündeyken nerede duracağın söylenmeden yürüyebilmek,
+haykırıp bağırabilmektir.
 
-Şekillendirilmiş çoğulcu demokrasilerde, A, B ya da C tarafından yönetilmeyi değil; “E, hiçbiri” diyebilmektir. Hatta yönetilmemeyi seçebilmektir.
+Coğrafyana kafa tutabilmek,
+içine doğduğun kültüre ve dine bağlı
+ya da aykırı olabilmektir.
 
-Kimseye hesap vermeden saçını istediğin renge boyayabilmek, kazıtmak veya kapatabilmektir.
+Biyolojine kafa tutabilmek,
+rengine kendin karar verebilmendir.
+Dostluğun ve aşkın sınırına,
+hatta sınırsızlığına karar verebilmektir.
 
-Kalbinin ritmine uygun, dilediğince yaşayabilmektir.
+Sahile çadır atıp,
+gece sabaha kadar gökyüzünde yıldızları seyredip,
+saatlerce yüzebilmektir.
+
+Şekillendirilmiş çoğulcu demokrasilerde,
+A, B ya da C tarafından yönetilmeyi değil;
+“E, hiçbiri” diyebilmektir.
+Hatta yönetilmemeyi seçebilmektir.
+
+Kimseye hesap vermeden,
+saçını istediğin renge boyayabilmek,
+kazıtmak veya kapatabilmektir.
+
+Kalbinin ritmine uygun,
+dilediğince yaşayabilmektir.
 
 **Özgürlüğümüzü çalanlara lanet olsun.**
-
-#
-
-
-
-
-
-
 

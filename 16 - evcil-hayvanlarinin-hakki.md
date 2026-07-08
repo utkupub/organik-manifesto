@@ -5,21 +5,42 @@ yükünü taşıdı,
 yumurta, süt verdi,
 hatta sana can verdi,
 et oldu.
-Sadece postlarını, derilerini almak için bir cana kıyılır mı?
-Başka maksatla da çiftliklerinde hayvan besleme.
-Deniz ve göl çiftlikleri dışında,
-kümes, besi alanı veya yaylaktan yetişmeyen hayvanları
-sofrana koyma.
-Doğa artık tavşanları, çullukları, balıkları yerine koyamıyor.
+
+Dövülmeyi,
+eziyet edilmeyi,
+sürekli bağlanmayı
+hak etmek için ne yaptılar?
+
+Tavuğun da, davarın da
+alacağı var bu dünyadan.
+Hüküm senin mi!
+
+Gezmek, dolaşmak,
+çayırda bayırda yatmak otlamak,
+havayı koklamak,
+onlara hakdır.
+
+Balık çiftlikleri, kümes, besi alanı
+yahut yaylakta yetişmeyen hayvanları
+artık sofrana koyma.
+
+İnsanın sofrasına,
+artık yaban girmesin.
+Doğa tavşanları, çullukları, balıkları
+yerine koyamıyor.
 
 Beslenmek için bir can alındıysa,
-derisini, kemiğini, iliğini ve iç organlarını değerlendir;
-bu, o cana karşı
-vicdan borcudur.
-Canı almadan önce eğil; önce o candan, sonra göğe af dile.
+derisini, kemiğini, iliğini
+her şekilde değerlendir.
+Bu, ölene karşı vicdan borcudur.
+
+Canı almadan önce eğil;
+önce o candan, sonra göğe af dile.
+
 En azından fark ettirmeden,
 acı çektirmeden
 çabuk öldürmeye çalış.
+
 Diğerlerine gösterme;
 hayvan da olsa,
 hepsi korkuyu bilir.
@@ -28,35 +49,42 @@ Her lokma,
 onun yaşamına mal olmuş bir borçtur.
 Bu borç nasıl ödenecek?
 Onun can hakkını ödeyemezsin.
-O, senin ve neslin için istemeyerek de olsa öldü.
 
-Ancak saçıyla vicdanını rahatlatabilirsin.
-Bu alınan cana karşılık misliyle doğaya can verilir.
+Bu borç,
+alınan cana karşılık,
+doğaya misliyle hayat vermekle olur.
+Saçı geleneğini unutma!
 
 Eti keyif veya bolluk için değil;
 bedenin gerektirdiği ölçüde ye.
+
 Yerine başka bir şey koyabildiğin sürece
 artık hayvan tüketme.
 
-Çiçekle, arı karşılıklı yarar sağlar.
-İnsan da, en azından hayvanlarla böyle bir ilişki geliştirmeli.
-Ama insan açgözlü ve umursamaz.
+Sadece
+kürkü, postu, derisi için hayvan beslemek
+caniliktir.
 
-İnsan nüfusu 8 milyarı geçti.
-Doğada neye dokunsa kurutur oldu.
-Böyle bir bolluk ve açlık bir arada hiç görülmedi.
+Başka maksatla da
+çiftliklerinde hayvan besleme.
 
-Bilim,
-can öldürmeden
-insanın karnını ve aklını doyuracak
-yollar bulsun.
+Güzellik, süs ya da boş heves için
+hiçbir canı denek etme.
 
-“Yıldızları, gökleri, yeri, suyu ve içindekileri Yaratan,
-canına kıydıklarımız için
-insanı affetsin\!”
-
-Yüzeysel güzellik ürünleri, sağlık ürünü veya ilaç sayma.
-Böyle bir sebeple
-solucan da, fare de olsa, tavşan da olsa,
-cana kıymak, eziyet etmek ve test yapmak
+Solucan da, fare de olsa, tavşan da olsa,
+cana kıymak,
+eziyet etmek ve denek yapmak
 büyük zalimliktir.
+
+Yılan derisi kemerlere,
+Timsah derisi ayakkabılara, çantalara,
+Samur kürklere,
+Vizon mantolara,
+yemin olsun ki,
+acımasızlıkta,
+insanın hiç sınırı yok.
+
+“Yıldızları,
+gökleri, yeri, suyu ve içindekileri Yaratan,
+canına kıydıklarımız için
+insanı affetsin!”

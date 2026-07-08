@@ -1,21 +1,30 @@
 ## **BÖCEKLERE SAYGI** {#böceklere-saygi}
 
-Tarihte en çok ölümden sorumlu şey sivri sinekmiş.
-Hemen bataklıkları kurutalım\!
+*BU, SİVRİSİNEĞİN DE,*
+*BOKBÖCEĞİNİN DE,*
+*BAL ARISININ DA,*
+*ÖRÜMCEĞİN DE*
+*YERİNİ FARK ETMEKTİR.*
+
+Tarihte en çok ölümden sorumlu şey sivrisinekmiş.
+Hemen bataklıkları kurutalım!
 
 Ağaçlarımızı bit sardı.
-Hemen ilaçlayalım\!
+Hemen ilaçlayalım!
 
-Domatesin kökünü kesti. Hemen zehirleyelim\!
+Domatesin kökünü kesti.
+Hemen zehirleyelim!
 
-Tek yararlı böcek, balarısı senin gözünde.
+Tek sevdiğin böcek,
+bal arısı, kelebek.
 
-Aklı kısa olanın, göğün altında ömrü de kısa olurmuş.
+Ömürleri kısa olsa da,
+bütün kuşların, 
+minik canlıların
+gıdası onların üzerine dönüyor.
+Büyük olanın lokması da
+minik olanlardan geçer.
 
-Her şey insanla alakalı değil,
-dünya insanın etrafında dönmüyor.
-Bütün besin zinciri
-böceklerin üzerinde dönüyor.
 Toprağı, suyu, havayı dirilten,
 dengeyi koruyan şey,
 sen tiksinsen de, korksan da,
@@ -26,18 +35,23 @@ fazlası ya da eksikliği,
 doğayı eksiltir
 ya da azdırır.
 
-Görmedin mi, çekirgeler kaç kere geçti buralardan?
-Böceği uzaklaştırmak gerekirse tül kullan.
-Kokulu çiçek veya kalkan bitki seç.
-Doğal savunmayı yeğle.
-Unutma,
-böceği öldüren zehir,
-er geç
+Görmedin mi! 
+Çekirgeler kaç kere geçti buralardan?
+
+Böceği dışarda tutmak için tül, 
+kovmak için kokulu bitki lazım.
+
+Tarım yapacağım diye
+bütün canlıları öldürme.
+Böceği öldüren zehir,
+er geç,
 sana da dokunur.
 
 Sığ suyu, bataklığı kurutma.
 Orası böceğin yuvasıdır.
-Senin bahçen değil,
-rekreasyon alanı da değil.
+Senin bahçen yahut 
+rekreasyon alanı değil.
 
-
+Bataklık da,
+sığ su da,
+böceğe hakdır.

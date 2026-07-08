@@ -4,7 +4,7 @@
  *BU, NUH’UN GEMİSİNİN KARAYA OTURDUĞU ANDAKİ UMUTTUR.*
 
 Soyunu, neslini,
-geleceğe taşımaya çalışanları görmedin mi?.
+geleceğe taşımaya çalışanları görmedin mi?
 
 Bazısı farkındalıkla,
 bazısı içgüdüsel olarak,
@@ -15,7 +15,7 @@ dünya üstünde çabalar,
 
 İnsan soyu,
 bu çabadan
-ve çırpınmadan muaf mı?.
+ve çırpınmadan muaf mı?
 
 Geleceğini,
 çocuklarını,
