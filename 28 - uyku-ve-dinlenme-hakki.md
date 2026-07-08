@@ -6,21 +6,22 @@
 *ÜSTÜNDE DÖNEN AY VE YILDIZLARI FARK EDEBİLMEKTİR.*
 
 Bedenin,
-gecenin karanlığın çadırın dinlendiğinde,
+gecenin karanlık çadırında dinlendiğinde,
 ayın gölgesinde şifa bulur.
 Gözlerin kapandığında,
-uyku ve rüyanın kutsal ruhları gece boyunca,
+uyku ve rüyanın kutsal ruhları gece boyunca
 sabahın ışığına doğru yavaş yavaş yürür.
 Beden dinlenir,
 ruh onarılır.
 
-En son,
-ne zaman güneşi uğurladın dağların ardına.
-Hangi gece,
-Nefesini ayın soluk ritmine uydurdun.
-Kaç kere,
-yıldızların yavaş yavaş yer değiştirdiğini fark ettin.
-Yedi gökle olan bağlantını onarır hissettiklerin.
+En son
+ne zaman güneşi dağların ardına uğurladın?
+Hangi gece
+nefesini ayın soluk ritmine uydurdun?
+Kaç kere
+yıldızların yavaş yavaş yer değiştirdiğini fark ettin?
+Hissettiklerin,
+yedi gökle olan bağlantını onarır.
 
 Gündüzü, geceye taşıyabileceğini sanıyorsun.
 Güneşi soldurur, ayı küstürür oldun.
@@ -30,13 +31,13 @@ ne de karanlıktaki izlerini görüyorsun.
 İnsanın ve hükmü altındaki canlıların gecesi,
 artık yapay aydınlıkla,
 gürültüyle ve görünmez dalgalarla yaralandı.
-Seninle beraber her canlının ritmini bozmaya ne hakkın var.
+Seninle beraber her canlının ritmini bozmaya ne hakkın var?
 
 Uykunun ve rüyanın kapıları kapanıyor;
 herkes tedirgin,
 her canlı huzursuz.
 İnsan bedeni betonu geçip,
-toprağa kök salmıyor artık.
+toprağa kök salamıyor artık.
 
 Bilmez ki dinlenmeyi unutan,
 kendini unutur.
@@ -46,18 +47,19 @@ Sessizliğin bahçesinde kuş seslerinin yerini
 İnsan yalnız doğanın ritmine değil,
 kendi türüne de öfkeli;
 ikisini de cezalandırıyor.
-Çalışmak değil,
-ücretli kölelik yapıyor artık.
-Güneş doğmadan yollara düşüyor,
-güneş battıktan sonra yuvasına varabiliyor.
+Artık çalışmıyor;
+ücretli kölelik yapıyor.
+Güneş doğmadan yola düşüyor,
+güneş battıktan sonra yuvasına varıyor.
 
 Bir zamanlar,
 doğanın koynuna çekilenler için,
 kutlu gece genişler,
-yorgan gibi onları üstünü örterdi.
-Şimdilerde uyku alarmların sesiyle “kutsanıyor”.
+yorgan gibi onların üstünü örterdi.
+Şimdilerde uyku, alarmların sesiyle “kutsanıyor”.
 
-Toprağın üstündeki
+Dinlenmek,
+toprağın üstündeki
 kutlu canı dinlendirebilmek
 ve akan bulutların,
 dönen yıldızların farkına varmaktır.
@@ -65,52 +67,56 @@ Doğanın kendi hızında,
 bilgece yaşamak,
 yaşlanabilmektir.
 
-Bize dediler ki
+Bize dediler:
 “Makineler çalışacak, insan dinlenecek.”
 Oysa her yeni makine
-doğanın huzurunu
-ve insanın uykusunu biraz daha çaldı.
+doğanın huzurundan,
+insanın uykusundan biraz daha çaldı.
 Teknolojinin,
 endüstrinin,
 otomasyonun ve yazılımların
-getirdiği zenginlik yalnızca sahiplerine yaradı.
-Stres ve tüketim döngüleri kusursuzca işliyor.
+getirdiği zenginlik
+yalnızca sahiplerine yaradı.
+Stres ve tüketim döngüleri
+kusursuzca işliyor.
 
-Dinlenmek için,
-Neredeyse, imkansız bir emeklilik bekliyorsun.
+Dinlenmek için
+neredeyse imkânsız bir emeklilik bekliyorsun.
 
 Hayatlar para,
 tüketim ve mülk için yaşanıyor.
-İnsan yaşamı,
+İnsan,
 yavaşlığı,
 doğayı,
-dengeyi;
-ne canlı onurunu,
-ne de kendi mutluluğunu umursuyor.
+dengeyi,
+canlı onurunu
+ve kendi mutluluğunu umursamıyor.
 
 Kısıtlı kaynaklarla,
-ihtiyaca göre yaşamak zorunda olduğunu unuttu.
+ihtiyaca göre yaşamak zorunda olduğunu da unuttu.
 
 Kıştan yaza çıkarken,
-yazdan kışa girerken doğanın uyanışına
+yazdan kışa girerken
+doğanın uyanışına
 ve uykusuna değil,
-yalnızca dolabındaki giysiler için hazırlık yapıyor.
+yalnızca dolabındaki giysilere hazırlanıyor.
 
 Ve insan,
 ölüme doğru ne hızlı koşuyor.
-Artık insana dinleme hakkı, mezarda sadece.
+Artık insana dinlenme hakkı
+yalnızca mezarda.
 
-Dinlenirken karanlıkta, rüyalarda,
+Karanlıkta, rüyalarda dinlenirken
 ruhumuz için o ışığı arar dururuz.
 
-Ey! Havadakiler,
+Ey havadakiler,
 toprağın altında ve üstünde duranlar
-ve suyun içindekiler
-hepiniz tanık olun ki;
+ve suyun içindekiler,
+hepiniz tanık olun ki:
 
 Sessizlik,
 gece,
 karanlık,
 uyku,
 dinlenmek ve yan yana kalabilmek,
-hepinizin en doğal hakkıdır.
+her canlının en doğal hakkıdır.

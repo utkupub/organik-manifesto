@@ -20,32 +20,36 @@ Her yaşamın özü budur.
 Can, yerinde durmaz;
 ayak, yola düşmek ister.
 
-Hareket etmek, dolaşmak, gezebilmek,
-tavukların, davarların, ineklerin,
-köpeklerin, kedilerin, kuşların,
-Özellikle,
+Hareket etmek, dolaşmak, gezebilmek
+tavuklara,
+davarlara,
+ineklere,
+köpeklere,
+kedilere,
+kuşlara;
+özellikle
 duvarların arasına,
-tel örgülerin ardına hapsedilmiş
-betona mahkum,
+tel örgülerin ardına hapsedilmiş,
+betona mahkûm,
 odalara sıkışmış insan dahil
 bütün canlılara haktır.
 
-Sirkleri, 
-su parklarını, 
+Sirkleri,
+su parklarını,
 hayvanat bahçelerini
 eğlence sanırsın da
 o düşkün hallerini görmez misin?
 Senin hapishanelerini de
 dondurma yiyerek dolaşsalar
 sana eğlenceli gelir mi?
-Senin orada bulunman bir suçtandır,
+Senin orada bulunman suçtur;
 hayvanların suçu ne?
 
 İnsan,
-yeryüzünü adım adım yürüyüşünü yapmadan
-kendi ruhunu bulamaz,
-dünyayı tanır,
-görür anlar,
+yeryüzünde adım adım yürümeden
+kendi ruhunu bulamaz;
+dünyayı yürüdükçe tanır,
+görür, anlar,
 kıyaslar ve özgürleşir.
 
 Yürürken,
@@ -53,7 +57,7 @@ gözlerindeki kut,
 konduğu yerde yurt kurar.
 Yola düşünce,
 yoldaşlık eden,
-atlar ve kurtlardır,
+atlar ve kurtlardır;
 artık yol da onlara yuvadır.
 
 Yazlar ve kışlar boyu
@@ -82,7 +86,7 @@ güneyin sıcağına da.
 Yaban hayatının yolları,
 birbirine kavuşan damarlar gibi kesintisiz olmalı.
 İnsan izleri ise,
-ada ada;
+ada ada kalsın;
 köprüyle geçilsin,
 doğaya değmeden.
 Bil ki,
@@ -91,14 +95,14 @@ sadece ölüm getirir.
 
 Her kartal gönlündeki yöne uçar.
 Özgürlük sadece kartala değil,
-her canlıya,
-gök ve ötesi,
+her canlıyadır.
+Gök ve ötesi,
 suyun içi,
 yerin altı ve üstü
-ona haktır.
+her canın hakkıdır.
 
 Dilediği dağı, vadiyi, ırmağı,
-şehri hatta gezegeni, yıldızı,
+şehri, hatta gezegeni, yıldızı,
 kutla selamlayarak gezebilir.
 
 Tek izin,
@@ -107,7 +111,7 @@ yolun o büyük sahibinden istenir.
 Ama sakın unutma!
 Bastığın her toprak,
 bir başka canın yurdudur.
-Eşiklerden eğilerek geçilir; saygıyla gezilir,
+Eşiklerden eğilerek geçilir; saygıyla gezilir.
 
 Gidilen yerlerin kurallarına uy, iz bırakma.
 
@@ -130,4 +134,4 @@ Bu dünyada sen de zoraki bir yolcusun,
 unutma.
 
 **Mavi göklerin altında,**
-**her canlıya, dolaşma haktır.**
+**her canlı için dolaşmak haktır.**

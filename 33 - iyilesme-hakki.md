@@ -19,7 +19,7 @@ yaralandığında iyileşmek
 ve yaşamını sürdürmek ister.
 
 Bu arzu,
-doğanın ve varolanın ortak çığlığıdır.
+doğanın ve var olanın ortak çığlığıdır.
 
 Temiz toprak,
 temiz su ve temiz havanın yanında,
@@ -40,34 +40,37 @@ tüm canlıların doğal yaşam alanlarını
 ve onların yaşam hakkını
 korumak için de kullanmak zorunda.
 
-Bir ot bile olsa,
-bir kuş bile olsa
-o türü hasta eden,
-öldüren şeyi arayıp bulmak
-ve eğer bu yok oluşa sebep insansa
-aynı zamanda tedavi etmek zorundadır.
+İnsan,
+bir ot, bir kuş bile olsa,
+hasta eden neyse,
+öldüren neyse,
+arasın bulsun.
+
+Bu yok oluşun sebebi kendisiyse
+tedavisini de bulsun.
 
 İnsan bilmeli ki,
-soyu yok olmuş,
-yok olmak üzere binlerce,
-hatta on binlerce,
-hayvanın ve bitkinin toplu ölümünün,
-ya da hastalığının
-dolaylı yoldan
-ve hatta birçok zaman doğrudan
-sorumlusudur.
+soyu çoktan yok olmuş,
+ya da yok olmak üzere
+binlerce, hatta on binlerce,
+türün birincil sorumlusudur.
+
+Bu yükü,
+taşımak, hatırlamak ve kabullenmek
+insana neden ağır gelir?
 
 Gökyüzünde uçanlara,
 suyun içinde gezenlere,
-toprakta yürüyüp sürünenlere andolsun ki,
-bir solucanın,
-bir farenin
-yahut bir kedinin,
-bir ağacın yaşamı,
-bir insandan,
-bir insanın yaşamı da,
+toprakta yürüyüp sürünenlere ant olsun ki,
+
+Bir solucanın, farenin, kedinin,
+yahut ağacın yaşamı,
+herhangi bir insanın yaşamından daha az değerli değildir.
+
+Herhangi bir insanın yaşamı ise,
 rengi, dini, milleti farklı
 yahut zengin, bilgili veya otorite sahibi birinden
 daha az değerli değildir.
+
 Ama insan, değer cana biçerken,
 sadece kendi gözünden bakıyor.

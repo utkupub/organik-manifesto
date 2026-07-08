@@ -3,16 +3,19 @@
 *BU HAREKET,*
 *TÜRBANLI YA DA AÇIK KAVGASININ TARAFI DEĞİLDİR,*
 *BU, KADINA,*
-*TAM ÖZGÜRLÜK,  EŞİTLİK ve YAŞAM SEVİNCİ*
-*ve HATTA ÜSTÜNLÜK KATMAKTIR.*
+*TAM ÖZGÜRLÜK, EŞİTLİK VE YAŞAM SEVİNCİ,*
+*VE HATTA ÜSTÜNLÜK KATMAKTIR.*
 
 İşitmedin mi, o masalı Ezop'tan?
-Yıkanan, tüylerini düzelten kuşları,
-Ya o aralarına karışıp koca Zeus’u kandıran alakargayı\!
-İzlemedin mi?
+Yıkanan, tüylerini düzeltip süslenen kuşların
+arasına karışıp koca Zeus’u kandıran alakarganın masalını!
+
+İzlemedin mi belgesellerde?
 Süslenenleri, kabaran, taş dizenleri ve balerin gibi dönenleri.
-Ya şişinenleri, renklenen, çiçeklenen ve kokulananları\!
-Her tür, kendi tarzıyla çeşitli hallere girer.
+Ya şişinenleri, renklenen, çiçeklenen ve kokulananları!
+
+Her tür,
+kendi tarzıyla çeşitli hallere girer.
 Evlenmek isteyen saf güller gibi beyazlar,
 ağıt yakan kara bulutlar gibi karalar bağlar.
 
@@ -27,25 +30,30 @@ saçlarına,
 ellerine,
 ayaklarına,
 yüzlerine,
-aidiyetleri işledi o insanlar görmedin mi?
+aidiyetlerini işledi
+o insanlar görmedin mi?
+
 Oyasından,
 eşarbından,
 çorabından,
 saçından,
 kulağından,
 kaşından,
-yüzünden anlattı kendini.
+yüzünden anlattılar kendilerini.
+
 Kaşıkla, davulla döne döne,
-dans etti süsledi günleri,
-geceleri,
-özlemini,
+dans ettiler, süslediler
+günlerini, gecelerini.
+
+Özlemlerini,
 acılarını,
 kederlerini,
 sevinçlerini,
-gururunu anlattı bir tek kelime etmeden.
+gururlarını anlattılar
+bir tek kelime etmeden.
 
 Özgür olan,
-ruhunu yansıtır ise giysiye,
+ruhunu yansıtır giysiye,
 yüzünü katar boyaya,
 dövme işler her yerine,
 saçına yön verir,
@@ -54,17 +62,20 @@ saçına yön verir,
 Bunlar kendi özünün,
 dilden önceki sözüdür,
 **ruhunun görünür hâlidir.**
+
 Her canlı birey,
 türü, yaşı, cinsiyeti ve aidiyeti ne olursa olsun,
 bedenini istediği şekilde süslemeye,
 giyinmeye, kapanmaya, açılmaya,
 dans etmeye
-veya bedenini istediği biçimde kullanmaya
-hakkı vardır.
+veya bedenini istediği biçimde kullanma
+hakkına sahiptir.
+
 Ne ailesi,
 ne erki,
 ne geleneği,
-hiç kimse aksine zorlayamaz,
+hiç kimse onu herhangi bir biçime
+zorlayamaz,
 karışamaz,
 kınayamaz.
 
@@ -72,4 +83,3 @@ kınayamaz.
 sahibi yalnız o candır.
 Ne sen ondan üstünsün,
 ne o senden aşağı.
-

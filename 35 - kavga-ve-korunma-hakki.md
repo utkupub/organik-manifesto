@@ -7,17 +7,17 @@
 *ASLANIN DİŞİ*
 *VE İNSANIN AKLI OLMAKTIR.*
 
-Yılanın, akrebin zehri ne içindir\!
-Ya, kartalın pençesi,
+Yılanın, akrebin zehri ne içindir!
+Ya kartalın pençesi,
 kirpinin dikenleri,
-aslanın çakalın dişleri?
+aslanın, çakalın dişleri?
 
 Avlanmanın ötesinde,
 diğerlerine ve zalime karşı
-başka türlü nasıl korur yavrularını.
+başka türlü nasıl korur yavrularını?
 
 Bazıları arılar gibi,
-beraberce birlikte savunur yuvalarını.
+beraberce savunur yuvalarını.
 Her biri kendi ocağının kapısında bekçidir.
 
 İnsan da kendi yuvasını,
@@ -50,21 +50,14 @@ daha çok toprak,
 daha çok kaynak,
 daha çok taraftar.
 
-Heyecanlarını aklileştirmek için,
+Hırslarını savunabilmek için,
 ne çok çırpınıyorlar,
 ne çok uğraşıyorlar.
 
-Millet,
-devlet,
-din,
-mezhep, renk,
-dil, köken
-her şeyi kullanıyor,
-her inancı,
-her farklı olanı kaşıyorlar.
+Her kutsalı, her farklılığı kullanıyorlar.
 
 Hiç sınırları yok,
-zafer ve zenginlik vaad ediyorlar.
+zafer ve zenginlik vaat ediyorlar.
 Haklı olduklarına ne çok inanıyorlar,
 hiç şüphe yok gözlerinde.
 
@@ -76,43 +69,48 @@ ya da şüpheyle.
 Başlar başlamaz kavga,
 kan davasına dönüyor.
 
-Kaç kere, sorunlar unutuldu,
-Kaç kere, çözümler unutuldu,
-Kaç kere, kan döngüsü başladı yerine.
-Kızıl akan kana, dur demek isteyen,
-ya vatan haini yahut korkak olarak yaftalandı.
+Kaç kere,
+sorunlar da çözümler de unutuldu,
 
-And olsun ki bu gökyüzünün altında,
+Kaç kere,
+kavga başladı uzlaşmak yerine.
+Akan kızılca kan ırmak oldu.
+
+Kaç kere,
+Durun diyenlere,
+vatan haini
+yahut korkak dendi.
+
+Ant olsun ki bu gökyüzünün altında,
 yuvasını, ocağını,
-vatanını savunmak ile
-bir işgali ayırt edemeyen
-çok asker düştü bu toprağın yüzüne.
-Aynı sebeple,
-ne çok asker boğuldu denizin içinde,
-onlarla beraber
+öz vatanını savunurken,
+ne çok nefer düştü bu toprağın yüzüne.
+
+Onlarla beraber
 ne çok kadın,
 ne çok çocuk
 kuş oldu uçmaya vardı.
 Ne çok orman yandı,
 ne çok şehir harap oldu.
 
-Ama yine ant olsun ki, tehlike geldiğinde:
-"Canıma kıymaya gelen, kendini sorgulasın.
+Ama yine ant olsun ki,
+tehlike geldiğinde:
+“Canıma kıymaya gelen, kendini sorgulasın.
 Ben özümü ve sevdiklerimi korurum;
-kutlu olanı savunurum."
+kutlu olanı savunurum.”
 “Haklarımı çiğneyen korksun;
 adaleti sonuna kadar arar, bulurum.”
 
 Saldırı karşısında,
 önce barışçıl direniş
-ve sonra savunma da dur.
+ve sonra savunmada kal.
 Saldıran sen olma,
 kimseyi kışkırtma.
 Orantısız savaşma,
 barış için kapını hep açık tut.
 
 Savunmak bir haktır;
-Ama öldürmeye zorlandığında reddetmek de hakkın.
+ama öldürmeye zorlandığında reddetmek de hakkın.
 
 Selam olsun,
-barışı sevenlere ve önlerinden yiyenlere.
+barışı sevenlere ve hak yemeyenlere.
