@@ -1,63 +1,68 @@
 ## **DEĞİŞİM HAKKI** {#deği̇şi̇m-hakki}
 
-Siyahtan beyaza dönen nesilleri gördün mü\!
-Su olduğunda ya da kıtlığında,
-Soğuğunda ve sıcağında dünyanın,
-Gecesine gündüzüne,
-doruklarına, derinlerine
-yeryüzüne uyumlananları görmedin mi?
+Siyahtan beyaza dönen nesilleri gördün mü!
+Su çokken ya da kıtken,
+havanın soğuğunda ve sıcağında,
+dünyanın,
+gecesine gündüzüne,
+doruklarına derinlerine
+ayak uyduranları bilmez misin?
 
-Gizleneni,
-büyüyeni,
-küçüleni,
-koşturanı,
-topaklanan avı için, avcı için,
-yedikleri için
-ve iklim için değişti,
-dönüştü nesil nesile,
-soydan soya atladı.
+Rengini uyduran daha iyi gizlendi.
+Daha büyüdü cüssesi bollukta, geniş ovada.
+Yahut küçüldü, kıtlıkla yüzleşen bir adada.
+Hızlı koşabilirse yakalar avını bir aslan.
+Daha iyi koku alırsa ancak yiyecek bulur bir ayı.
+Daha sert kabuk korur ancak bir canlıyı ezilmekten.
+Yahut topaklanıverir dikenleriyle kolay av olmamak için.
 
-Dönüşemeyenlere ne oldu\!.
+Nesilden nesile,
+soydan soya atlar yetenek.
+
+Av, avcı, iklim
+değişime, uyuma sebep.
+
+Dönüşemeyenlere ne oldu!
 Ya hemen,
-ya gençken eş tutamadan öldü, yitti gitti tarihten.
+ya gençken eş tutamadan öldü,
+yitti gitti tarihten.
 
 Şartlara,
 yenilenmeye,
 evrilmeye direnen her tür yok olur.
 
 Hayvanlar ve bitkiler için,
-bazen yüzbinlerce,
+bazen yüz binlerce,
 bazen milyonlarca yıl sürdü bu.
 
 İnsan aklı ve medeniyetin içindeki dönüşüm
 birkaç on yıla düştü.
 
-Gıda, giysi, ulaşım, eğitim,
-yerleşim, bilim, sanat, spor,
-teknoloji, savaş ve salgın, adalet,
-demokrasi ve özgürlük arayışı,
-birkaç sene içerisinde,
-koskoca toplumların yaşam tarzı
-ve alışkanlıklarını alt üst ediyor.
+Gıdaya, suya, bilgiye,
+yerleşime, işe, geçime, adalete,
+demokrasiye ve özgürlüğe zorluk gelirse
+değişim dönüşüm zorunlu olur.
 
-Harekete geçirme sebepleri ne kadar farklı\!
-Değişim talebi ise hep aynı.
+Koskoca toplumların,
+yaşam tarzı, alışkanlıkları
+altüst oluverir.
+
+Sebepler farklı olsa da,
+değişim talebi hep aynı.
 
 Çaresiz, aç kalan,
 özgürlükleri,
-haklarını çalınanlar için
+hakları çalınanlar için
 değişim kaçınılmaz bir zorunluluk,
 bir seçenek değil.
 
 Bu direniş
-ve değişim yaşamı tekrar mümkün
-ve onurlu kılmak için.
+ve değişim,
+yaşamı tekrar mümkün,
+değerli ve onurlu kılar.
 
 Özgürlük ve mutluluk adına,
 olanlar olur,
 ölenler ölür.
 
 Umut her canlının yüreğini ısıtan ateştir.
-
-##
-

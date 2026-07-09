@@ -6,13 +6,13 @@
 *VE YOLLARI YAŞAMAKTIR.*
 
 Görmedin mi,
-Kayaların arasından coşkuyla akan ırmağı,
-Ovada nasıl ağırlaşıp durulur,
+kayaların arasından coşkuyla akan ırmağın
+ovada nasıl ağırlaşıp durulduğunu?
 Canlıların hayatı da böyle geçer.
 
 Aceleye getirilmemiş,
 derinlikli bir yaşam da
-bütün canlılara hakdır.
+bütün canlılara haktır.
 
 Bu hakkı
 çiftliklerdeki hayvanların elinden
@@ -34,15 +34,11 @@ Bu semaverdeki çay ve Türk kahvesiyle,
 karton bardak tadındaki amerikano arasındaki farktır.
 Bakkal Ahmet amca ile,
 vending makinesi arasında bir seçimdir.
-Bu hissetme,
+Bu, hissetme,
 düşünme ve var olma biçimidir.
 
-Yavaş şehir çağrılarına kulak ver.
-Yavaşlık ayrıca şehirlerin hakkıdır.
-
-Hızlı metrolar, ruhsuz otobanlar,
-dönüp duran köprülü kavşaklardan
-arınmak ulaşımın hakkıdır.
+'Yavaş şehir' çağrılarına kulak ver.
+Yavaşlık şehirlerin hakkıdır.
 
 Kocaman gökdelenlerden,
 klonlanmış kafe ve kahvelerden,
@@ -63,7 +59,7 @@ Dev apartmanlar yerine,
 binaların ağaçların boyunu geçmediği
 küçük ve bahçeli evler;
 okullara, markete, manava yürüyerek gidilebilmesi,
-bitki ve hayvanlar dahil
+bitki ve hayvanlar dâhil
 şehirlilerin hakkıdır.
 
 Arnavut kaldırımı yavaştır.
@@ -72,38 +68,24 @@ Aynı zamanda,
 sokakların altına su geçirmesi
 şehrin suyuna ve ruhuna haktır.
 
-Şehri
-ve içindeki her canlıyla birlikte seven ve düşünen,
-koruyan yerel ekonomi
-ve işletmeler şehrin hakkıdır.
-
-Birbirine erişen yeşil alanlar
-ve bahçeler,
-şehirlerin
-ve içinde yaşayanların hakkıdır.
-
 Bir şehirden öbürüne
 bir an önce akmak değil,
 yolun sana getirdiklerine
 dokunabilmek yolcunun
-ve yol hikayelerinin hakkıdır.
+ve yol hikâyelerinin hakkıdır.
 
 Yaşamak,
 güneşin doğuşundan batışına bir an önce ulaşmak
 ve izin günlerini saymak değil,
 sevdiğin şeyle aylar boyunca uğraşıp
-geçimlik yapabilmektir.
-
-Kim ki, 
-insan olsun, hayvan olsun,
-sizden uzaklaşmak isterse şayet,
-yalnız kalmak isteyeni,
-rahat bırakın.
+geçimlik sağlayabilmektir.
 
 Yavaşlamayı en çok yalnızken
 hem hisseder hem istersin.
+
 Her şeyden uzaklaşmak,
-bazen iç dünyasına dalabilmek,
+hayal dünyasına dalabilmek,
+kendine vakit ayırabilmek,
 doyasıya dinlenmek,
 yeniden doğmak için bir fırsattır.
 

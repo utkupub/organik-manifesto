@@ -3,7 +3,7 @@
 *BU, ENGELLERE İNAT,*
 *SAKATIN YÜRÜYÜŞÜ,*
 *KÖRÜN GÖRÜŞÜ,*
-*ABRAŞIN DUYUŞUDUR.*
+*SAĞIRIN DUYUŞUDUR.*
 
 *BU, BİR DELİNİN BAĞIRIŞI,*
 *ONUN DURULUŞU VE GÜLÜMSEMESİDİR.*
@@ -14,10 +14,11 @@ görmedin mi?
 
 Doğa sana acımasız görünür.
 Ama yavruları büyüten de merhamettir.
-Kanadını üstlerine germese
+Birisi,
+kanadını üstlerine germese
 yağmurda ne yaparlar?
 
-Önden liderler yer.
+Önde giden önce yer.
 İnsan soyunda çok mu farklı?
 Ama çakallar bile
 avdan pay ayırır zayıflara.

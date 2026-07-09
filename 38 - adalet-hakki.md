@@ -12,25 +12,27 @@
 Her canlı,
 doğal hakları çiğnendiğinde,
 hak arama,
-adalet isteme hakkı vardır.
+adalet ister.
 
-Bir tavuk,
-tilkiye karşı,
-bir zeytin ağacı fırtınaya karşı kendini,
-yahut suyunu savunabilir
-belki ama insana karşı nasıl bir şansı olur.
+Civcivleri söz konusu ise,
+bir tavuk ile tilkiye kafa tutar.
+
+Fırtınaya karşı durabilir bir zeytin ağacı.
+Susuzluğa da sabredebilir.
+
+İnsana karşı hangisinin şansı var?
 
 Bir balinayı,
 bir ayıyı acımasızca katledenlere karşı
-“demir çoban” hala yüzebiliyorsa;
+“demir çoban” hâlâ yüzebiliyorsa;
 gün gelir,
 bir tavuğun hayatını savunan da olur.
 
-Hem hassas,
-hem herkes için eşit olmalıdır.
-Boşuna mı
+Boşuna mı!
 o kadının gözleri bağlı,
 elinde terazi?
+Hem hassas,
+hem herkes için eşit olmalıdır.
 
 Adalet,
 yalnızca insanlara özgü değildir;
@@ -47,7 +49,7 @@ bağlanan,
 masumken kapatılan,
 özgürlüğü çalınan,
 sesi kesilen,
-fısıldamasına rağmen zorla dinlenilen,
+özel sözleri gizlice dinlenen,
 ölmeyi isteyip ölemeyen,
 ölülerine saygısızlık yapılan,
 her canlı zamanla içten içe hırçınlaşır,

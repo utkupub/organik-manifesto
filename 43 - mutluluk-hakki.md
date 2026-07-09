@@ -6,42 +6,42 @@
 *TÜM İNSANLARIN ORTAK MUTLULUĞUDUR.*
 
 Yaşamını ve sevdiklerini,
- tehdit altında hissetmeyen,
-Barınağı yahut sahiplendiği toprağı olan,
-O toprağından sürülmeyen,
-Karnını doyurabilen,
-Temiz suya ulaşabilen,
-Hasta ya da yaralı olmayan,
-Eşini kendi gönlüyle bulabilen,
-Yavrulayabilen,
-Yavrusunu besleyip büyütebilen,
-Zincire vurulmamış,
+tehdit altında hissetmeyen,
+barınağı yahut sahiplendiği toprağı olan,
+o toprağından sürülmeyen,
+karnını doyurabilen,
+temiz suya ulaşabilen,
+hasta ya da yaralı olmayan,
+eşini kendi gönlüyle bulabilen,
+yavrulayabilen,
+yavrusunu besleyip büyütebilen,
+zincire vurulmamış,
 kafese kapatılmamış,
 özgürlüğü çalınmamış,
-Sesi çıkabilen,
+sesi çıkabilen,
 bağırabilen,
 feryadını duyurabilen,
-Fısıltısı,
+fısıltısı,
 gizlice başkalarının kulağına taşınmayan,
-Eceliyle ölebilen,
-Ölülerine yakışır törenlerle veda edebilen,
-Şiddet görmeyen,
-Gerekirse kendini savunabilen,
-Korunacağını bilen her canlı,
-Heyecanla oraya buraya koşar,
+eceliyle ölebilen,
+ölülerine yakışır törenlerle veda edebilen,
+şiddet görmeyen,
+gerekirse kendini savunabilen,
+korunacağını bilen her canlı,
+heyecanla oraya buraya koşar,
 
 Tomurcuklanır yeniden;
 bir yaprak,
 bir çiçek daha açar.
 Sarılır, kucaklaşır,
 güler, öper, şarkı söyler,
-Dans eder;
+dans eder;
 kimi zaman sersemleşir, hayat sarhoşluğuyla.
 Ve mutlu olur.
 
-Mutluluğun resmi nasıl olur bilemem\!
-Amma, Ancak\!,
-içgüdüsel haklarına
+Mutluluğun resmi nasıl olur bilemem!
+Amma!
+İçgüdüsel haklarına
 ve doğal özgürlüklerine erişmiş her canlının
 gözlerinde ışık parlar.
 

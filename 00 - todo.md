@@ -14,63 +14,9 @@ Yapılacak genel işler:
 - Boş `##`, kaçmış `\!`, görsel artefaktları ve satır sonu boşluklarını temizle.
 - Her hakkın sonunda okura küçük bir "mühür cümlesi" bırak.
 
-### 27 - Yavaşlık ve Yalnızlığa Saygı
-
-Fikir çok iyi, bölüm çok geniş. Yavaşlıktan şehir planlamasına, ulaşıma, yerel ekonomiye, yalnızlığa kadar açılıyor. Okuru yavaşlatan ana bölümlerden biri.
-
-Yapılacaklar:
-
-- Bölümü ikiye ayırmayı düşün: "Yavaşlık Hakkı" ve "Yalnızlık Hakkı".
-- Şehir planlaması kısmını azalt veya 46 - Akıl, Beden, Uyum tarafına taşı.
-- `Bu karmaşık bir teknolojik bir hıza` cümlesi düzeltilmeli.
-- Boş `##` silinmeli.
-
-### 40 - Gelecek, Hayal ve Umut Hakkı
-
-Kısa ve doğru yerde. Hayal hakkı fikri güzel. Ama bazı cümleler soyut ve pürüzlü.
-
-Yapılacaklar:
-
-- Başlıktaki fazla `:` temizlenebilir.
-- `hakkıdan` -> `hakkından`.
-- `hayal sanal` cümlesi netleşmeli.
-- Bu bölüm kısa kalmalı.
-
-### 41 - Topyekûn Yok Olmama Hakkı
-
-Güçlü nükleer bölüm. Fakat başlık çok geniş, metin neredeyse tamamen nükleer risk üzerine. Başlık/metin uyumu kararsız.
-
-Yapılacaklar:
-
-- Ya başlığı "Nükleersiz Yaşama Hakkı" gibi daralt.
-- Ya da nükleer dışında topyekûn yok oluş sebeplerine kısa bir pencere aç.
-- `Enerji üretmez de` cümlesi bozuk.
-- Kaçmış `\!`, `\!.` ve boş `##` temizlenmeli.
-
-### 42 - Değişim Hakkı
-
-İyi geçiş bölümü. Evrim/uyum fikri sonrasına zemin hazırlıyor. Ancak cümlelerde pürüz var.
-
-Yapılacaklar:
-
-- `Soğuğunda`, `Dönüşemeyenlere ne oldu\!.`, `haklarını çalınanlar` gibi pürüzler temizlenmeli.
-- Kısa kalması iyi.
-- Son cümle umut bağlantısı kuruyor; korunmalı.
-
-### 43 - Mutluluk Hakkı
-
-Haklar gövdesini iyi kapatıyor. Liste halinde önceki hakları topluyor; bu doğru bir final hareketi.
-
-Yapılacaklar:
-
-- `Amma, Ancak\!,` düzeltilecek.
-- Satır başı büyük/küçük harfler tutarlılaştırılmalı.
-- İlk uzun liste güzel ama çok resmi görünmesin diye ritim korunmalı.
-- Bu bölüm final kapısıdır; fazla büyütme.
-
 ### Öncelik Sırası
 
-1. Önce en uzunları sıkılaştır: 27, 35.
+1. Önce en uzunları sıkılaştır: 35.
 2. Sonra tekrarları azalt: 26.
 3. En son mekanik temizlik yap: boş `##`, kaçmış `\!`, görsel artefaktlar, başlık tutarlılığı.
 

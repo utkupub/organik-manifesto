@@ -1,7 +1,7 @@
-## **GELECEK, HAYAL ve UMUT HAKKI :**  {#gelecek,-hayal-ve-umut-hakki-:}
+## **GELECEK, HAYAL ve UMUT HAKKI** {#gelecek-hayal-ve-umut-hakki}
 
 *BU, BİR RÜYAYI GERÇEKLEŞTİRMEKTİR.*
- *BU, NUH’UN GEMİSİNİN KARAYA OTURDUĞU ANDAKİ UMUTTUR.*
+*BU, NUH’UN GEMİSİNİN KARAYA OTURDUĞU ANDAKİ UMUTTUR.*
 
 Soyunu, neslini,
 geleceğe taşımaya çalışanları görmedin mi?
@@ -20,29 +20,31 @@ ve çırpınmadan muaf mı?
 Geleceğini,
 çocuklarını,
 torunlarını,
-ve mutluluğu,
+mutluluğu,
 ve gönençli yarınları hayal eder durur.
 
 Hayalleri ve umutları elinden alınırsa,
-insan aklında geriye kuru zekası kalır.
+insan aklından geriye
+yaratıcılıktan yoksun kupkuru bir zeka kalır.
+
 Mutluluğun ilk yarısı,
 onu hayal ve umut etmektir.
 
-Hayal dünyan ne geniş ne engin\!
-Önemsediği her şey hayal sanal.
-Para, din, devlet, millet, bayrak ve sanat\!
-Binlerce şey\!
+Hayal dünyan ne geniş ne engin!
+Para, din, devlet, millet, bayrak ve sanat!
+Binlerce şey!
 Ne yenir ne içilir,
 ne içine yuva yapılır,
 ne yanar,
 ne donar.
 Dünya yüzünde,
 insandan başka bir varlık,
-algılayamaz yüceltemez bunları.
+algılayamaz, yüceltemez bunları.
+Önemsediği her şey hayal, her şey sanal.
 
-Sıralamada hayal hakkı,
-neredeyse,
-su ve nefes hakkıdan sonra gelir.
+İnsana umut ve hayal
+soluk alabilmek kadar gerekli.
+Bir o kadar da haktır.
 
 Dengeye oturmuş,
 kurtarılmış bir doğa,
