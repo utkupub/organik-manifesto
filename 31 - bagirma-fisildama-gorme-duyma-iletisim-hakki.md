@@ -65,7 +65,10 @@ sansürlenemez,
 törpülenemez.
 Artık canlar birbirine bağlanır.
 
-Tüm canlılara ve akıl taşıyan bütün varlıklara ant olsun ki:
+Dili dolanıp konuşamayanlar,
+kelimeler ağzından çıkarken hıçkırıklara boğulanlar,
+söylemek istedikleri aklına sonradan gelip hayıflananlar,
+ve diğerleri bilsin ki:
 
 Sevdiğini bildirme,
 yâd’a seslenme,

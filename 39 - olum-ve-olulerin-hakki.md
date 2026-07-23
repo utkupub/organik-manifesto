@@ -53,5 +53,10 @@ acıdan başka yol kalmadığında,
 onurlu vedasını istemesini
 anlamak gerekir.
 
-Onurlu bir ölüm,
-her can için **bir haktır**.
+Gözlerinden süzülen yaşlara,
+boğazında düğümlenen soluğa,
+kalbine oturan ağırlığa,
+kafanda dolaşan kara bulutlara,
+ruhunda kabaran isyana yemin olsun ki,
+onurlu bir ölüm,
+her can için haktır.

@@ -1,4 +1,4 @@
-## **YOK OLMAMA HAKKI**
+## **NÜKLEERSİZLİK HAKKI**
 
 O artık,
 “Ölüm oldu, dünyaların yok edicisi.”
@@ -10,9 +10,9 @@ keşfinden bu denli yaralanmamıştı hiç.
 İçindekilerle birlikte,
 tek ve bütün dünya için,
 **nükleer kabustan uzak bir hayat,**
-**hem hak, hem zorunluluktur**.
+**hem hak hem zorunluluktur**.
 
-Sadece bombalar da değil,
+Sadece bombalar değil,
 enerji üretmek de aynı riski taşır.
 Hadi sigortalayın bakalım kazaları!
 O santraller,
@@ -54,17 +54,17 @@ Ve çok uzak olmayan bir gün,
 kaçık bir lider,
 o düğmeye basacak, biliyorsun.
 
-1945’te
-bir anda yanan gökyüzü,
-bir anda yanan toprak,
-içindekilerle birlikte küle dönen şehirler,
-bir anda yanan o masum çocukların ruhları
-üzerine yemin olsun ki:
+Nükleer güç,
+güvenlik ve enerji değil;
+yarına ertelenmiş bir yok oluştur.
+
+Bir anda yanan gökyüzünün,
+bir anda yanan toprağın,
+bir anda yanıp savrulan şehirlerin,
+bir anda yanan o çocukların,
+kedilerin, köpeklerin, ördeklerin ve kiraz çiçeklerinin
+külleri üzerine yemin olsun ki:
 
 **Bu acıyı,**
 **bir daha hiçbir canlıya yaşatmamak,**
 **boynumuzun borcudur.**
-
-Nükleer güç,
-güvenlik değil;
-yarına ertelenmiş bir yok oluştur.

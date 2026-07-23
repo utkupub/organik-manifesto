@@ -3,7 +3,8 @@
 *BU, DENİZLERDEKİ AĞITLARA KULAK VERMEKTİR.*
 
 Su,
-okyanus, deniz ve göller yaşamın ilk soluğu.
+okyanus, deniz ve göller,
+yaşamın ilk soluğu.
 
 Sünger, inci, mercan gibi
 kıymetli varlıklara el sürme.
@@ -22,13 +23,15 @@ Yaşam ve yavrulama yurtlarını
 turizm ya da gezinti bahanesiyle
 işgal etme.
 
-Sadece bilimsel araştırma yahut belgesel bakış,
-inceleme, kayıt kabul görür.
+Sadece bilimsel araştırma,
+belgesel bakış,
+inceleme ve kayıt kabul görür.
 
-Su, sadece denizde, gölde, nehirde olmaz,
+Su sadece denizde, gölde, nehirde olmaz,
 yerin altı da su dolu,
 daha fazla çekme
 tarımsal sulama için.
+
 Bütün bitkilerin canı bu suya bağlı.
 Sadece obruktan korkarsın
 ama çölleştireceksin
@@ -38,45 +41,35 @@ Kirletme yer altı sularını
 tuzla,
 tarım ilaçlarıyla.
 
-Denizleri okyanusları,
-çöple,
-plastikle,
-gürültüyle doldurma.
 Karalar yetmedi,
-denizleri ekonomik alan diye sınırlamaya,
-tapulamaya başladın.
-
-Denizi de deldin,
-petrol için,
-gaz için.
-
-Ne çok boru döşedin,
-ne çok fiber.
+suyu tapulamaya başladın.
+Engin deniz seni durduramadı,
+deldin defalarca,
+petrol ve gaz için.
 
 Gemilerin, tankerlerin,
-sonar ve makine gürültüsünden,
-balinaların şarkıları
+makine ve sonar gürültüsünden,
+balinaların aşk şarkıları
 duyulmaz oldu.
 
-Ne çok kirlettin,
-atıkla,
-petrolle.
+Döşenen borular,
+veri hatları,
+dolandı defalarca okyanusları.
 
-Atık da,
-petrol de,
-gürültü de,
-aynı suya karışır.
+Plastik,
+yağ, petrol, gürültü
+aynı suya karışır, akar.
 
 Hava gibi,
 suyu da ısıttın.
 Akıntılar bir bozulursa,
 vay haline.
 
-Hele o nükleer denemelerin,
-askeri tatbikatların,
-ne balık bıraktı ne mercan.
+Hele deneme diye attığın
+o nükleer bombalar,
+okyanuslarda ne balık bıraktı ne mercan.
 
 Su ve içindekilerin hakkını unutan insana,
-Naylon içinde yüzen,
+naylon içinde yüzen,
 zehirli mikroplastik dolu balıklar
 müste-haktır.

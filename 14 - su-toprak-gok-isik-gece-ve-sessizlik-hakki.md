@@ -1,6 +1,6 @@
 ## **SUYUN, TOPRAĞIN VE GÖĞÜN HAKKI**
 
-*BU, AKŞAMLARI, 
+*BU, AKŞAMLARI,
 YANAN ATEŞ ETRAFINDA OTURABİLMEKTİR.*
 *BU, GÖĞÜN, SUYUN VE TOPRAĞIN SESİDİR.*
 
@@ -13,7 +13,7 @@ temizliğine, duruluğuna,
 kendi kendini yenileyişine
 engel olma.
 
-Suyu, toprağı, göğü 
+Suyu, toprağı, göğü
 zehirleme.
 Isıtma.
 
@@ -30,7 +30,7 @@ kulak tırmalamaz.
 Ateşböceği karanlıkta büyüleyici parlar;
 yılanın zehri
 yalnız avı içindir.
-Canlının dışkısı, 
+Canlının dışkısı,
 ölüsü bile başka bir cana yem ve candır.
 
 İnsan ise
@@ -40,7 +40,7 @@ gürültüsüyle sessizliği parçalar.
 Karanlığa sabrı yok!
 
 Bilmez mi?
-Karanlığa alışmadan, 
+Karanlığa alışmadan,
 ışığın kıymeti anlaşılmazmış.
 
 Görünmeyen şeyler de kirlenir,
@@ -50,55 +50,12 @@ yolları şaşırtır,
 ruhu da
 karartır zamanla.
 
+Kurumuş boğazlara,
+Sarı sıcak buğdaya,
+Vurulmuş uçurtmalara,
+Kaçmış balonlara and olsun ki!
+
 Sağlıklı su,
 bereketli toprak,
 berrak gökyüzü ve güneş
 her cana hakdır.
-
-
-
-
-
-******* ek *****
-
-İlk halkayla oynarsan zincir kopar.
-İnsan ise, zincirin son halkasıdır.
-O bağı keser, söker, zehirler,
-yalnız bırakır.
-
-
-
-Toprağı ormansız,
-çıplak ve çorak bırakan sensin.
-Yeniden ağaçlandırmak,
-yeniden yeşertmek de senin görevin.
-Erozyonla akıp giden toprak değil,
-her canlıdan bir parçadır.
-
-Toprağı zehirleyecek,
-tür zenginliğini daraltacak tarım tutumlarına girme.
-Kimyasal gübre kullanma.
-Hayvan gübresi,
-kompost, yeşil gübre,
-doğal olan yetsin.
-Daha fazlasını topraktan,
-bitkiden istemek açgözlülüktür.
-Senin bir anda 10 çocuğun oluyor mu?
-
-Toprağın derinliklerinden artık suyu çekme;
-dip suyu her sene daha da derine gidiyor,
-etrafındaki bütün çalıları,
-ağaçları kurutuyorsun,
-mısır ve patlıcan yetiştireceksin diye.
-Suyu başka şekilde edin;
-daha da iyisi yöreye göre suyuna göre ekim yap.
-Büyük barajlar yapma,
-ırmakların yatağını değiştirme tarımsal sulama için.
-
-Toprağın içi canlılarla doludur,
-her türlü görünür görünmez,
-bakteri, mantar, solucan, böcek
-onları öldürecek şeyler sakın yapma.
-Ölüm sana döner unutma.
-Onlar gibi sen de aynı toprağa aitsin,
-bugün üstünde, yarın altında\!

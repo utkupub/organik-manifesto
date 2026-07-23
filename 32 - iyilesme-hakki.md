@@ -26,7 +26,6 @@ temiz su ve temiz havanın yanında,
 tuzlar, otlar, yapraklar,
 mantarlar ve sayısız diğer canlı
 onlara ilaç ve yaşam olanağı sunar.
-Temiz olana ve ilaca erişim her canlıya haktır.
 
 İnsan aklı,
 doğanın sırlarını ve kendi yapısını öğrendikçe,
@@ -72,5 +71,10 @@ rengi, dini, milleti farklı
 yahut zengin, bilgili veya otorite sahibi birinden
 daha az değerli değildir.
 
-Ama insan, değer cana biçerken,
+Ama insan, cana değer biçerken,
 sadece kendi gözünden bakıyor.
+
+Sürekli oynayıp kaldırdığın yara kabukları,
+kırılan bacağının alçıdaki kaşıntısı
+ve aldığın son kür kemoterapi damlası tanıktır ki,
+Temiz olana, doğal olana ve ilaca erişim her canlıya haktır.

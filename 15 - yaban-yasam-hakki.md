@@ -4,7 +4,7 @@
 *TÜFEĞİN SUSMASI,*
 *DENİZLERİN YENİDEN NEFES ALMASIDIR.*
 
-İnsan şunun şurasında, 
+İnsan şunun şurasında,
 yüz bin yıldır ortalıkta,
 bilmez mi ki doğa
 hep tek başınaydı
@@ -21,7 +21,7 @@ ne büyük yıkımlar atlattı.
 Ama hep küllerinden,
 yeniden doğdu yaşam dünyada.
 
-İnsanın yeryüzünde yürümesiyle başladı, 
+İnsanın yeryüzünde yürümesiyle başladı,
 esaret ve zulüm.
 O elmayı ısırdığından beri iflah olmadın!
 
@@ -29,10 +29,10 @@ Diğer canlılar,
 akıl gözünün görmeye başladığı o güne
 lanet etti hep bir ağızdan.
 Hepsi seni dünyaya yollayan yüceye
-siteme başladı.
-“Nasıl bir emanetçi atadın başımıza diye,
-ne kalbi var,
-ne aklı” dediler.
+sitem etmeye başladı:
+“Nasıl bir emanetçi atadın başımıza?
+Ne kalbi var,
+ne aklı,” dediler.
 
 Av artık açlığın için değil,
 boş heveslerin ve güçlü hissetmenin,
@@ -45,8 +45,8 @@ Seni yavrularının önünde vursalar,
 öldürseler, sürükleseler
 dilim varmaz gerisini anlatmaya...
 
-Gözlerine, 
-öz varlığına 
+Gözlerine,
+öz varlığına
 ve Yaratana isyan ederdin!
 
 Av mevsiminde yalnız birkaç kuş ya da tavşan değil,
@@ -61,13 +61,13 @@ ne süs olur ne geçim yolu.
 
 Kalbini yumuşat!
 Artık tüfeğini duvara as!
-Dağda gezmek yürümek istersen
+Dağda yürümek istersen
 bir fotoğraf makinesi edin,
 onu as sırtına.
 
 Denizlerdeki av başına buyruk
 kıyıma döndü.
-Dizginsiz açgözlülük yüzünden 
+Dizginsiz açgözlülük yüzünden
 öldürülenlerin çoğu heder.
 
 **Sudaki can ticaretini bitir artık.**
@@ -77,7 +77,7 @@ su çiftlikleri açlığını azıcık yatıştırabilir.
 İlaç için yabandan
 yahut ormandan toplanan
 nadir otlar müstesna,
-gıda amaçlı 
+gıda amaçlı
 yabani bitki, kök, ot veya mantar toplamak bile
 sürdürülemez hâle geldi.
 
@@ -85,5 +85,7 @@ Bu yaşayışın kalıcılığı yoktur;
 doğaya onarılmaz yaralar açar.
 “Gerçekten, avcı ve toplayıcı olma artık.”
 
+Attığın kurşunu eriten çıra bile ağladı,
+Attığın ağdaki ilmekler bile ağladı.
 En azından yabandaki canı özgür bırak,
 bu onların göksel hakkıdır.

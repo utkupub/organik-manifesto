@@ -22,8 +22,9 @@ rüzgâr yontsun,
 su oysun,
 zaman anlatsın.
 
-Doğa insanı,
-insan da tarihi ve kültürü oluşturdu.
+Doğa insanı doğurdu;
+insan da tarihini ve kültürünü
+onun içinde kurdu.
 
 İnsanların dillerini,
 sözlü, danslı, müzikli kültürlerini,
@@ -68,5 +69,7 @@ Bu mirası yok saymak
 ya da sessizliğe gömmek,
 insanlık onuruna vurulacak en büyük darbedir.
 
+Arkeloğun ince ince toprağı süpürürken ki sabrına,
+buluntusunun heyecanına and olsun ki,
 Tanıtmak, anlatmak, yaşatmak,
 **doğanın, tarihin, kültürün ve atalarının hakkıdır.**

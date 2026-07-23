@@ -1,14 +1,17 @@
 ## **OYUN HAKKI** {#oyun-hakki}
 
-Kedinin köpeğin boğuşmalarını izlemedin mi?
+Kedinin, köpeğin boğuşmalarını izlemedin mi?
 Ya tayların yarışıp çifte atmalarını?
 Kuzuların sıçramalarını?
 Kargaların çatılardan karda kaymalarını?
 Yunusların dönmelerini suda?
 
-Birazcık aklı olanların hepiciğinde,
+Oyun,
+birazcık aklı olanların hepiciğinde,
 yavruların doğasında var.
-Her can, oyunla büyür;
+
+Her can,
+oyunla büyür;
 oyunla güçlenir,
 yaşamayı öğrenir.
 
@@ -33,18 +36,23 @@ zihnin ve ruhun temel besinidir.
 ve araçlara büründü,
 spor adını aldı.
 
-Dijital oyunlar,
-doğadan kopuk görünebilir.
+İnsan aklı,
+satranç, kâğıt, kart, kutu oyunları derken,
+yazılım oyunlarına yöneldi,
+bu doğadan kopuk görünebilir.
 
 Ama insan,
-hayatı ruhunda da yaşar;
-oyunu da oraya taşır.
+hayatı sadece bedeniyle değil,
+aklıyla da, ruhuyla da yaşar;
+doğal olarak, oyunu da oraya taşır.
 
-Hiçbir canlının ve kendisinin
-ruhen, fiziken zarar görmediği,
-aklını, ruhunu zehirlemeyen,
-diri tutup disipline eden,
-her oyun insana da haktır.
+Yavrular birbirini yalandan ısırır.
+Hiçbiri birbirinin kafasını gözünü kırmaz.
+Oyun kimseye zarar vermez.
+Akıl da ruh da zehirlenmez.
+
+Oyun her canlıyı diri tutar,
+disipline eder.
 
 Büyüyünce oyun bitmez,
 yalnızca şekil değiştirir;
@@ -55,6 +63,13 @@ insanın oyun yoluyla doğaya
 ve topluma katılması,
 yaşamına kut katmaktır.
 
-Ulu göğün altında kalabilenler
-ve suyun içindekiler tanık olsun ki,
+Ulu göğün altındaki,
+misket oynamaktan tongra tutmuş parmaklar,
+yalandan hüpletilen minik kahve fincanları,
+taranan plastik bebek saçları,
+"Tak tak" denince uyduruktan ölmesi gerekip de,
+"ıskaladın oğlum" deyip ölmeyen mızıkçılar,
+saklambaç oynamaktan sıkılıp hemen sobelenenler
+ve SimCity’de elektrik için termik yerine fırfır kuranlar
+tanık olsun ki,
 **oyun her canlının doğuştan hakkıdır**.

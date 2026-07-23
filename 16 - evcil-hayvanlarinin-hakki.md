@@ -16,12 +16,12 @@ alacağı var bu dünyadan.
 Hüküm senin mi!
 
 Gezmek, dolaşmak,
-çayırda bayırda yatmak otlamak,
+çayırda bayırda yatmak, otlamak,
 havayı koklamak,
 onlara hakdır.
 
-Balık çiftlikleri, kümes, besi alanı
-yahut yaylakta yetişmeyen hayvanları
+Balık çiftliklerinde, kümeslerde, besi alanlarında
+yahut yaylak görmeden yetişen hayvanları
 artık sofrana koyma.
 
 İnsanın sofrasına,
@@ -65,22 +65,20 @@ Sadece
 kürkü, postu, derisi için hayvan beslemek
 caniliktir.
 
-Başka maksatla da
-çiftliklerinde hayvan besleme.
-
 Güzellik, süs ya da boş heves için
 hiçbir canı denek etme.
 
-Solucan da, fare de olsa, tavşan da olsa,
+Karınca da olsa, solucan da,
+fare de olsa, tavşan da olsa,
 cana kıymak,
-eziyet etmek ve denek yapmak
+eziyet etmek
 büyük zalimliktir.
 
 Yılan derisi kemerlere,
-Timsah derisi ayakkabılara, çantalara,
-Samur kürklere,
-Vizon mantolara,
-yemin olsun ki,
+timsah derisi ayakkabılara, çantalara,
+samur kürklere,
+vizon mantolara...
+Yemin olsun ki,
 acımasızlıkta,
 insanın hiç sınırı yok.
 

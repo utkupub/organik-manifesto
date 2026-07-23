@@ -56,10 +56,15 @@ gönenç ve mutluluk içindir.
 
 Yukarıda mavi gök,
 altta yağız yer şahittir ki,
+yazılan manifesto bir ateş yaktı,
+okunan her bir bildiri bir soluk kattı;
 milyarlarca insan bir araya geldi, örgütlendi.
 
-Nice hayali gerçekleştirdi.
-Daha nice hayaller kuracak insan.
+Kurduğun hayallerin en uçuk olanına,
+sallandığın salıncağın en uç noktasına,
+düştüğün umutsuzluk halinden seni çıkaran
+o şiirin, o şarkının her mısrasına and olsun ki,
 
+Daha nice hayaller kuracak insan.
 Bu hakkı elinden ne krallar alabilir,
 ne de azılı diktatörler.

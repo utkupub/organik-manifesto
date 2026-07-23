@@ -8,7 +8,7 @@ Bağlan,
 zincirlen,
 hapsedil!
 Kapıların ardında kalmış özgür olmayan can,
-nasıl beden içinde kalsın.
+nasıl beden içinde kalsın?
 
 Hareket edebilen her canlı,
 yürümek,
@@ -31,7 +31,7 @@ kuşlara;
 duvarların arasına,
 tel örgülerin ardına hapsedilmiş,
 betona mahkûm,
-odalara sıkışmış insan dahil
+odalara sıkışmış insan dâhil
 bütün canlılara haktır.
 
 Sirkleri,
@@ -55,10 +55,10 @@ kıyaslar ve özgürleşir.
 Yürürken,
 gözlerindeki kut,
 konduğu yerde yurt kurar.
-Yola düşünce,
+Yola düşünce ayak,
 yoldaşlık eden,
 atlar ve kurtlardır;
-artık yol da onlara yuvadır.
+artık yol yolcuya yuvadır.
 
 Yazlar ve kışlar boyu
 yolda gördükleriyle olgunlaşır akıl.
@@ -72,6 +72,7 @@ barınağının dışına çıkıp
 Hiçbir kuş yalnızca bir göğe,
 hiçbir kurt
 yalnızca bir dağa hapsedilemez.
+
 Milli parklar,
 tel çitler,
 duvarlar,
@@ -85,6 +86,7 @@ güneyin sıcağına da.
 
 Yaban hayatının yolları,
 birbirine kavuşan damarlar gibi kesintisiz olmalı.
+
 İnsan izleri ise,
 ada ada kalsın;
 köprüyle geçilsin,
@@ -94,14 +96,13 @@ insanın medeniyeti doğayı bölerse,
 sadece ölüm getirir.
 
 Her kartal gönlündeki yöne uçar.
-Özgürlük sadece kartala değil,
-her canlıyadır.
 Gök ve ötesi,
 suyun içi,
 yerin altı ve üstü
 her canın hakkıdır.
 
-Dilediği dağı, vadiyi, ırmağı,
+Diğerleri gibi insan da,
+dilediği dağı, vadiyi, ırmağı,
 şehri, hatta gezegeni, yıldızı,
 kutla selamlayarak gezebilir.
 
@@ -111,9 +112,11 @@ yolun o büyük sahibinden istenir.
 Ama sakın unutma!
 Bastığın her toprak,
 bir başka canın yurdudur.
-Eşiklerden eğilerek geçilir; saygıyla gezilir.
+Eşiklerden eğilerek geçilir;
+saygıyla gezilir.
 
-Gidilen yerlerin kurallarına uy, iz bırakma.
+Gidilen yerlerin kurallarına uyulur,
+iz bırakılmaz.
 
 Yolda tutulan her ritim,
 duyulan her ezgi,
@@ -132,6 +135,12 @@ Yolculara,
 yolda kalana yardım et.
 Bu dünyada sen de zoraki bir yolcusun,
 unutma.
+
+Bastığın her pedala,
+Aşağı saldığında yüzüne çarpan rüzgara,
+Hızın artarken içinde artan heyecana,
+Yorulduğunda oturduğun toprağa,
+yaslandığın ağaca ve gölgesine and olsun ki,
 
 **Mavi göklerin altında,**
 **her canlı için dolaşmak haktır.**

@@ -1,9 +1,9 @@
 ## **DOĞMAMIŞIN VE YENİDOĞANIN HAKKI**
 
-*BU, VAR OLMAK İSTEYEN BİR IŞIĞIN,* 
+*BU, VAR OLMAK İSTEYEN BİR IŞIĞIN,*
 *DÜNYAYLA BULUŞMASIDIR.*
 
-Can içinde, 
+Can içinde,
 can taşıyanlara nasıl kıyarsın!
 
 Bir koyun bile olsa,
@@ -12,17 +12,17 @@ yeni doğanlara ve yavrulara
 el uzat,
 onları koru.
 
-Her canlı, doğmak
-ve yaşama doğru koşmak
+Her canlı doğmak,
+yaşama doğru koşmak
 ve ona tutunmak ister.
 
 Farkında değildim ama ben de istedim.
 Sen de belki farkında değildin,
 ama sen de istedin.
-Yoksa bu cümleyi nasıl okurdun.
+Yoksa bu cümleyi nasıl okurdun?
 
-Bu, 
-doğanın en eski, 
+Bu,
+doğanın en eski,
 en yalın yasası.
 Önünde kimse duramaz.
 
@@ -43,8 +43,9 @@ ona engel olmak,
 Göğün huzurunda
 borç biriktirmektir.*
 
+Toprağı delip başını göğe uzatan her ota,
+Yumurtasını çatlatıp ciyaklayanlara,
+Parmağını uzattığında yakalayan minik avuçlara and olsun ki,
 Dünyaya gelebilmek,
 hayata tutunabilmek,
 her canlıya hakdır.
-
-

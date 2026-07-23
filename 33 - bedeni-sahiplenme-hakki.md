@@ -63,6 +63,11 @@ Bunlar kendi özünün,
 dilden önceki sözüdür,
 **ruhunun görünür hâlidir.**
 
+İğnenin bedenine işlediği nakışın her vuruşuna,
+Günçiçeği oyalı yaşmak için ölen her ipek böceğine,
+Ayağını toprağa vurduğunda kalkan toza,
+and olsun ki
+
 Her canlı birey,
 türü, yaşı, cinsiyeti ve aidiyeti ne olursa olsun,
 bedenini istediği şekilde süslemeye,

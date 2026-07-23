@@ -5,16 +5,16 @@ sadece ağlarsın;
 sabah annesinden uzak
 huzursuz bir çocuk gibi.
 
-Dünyanın etrafını saran buğu;
+Dünyanın etrafını saran buğu
 kucağına yaşam amacı
 ve sevincini bırakıverir.
-Meşe küllerinden yeniden doğurur kendini
-her bir bilinç.
+Kül olmaktan dönen meşe gibi
+her bilinç yeniden doğar.
 
-Bu amaç;
-Ayaklarını suya doğru sürer.
+Bu amaç
+ayaklarını suya doğru sürer.
 Aklının kokusunu rüzgâra dolandırır.
-Bedenini gölgeden Güneş'e itekler.
+Bedenini gölgeden Güneş’e itekler.
 Ruhunu sıcak yatağından koparıp,
 soğuk ve ulu dağların zirvesinde uçan kazlar gibi
 göğe yaklaşırsın,
@@ -30,7 +30,7 @@ Bir bardak sıcak çayın renginde
 şehirlerde,
 rüzgârda savruldular.
 Bunlar yazılmadan önce onların akıllarında sadece
-Bir sahil kasabası hayali
+bir sahil kasabası hayali
 ve burunlarında mandalina kokusu vardı.
 
 Okunanlar,

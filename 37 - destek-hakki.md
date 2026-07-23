@@ -48,6 +48,9 @@ Bu,
 yol boyunca taşıyanın,
 yarın taşınacağını bilmesidir.
 
-Bu yüzden destek,
-yalnızca zayıfın değil,
+Yataktan kalkarken ağrıyan dizleri ovuşturan ellere,
+Yakın gözlüğünü kaybettiğin andaki paniğe,
+Artık ikinci topunu yiyemediğin dondurmaya and olsun ki,
+
+Destek, yalnızca zayıfın değil,
 sürünün hakkıdır.

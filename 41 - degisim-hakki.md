@@ -1,11 +1,11 @@
 ## **DEĞİŞİM HAKKI** {#deği̇şi̇m-hakki}
 
-Siyahtan beyaza dönen nesilleri gördün mü!
+Siyahtan beyaza dönen nesilleri gördün mü?
 Su çokken ya da kıtken,
 havanın soğuğunda ve sıcağında,
 dünyanın,
 gecesine gündüzüne,
-doruklarına derinlerine
+doruklarına, derinlerine
 ayak uyduranları bilmez misin?
 
 Rengini uyduran daha iyi gizlendi.
@@ -22,7 +22,7 @@ soydan soya atlar yetenek.
 Av, avcı, iklim
 değişime, uyuma sebep.
 
-Dönüşemeyenlere ne oldu!
+Dönüşemeyenlere ne oldu?
 Ya hemen,
 ya gençken eş tutamadan öldü,
 yitti gitti tarihten.
@@ -41,20 +41,11 @@ birkaç on yıla düştü.
 Gıdaya, suya, bilgiye,
 yerleşime, işe, geçime, adalete,
 demokrasiye ve özgürlüğe zorluk gelirse
-değişim dönüşüm zorunlu olur.
+değişim, dönüşüm zorunlu olur.
 
 Koskoca toplumların,
 yaşam tarzı, alışkanlıkları
 altüst oluverir.
-
-Sebepler farklı olsa da,
-değişim talebi hep aynı.
-
-Çaresiz, aç kalan,
-özgürlükleri,
-hakları çalınanlar için
-değişim kaçınılmaz bir zorunluluk,
-bir seçenek değil.
 
 Bu direniş
 ve değişim,
@@ -65,4 +56,13 @@ değerli ve onurlu kılar.
 olanlar olur,
 ölenler ölür.
 
-Umut her canlının yüreğini ısıtan ateştir.
+Mart soğuğundan korkmayıp,
+ilk açan zerdali çiçekleri,
+kesilmekten korkmayıp,
+erken öten acemi horozların cırtlak sesleri,
+parmaklıklardan korkmayıp,
+heyecanla yazılmış kartpostal dörtlükleri,
+yalnızlıktan korkmayıp,
+terk etmek ile kaçmak arasındaki kafa karışıklıkları
+hem tanık hem de bilir ki,
+değişim kaçınılmaz bir haktır.

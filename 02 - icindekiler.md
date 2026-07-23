@@ -11,35 +11,35 @@
 - 2.Bölüm - Organik Haklar
   - Yaşam Hakkı
   - Doğmamışın ve Yenidoğanın Hakkı
-  - Su, Toprak, Gök, Işık, Gece ve Sessizlik Hakkı
-  - Yaban Yaşam - Etügen Hakkı
+  - Suyun, Toprağın ve Göğün Hakkı
+  - Yaban Yaşam Hakkı
   - Evcil Hayvanlarının Hakkı
   - Böceklere Saygı
   - Su ve Suyun İçindekilerin Hakkı
-  - Toprağın, Bitkilerin, Tohumun Hakkı
+  - Bitkinin, Tohumun Hakkı
   - Ormanlara Ayrıca Saygı
-  - Doğal, Tarihi, Kültür Varlıklarına Saygı
+  - Doğal ve Kültürel Varlıklara Saygı
   - Toprak ve Barınma Hakkı
   - Gıda ve Suya Erişim Hakkı
   - Çöp Hakkı
-  - Oyun Hakkı
-  - Merak Hakkı
+  - Gezme, Dolaşma Hakkı
   - Yavaşlık ve Yalnızlığa Saygı
   - Uyku ve Dinlenme Hakkı
-  - Gezme, Dolaşma Hakkı
-  - Bağırma, Fısıldama, Görme, Duyma, İletişim Hakkı
-  - Üreme Hakkı
+  - Oyun Hakkı
+  - Merak Hakkı
   - Öğrenme Hakkı
+  - İletişim Hakkı
   - İyileşme Hakkı
   - Bedeni Sahiplenme Hakkı
+  - Üreme Hakkı
   - Kavga ve Korunma Hakkı
   - Sürü ve Örgütlenme Hakkı
   - Destek Hakkı
   - Adalet Hakkı
   - Ölüm ve Ölülerin Hakkı
-  - Gelecek, Hayal ve Umut Hakkı
-  - Topyekûn Yok Olmama Hakkı
+  - Yok Olmama Hakkı
   - Değişim Hakkı
+  - Gelecek, Hayal ve Umut Hakkı
   - Mutluluk Hakkı
 - 3.Bölüm - A++ İnsan Olmak
 - 4.Bölüm - İşgalimsin

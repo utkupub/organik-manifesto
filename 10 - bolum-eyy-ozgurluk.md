@@ -9,8 +9,10 @@
 *Buralara yazacağız defalarca bu güzel kelimeyi.*
 
 Mutluluk için önce özgürlük gerek!
-Kime sorsan, bambaşka haykırır onun adını,
-Hükmedeni görmedin mi, ne çok korkar ondan.
+Kime sorsan,
+bambaşka haykırır onun adını.
+Hükmedeni görmedin mi,
+ne çok korkar ondan.
 Seçebilmek özgürlük müdür?
 Hadi seç bakalım, yaşayacağın apartmanın katını, cephesini.
 Hadi seç bakalım, atılacağın zindanı.
@@ -39,12 +41,15 @@ sen onlarınsın, onlar da senin parçan.
 
 Özgürlük,
 saatlerini satışa çıkarmak ya da patron seçmek değildir.
-Özgürlük patronsuz,
+Patronsuz,
 müdürsüz sevdiğin iş ile geçimlik sağlayabilmektir.
 Emeğini harcadığında karşılığını adaletle alabilmektir.
 
 Özgürlük,
-bilinçaltına sızdırılmış seçeneklere “Hayır” diyebilmektir.
+bilinçaltına sızdırılmış seçeneklere “Hayır” diyebilmek,
+gereksiz yüklerinden kurtulmak,
+dileğince çalışıp,
+dilediğinde tembellik yapabilmektir.
 
 Bir ayının, bir çakalın, bir ağacın
 yüzme havuzu yok!
@@ -53,27 +58,19 @@ başka neyi var?
 Süslü giysileri, aradığı başka tatları da yok!
 
 Özgürlük,
-gereksiz yüklerinden kurtulmaktır.
-Dileğince çalışıp,
-dilediğinde tembellik yapabilmektir.
-
-Özgürlük,
 sınırsızca tüketmek,
 paran yettiğince almak,
 her yeri gezmek
-veya sıkılınca yok etmek değildir.
+veya sıkılınca yok etmek,
+öldürebilmek,
+başkasının hakkını çalabilmek değildir.
 Tükettiğimiz kadar borçlu, bir o kadar köleyiz...
 
-Özgürlük,
-öldürebilmek,
-başkasının hakkını çalabilmek de asla değildir.
 Adalet yoksa, özgürlük de yoktur.
 Özgürlük çalınmaz!
 
-Bazen,
-yollarda yumruk kaldırmak,
-Bazen,
-hayallere düşen turuncu fırçanın duvardaki darbesidir.
+Bazen yollarda yumruk kaldırmak,
+bazen hayallere düşen turuncu fırçanın duvardaki darbesidir.
 
 Özgürlük adına,
 ne bedeller ödendi!
@@ -81,8 +78,8 @@ ne bedeller ödendi!
 onun yoksunluğu.
 
 Bu yolun sonunda,
-Salıncakta sallanmak da var,
-Dar ağacında sallanmak da!
+salıncakta sallanmak da var,
+dar ağacında sallanmak da!
 
 Özgürlük,
 bir hamakta akşama kadar yatabilmek,
@@ -96,7 +93,7 @@ Başarısızlık,
 korku, endişe salgın bir hastalık,
 biricik aklımızın zindanı.
 
-Apartmanların arasında;
+Apartmanların arasında,
 yarım saat güneş gören bir sardunya kadar
 huzurlu,
 çöplerin arasından yemek artığı bulan bir tekir kadar
@@ -129,7 +126,7 @@ gece sabaha kadar gökyüzünde yıldızları seyredip,
 saatlerce yüzebilmektir.
 
 Şekillendirilmiş çoğulcu demokrasilerde,
-A, B ya da C tarafından yönetilmeyi değil;
+A, B ya da C tarafından yönetilmeyi değil,
 “E, hiçbiri” diyebilmektir.
 Hatta yönetilmemeyi seçebilmektir.
 

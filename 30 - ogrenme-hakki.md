@@ -5,7 +5,7 @@ gördün mü önden gideni,
 yandan gelenleri,
 avlarını nasıl içine alıverirler?
 İşte bu kurt kapanıdır.
-Nasıl bildiler bunu genç yavrular?
+Nasıl bildiler bunu yavrular?
 
 Her cins,
 kendi yolunca,
@@ -40,19 +40,27 @@ duyan bir kulak,
 çalışan bir akıl için
 ne çok sır var şu dünyada.
 
-Eğitim,
-aydınlık ama zorlu olsa da
-insanlığı kurtaracak olan bu ışıklı yoldur.
+Bu ışıklı yol,
+kutlu olduğu kadar
+zordur da...
+Yürüyenlere selam olsun!
 
 Bilim, sanat, spor,
 kendini bilen
 bütün yaşam ve akıl taşıyan varlıkları kutsasın.
 Bilgi hiç eksilmeden hep artsın.
 
-Bu yolda,
-istediği konuda ve derinlikte,
-özgürce ve karşılıksız
-öğrenim insana ayrıca haktır.
-
 Bu hakkı açık tutmak,
 önceki neslin birincil görevidir.
+
+İlk kez çırpılan kanadın yorgunluğu,
+İlk avın heyecanı ve acemiliği,
+İlk tuttuğun boya kalemlerinin turuncusu,
+Yazmayı öğrendiğin ilk harfin acemi eğriliği,
+Kütüphanelerin tozlu rafları,
+Disklerin bütün katalogları,
+bu anda tanık olsun ki,
+
+Her akıllı varlığın,
+özgürce istediği konuda ve derinlikte
+öğrenmeye hakkı vardır.

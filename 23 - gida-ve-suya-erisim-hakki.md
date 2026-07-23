@@ -1,9 +1,9 @@
 ## **GIDA VE SUYA ERİŞİM HAKKI** {#gida-ve-suya-eri̇şi̇m-hakki}
 
 *BU, İNATLA, ELMAYI YENİDEN ISIRMAK,*
-	*ARMUDU, BUĞDAYI PAYLAŞMAKTIR.*
+*ARMUDU, BUĞDAYI PAYLAŞMAKTIR.*
 *BİLİMİ, SANATI YENİDEN İNSANIN AKLI*
-	*VE RUHU İÇİN GIDA YAPMAKTIR.*
+*VE RUHU İÇİN GIDA YAPMAKTIR.*
 
 Hayatta kalmak için her canlı rızkını arar.
 Bir mantar,
@@ -56,22 +56,26 @@ doğayı parça parça etmez.
 **Adil paylaşım,**
 **doğayla uyumun temelidir.**
 İnsan, açgözlülükten uzak durur,
-israfı önler ise,
+israfı önlerse,
 gerçek gereksiniminin ne denli az olduğunu görecektir.
 
 İnsan,
 artık başka canlıların beslenme alanlarını çalmayacak,
 onların sularını kirletmeyecek.
 
+Sıcak ekmeğin kokusuna,
+Köşeşinin çıtırına,
+Taze soğanı bandığın Tuz'a yemin olsun ki,
+
 Çiftçinin emeği de,
 mısırları tırtıklayan karganın hayatı da
 kutsaldır.
 
 Dünya,
-kurdu kuşu, otu, ağacı, insanı da,
+kurdu kuşu, otu, ağacı, insanı da
 suladı, doyurdu.
 
-Yer, Gök ve Su'nun varoluş sebebi budur:
+Yer, Gök ve Su’nun varoluş sebebi budur:
 her bir canlıyı
 yine sulamak,
 yine doyurmak.

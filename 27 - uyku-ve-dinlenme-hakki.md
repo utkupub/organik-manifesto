@@ -31,15 +31,22 @@ ne de karanlıktaki izlerini görüyorsun.
 İnsanın ve hükmü altındaki canlıların gecesi,
 artık yapay aydınlıkla,
 gürültüyle ve görünmez dalgalarla yaralandı.
-Seninle beraber her canlının ritmini bozmaya ne hakkın var?
+Kendi öz bedeninin karanlığa da ihtiyacı var.
+Etrafındaki
+her canlı senin ritminle yaşamak zorunda mı?
 
 Uykunun ve rüyanın kapıları kapanıyor;
 herkes tedirgin,
 her canlı huzursuz.
-İnsan bedeni betonu geçip,
-toprağa kök salamıyor artık.
 
-Bilmez ki dinlenmeyi unutan,
+Her canlı dinlenirken ağaçlara sarılır,
+toprağın geniş koynuna kıvrılır.
+Sen hep beton blokların üzerindesin,
+toprağa yeniden kök salmanın zamanı gelmedi mi?
+
+İnsan,
+bilmez mi ki,
+dinlenmeyi unutan,
 kendini unutur.
 
 Sessizliğin bahçesinde kuş seslerinin yerini
@@ -72,11 +79,14 @@ Bize dediler:
 Oysa her yeni makine
 doğanın huzurundan,
 insanın uykusundan biraz daha çaldı.
+
 Teknolojinin,
 endüstrinin,
 otomasyonun ve yazılımların
 getirdiği zenginlik
+sana mola getirmek yerine,
 yalnızca sahiplerine yaradı.
+
 Stres ve tüketim döngüleri
 kusursuzca işliyor.
 
@@ -109,10 +119,10 @@ yalnızca mezarda.
 Karanlıkta, rüyalarda dinlenirken
 ruhumuz için o ışığı arar dururuz.
 
-Ey havadakiler,
-toprağın altında ve üstünde duranlar
-ve suyun içindekiler,
-hepiniz tanık olun ki:
+Yüzlerini unuttuğun hatıraların,
+ve hatırlamaya çalıştığın o rüya,
+ve toprağın altında ve üstüne huzurla yatanlar
+tanıktır ki:
 
 Sessizlik,
 gece,

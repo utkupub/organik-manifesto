@@ -10,17 +10,14 @@
 *HAYKIRMAYA DÖNÜŞEN MİDE BULANTISIDIR.*
 
 Her canlı,
-doğal hakları çiğnendiğinde,
-hak arama,
-adalet ister.
+doğal hakları çalındığında geri ister.
 
 Civcivleri söz konusu ise,
 bir tavuk ile tilkiye kafa tutar.
 
-Fırtınaya karşı durabilir bir zeytin ağacı.
+Fırtınada dik durabilir bir zeytin ağacı.
 Susuzluğa da sabredebilir.
-
-İnsana karşı hangisinin şansı var?
+Ama bıçağa, baltaya karşı kendini nasıl savunur?
 
 Bir balinayı,
 bir ayıyı acımasızca katledenlere karşı
@@ -28,7 +25,7 @@ bir ayıyı acımasızca katledenlere karşı
 gün gelir,
 bir tavuğun hayatını savunan da olur.
 
-Boşuna mı!
+Boşuna mı
 o kadının gözleri bağlı,
 elinde terazi?
 Hem hassas,
@@ -58,7 +55,15 @@ kendi adaletini arar.
 Bu yalnızca doğa kanunu değil,
 **evrensel bir hak** meselesidir.
 
-Gök hep şahit olmuştur ki,
+Yola sarkmış elmanın, çağlanın ekşisini,
+haram lokmanın acılığından ayırabilenler,
+şiddet ile fikri ayırt edebilenler,
+ve mavi Gök,
+ve sıcak Güneş,
+ve karanlık Gece,
+ve büyük Yaratıcı,
+şahittir ki,
+
 adaletin olmadığı yerde,
 öfke büyür, denge bozulur.
 Hak öyle ya da böyle yerini bulur.

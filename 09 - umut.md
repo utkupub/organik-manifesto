@@ -13,18 +13,21 @@ zenginlik sayar onlar.
 
 Öz kız ve oğullarımızdan ruhlarını
 tüketim zincirlerine adamalarını istedik.
-Tombullaştı hepsi!
-Sınav ve iş hayatının stresi ve hırsıyla.
+Sınavın,
+iş hayatının stresi ve hırsıyla
+tombullaştı hepsi!
 
-Cadılar ve Patronlar afiyetle izliyordu semirmelerini!
+Cadılar ve Patronlar,
+ekranların ardından
+afiyetle izliyordu semirmelerini!
 
-Artık;
+Artık,
 sanal gerçeklikler,
 öz gerçeklikler birbirine karıştı.
 Çocuklarımın gelecek hayalleri,
 geçmiş düş kırıklarına evrildi.
 
-Gökyüzü kadar geniş internette;
+Gökyüzü kadar geniş internette,
 ekranlara serpilen ekmek kırıntılarına,
 her tıkladığımızda eve ulaşacağımızı sanırız.
 “Sepete at”, “satın al”;

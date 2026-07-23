@@ -1,7 +1,7 @@
 ## **BÖCEKLERE SAYGI** {#böceklere-saygi}
 
 *BU, SİVRİSİNEĞİN DE,*
-*BOKBÖCEĞİNİN DE,*
+*BOK BÖCEĞİNİN DE,*
 *BAL ARISININ DA,*
 *ÖRÜMCEĞİN DE*
 *YERİNİ FARK ETMEKTİR.*
@@ -19,7 +19,7 @@ Tek sevdiğin böcek,
 bal arısı, kelebek.
 
 Ömürleri kısa olsa da,
-bütün kuşların, 
+bütün kuşların,
 minik canlıların
 gıdası onların üzerine dönüyor.
 Büyük olanın lokması da
@@ -35,10 +35,10 @@ fazlası ya da eksikliği,
 doğayı eksiltir
 ya da azdırır.
 
-Görmedin mi! 
+Görmedin mi?
 Çekirgeler kaç kere geçti buralardan?
 
-Böceği dışarda tutmak için tül, 
+Böceği dışarıda tutmak için tül,
 kovmak için kokulu bitki lazım.
 
 Tarım yapacağım diye
@@ -49,8 +49,13 @@ sana da dokunur.
 
 Sığ suyu, bataklığı kurutma.
 Orası böceğin yuvasıdır.
-Senin bahçen yahut 
+Senin bahçen yahut
 rekreasyon alanı değil.
+
+Uğur böceğinin kırmızı fonda siyah noktalarına,
+Kelebebeğin bir aşağı bir yukarı saçma sapan uçuşuna,
+Bok böceğinin yuvarladığı boklara,
+Karıncanın biriktirdiklerine andolsun ki,
 
 Bataklık da,
 sığ su da,

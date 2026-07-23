@@ -5,18 +5,18 @@
 *TOPRAĞIN YENİDEN GÜLÜMSEMESİDİR.*
 
 Bitkinin de ruhu vardır;
-Bunu yadsıyan kendi ruhunun varlığını yadsır...
+bunu yadsıyan kendi ruhunun varlığını yadsır...
 
 Bu ruh,
 toprak ve suyla beslenir,
 güneşle arınır.
 
-Görmez misin!
+Görmez misin?
 Küçücük elma çekirdeğinden
 koskoca bir elma ağacı doğar.
 
 Tohumun yazgısıyla oynanmaz,
-Tohumunu kendin üret,
+tohumunu kendin üret,
 sakla,
 değiş tokuş et.
 Yerel olanları özellikle yaşat.
@@ -44,6 +44,9 @@ Tek ürüne dayalı ekimden kaçın;
 çeşitliliği, yerli tohumu,
 komşu tarla uyumunu gözet.
 
-Tohum toprağın,
-Kendini yeniden var etmek,
+O tatlı,
+o olgun şeftalinin,
+incecik kabuğuna andolsun ki
+Tohum toprağındır.
+Kendini yeniden var etmek
 her bir tohuma hakdır.

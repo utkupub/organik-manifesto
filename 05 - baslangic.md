@@ -1,3 +1,6 @@
-﻿# **BAŞLANGIÇ** {#başlangiç}
+﻿# **BAŞLANGIÇ**
 
-<!-- Bu ana bölüm başlığıdır; Bir, Hayal, Hak ve Umut alt başlıkları bunun altında gelir. -->
+Her şey bir’den doğar.
+Önce hayal belirir,
+sonra hak dile gelir,
+sonunda umut kalır.

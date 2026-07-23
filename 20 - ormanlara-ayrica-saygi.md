@@ -30,18 +30,18 @@ gölgesine sığındığı,
 çiftleşip bağırdığı,
 üstünden uçtuğu,
 patikalarında koştuğu,
-o yeşil, o kara, 
+o yeşil, o kara,
 o kadim sisler içindeki hayatın geçtiği yerdir.
 
 Bundan böyle kesme, yakma.
 Orman ürün değil, yaşayan bütündür;
 “Gençleştirme” bahanesiyle dahi kesim yapma.
-Kesim, kut’u yaralar; 
+Kesim, kut’u yaralar;
 orman yaşamın kaynağıdır.
 
 Her bir ağaç yansa
 ve her bir yaprak küle dönüşse de,
-orman alanından bir metre dahi eksiltemezsin,
+orman alanından bir metre dahi eksiltemezsin.
 Aksine, yakılan ormanı genişleteceksin ki
 bir daha kimse yakmaya cesaret edemesin.
 Bu yanan milyonlarca can için küçük bir teselli,
@@ -59,6 +59,12 @@ ormanla bir olan kişidir;
 rızkını zarar vermeden,
 hatta yarar katarak arar.
 
+İnsan,
+ne bahaneyle olursa olsun,
+ormandan uzak dursun.
+Yoksa ormanın da soyu tükenecek.
+Vay o zaman haline.
+
 Bugünün insanı,
 orman için
 yangın,
@@ -69,16 +75,18 @@ ve ambalaj pisliği,
 ormandaki her tür için
 ölüm demektir.
 
-Ormana,
-ne yerleşim yapılır, ne bina kurulur.
-Turizm otel, tesis de kurulmaz.
-İçinden, yakınından yol geçirilmez.
-Ormana maden sahası açılmaz,
-baraj yapılıp suyu alınmaz.
+Manzarası güzel diye ormana site kurulmaz.
+Havası suyu güzel diye turizme açılmaz.
+Kestirme diye içinden yakınından yol geçirilmez.
+Altın yahut mermer de var diye zehirlenmez, patlatılmaz.
+İçinden geçen sular çalınmaz, baraj yapılmaz.
+Satılmaz, kiralanmaz, imar edilmez.
 
-İnsan,
-ne bahaneyle olursa olsun,
-ormandan uzak dursun.
+Orman ne insanın
+ne de devletlerin malıdır.
+
+Orman bütün dünyanın,
+bütün canlıların ortak vatanıdır.
 
 Çok canın çekiyorsa ormanda dolaşmak,
 önce fidanları büyüt,
@@ -87,14 +95,6 @@ sonra dik binlerce, milyonlarca.
 Onlar yetişip orman olduğunda
 sen de istemeyeceksin
 kimsenin girmesini o ormana.
-
-Orman satılmaz,
-kiralanmaz,
-imar edilmez.
-Orman ne insanın
-ne de devletlerin malıdır.
-Orman bütün dünyanın,
-bütün canlıların ortak vatanıdır.
 
 Her adağın öldürmek değil,
 yaşatmak olsun,
@@ -119,15 +119,15 @@ Dal kessen dahi,
 gün doğusunun alazında arın;
 Yaratıcıya toprak için şükret,
 yeni canlara sebep ol.
-tohum saç,
+Tohum saç,
 fidan dik,
 kurda kuşa armağan bırak.
 Saçı geleneğini hatırla.
 
-Ormanları genişlet ve birbirine bağla ki;
+Ormanları genişlet ve birbirine bağla ki
 tohum,
 kurt kuş,
-rüzgar aksın birinden ötekine,
+rüzgâr aksın birinden ötekine,
 yalnız orman,
 yalnız insan gibi yaşayamaz.
 
@@ -139,5 +139,7 @@ Ağaç yalnız odun değildir,
 yerle göğü bağlayan sütundur.
 
 Ormanı yok etme, yerini dolduramazsın.
+Meşelerin neşesine,
+Çamların sakızına andolsun ki,
 
 **İnsansızlık, ormanın hakkıdır.**

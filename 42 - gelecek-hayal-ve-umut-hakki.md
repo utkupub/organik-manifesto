@@ -1,4 +1,4 @@
-## **GELECEK, HAYAL ve UMUT HAKKI** {#gelecek-hayal-ve-umut-hakki}
+## **GELECEK, HAYAL VE UMUT HAKKI** {#gelecek-hayal-ve-umut-hakki}
 
 *BU, BİR RÜYAYI GERÇEKLEŞTİRMEKTİR.*
 *BU, NUH’UN GEMİSİNİN KARAYA OTURDUĞU ANDAKİ UMUTTUR.*
@@ -25,7 +25,7 @@ ve gönençli yarınları hayal eder durur.
 
 Hayalleri ve umutları elinden alınırsa,
 insan aklından geriye
-yaratıcılıktan yoksun kupkuru bir zeka kalır.
+yaratıcılıktan yoksun kupkuru bir zekâ kalır.
 
 Mutluluğun ilk yarısı,
 onu hayal ve umut etmektir.
@@ -46,7 +46,10 @@ algılayamaz, yüceltemez bunları.
 soluk alabilmek kadar gerekli.
 Bir o kadar da haktır.
 
-Dengeye oturmuş,
-kurtarılmış bir doğa,
-temiz ve mutlu bir gelecek hayali
-her canlının umudu olduğu kadar hakkıdır.
+Yatak odasının kapısına çizilmiş boy çizgilerine,
+Mars’ta kurulacak kolonideki kapı seslerine,
+kurtarılmış bir dünyanın,
+temiz ve mutlu bir habitatın
+hayalini kuranlara
+and olsun ki
+her canlıya hayal ve umut hakdır.

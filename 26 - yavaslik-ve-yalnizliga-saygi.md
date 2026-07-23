@@ -37,7 +37,7 @@ vending makinesi arasında bir seçimdir.
 Bu, hissetme,
 düşünme ve var olma biçimidir.
 
-'Yavaş şehir' çağrılarına kulak ver.
+“Yavaş şehir” çağrılarına kulak ver.
 Yavaşlık şehirlerin hakkıdır.
 
 Kocaman gökdelenlerden,
@@ -64,9 +64,12 @@ bitki ve hayvanlar dâhil
 
 Arnavut kaldırımı yavaştır.
 Hiç hız tümseği gördün mü?
-Aynı zamanda,
-sokakların altına su geçirmesi
-şehrin suyuna ve ruhuna haktır.
+Yağmur da sızar altına.
+Taşların arasındaki yosunlar,
+pabucunun topuğu tıkırdatanlar
+ve hızlı gitmeye çalışan şoförlerin küfürleri
+şahittir ki,
+arnavut kaldırımı sokakların hakkıdır.
 
 Bir şehirden öbürüne
 bir an önce akmak değil,
@@ -97,6 +100,8 @@ Gençliğin deli hızı bitip
 yaş ortaya gelince,
 herkes “hayat çok kısa” der!
 
-Gökler, yer ve su tanık olsun ki;
+Göklerin altında ve
+yerin üstündeyken,
+Hamakların huzurlu salınmları tanık olsun ki,
 bu hakkı kullanıp yavaşlayabilirsen,
 yaşam sanıldığından çok daha uzundur.

@@ -31,7 +31,7 @@ geçimini sürdürecek,
 toprağa ve barınağa hakkı vardır.
 
 Yuvanı yaparken orada var olan canları sokağa atma,
-hiç kimseye, özellikle doğaya zarar verme.
+kimseye, özellikle doğaya zarar verme.
 Mümkünse, bir ağaç bile kesme.
 Zorda kalırsan önce taşımaya çalış.
 Eğer kesmek zorunda kalırsan,
@@ -39,7 +39,7 @@ can borcunu aynı bölgede
 hemen yanı başına çok daha fazlasını dikerek öde.
 Yuva için,
 asla bir evlek alandan fazlasını işgal etme.
-Yuvanı beton yığını haline getirme.
+Yuvanı beton yığını hâline getirme.
 O toprak sana emanettir,
 sen de o toprağa emanetsin.
 Her can bir gün toprağa dönecektir.
@@ -56,7 +56,7 @@ obasına asla rızasız girme,
 hep ön kapıdan selamlayarak,
 eşikten geçerken başını eğerek gir.
 
-Yuvan evin senin ailen için bir kaledir,
+Yuvan, evin senin ailen için bir kaledir,
 lakin duvarlarını alçak tut.
 Evinde,
 yuvanda ve bahçende
@@ -67,7 +67,7 @@ Kapıya gelen,
 kapıyı çalan boş döndürülmez.
 Gökler şahittir ki,
 çocuk da, konuk da bereketiyle gelir.
-Hiçbir yere ‘benimdir’ deme,
+Hiçbir yere “benimdir” deme,
 sen de o toprakta misafirsin, unutma.
 
 Dağlar,
@@ -78,6 +78,10 @@ ağıllar,
 besihaneler,
 ağaçlar hep başkasının yuvasıdır.
 Hepsine aynı saygıyı göster.
+
+O minik kuşun,
+yuvası için gidip gelip topladığı her çöpe
+ve gayretine andolsun ki,
 
 Dünya çok geniştir;
 açgözlülük olmasa hiçbir canlıya darlık düşmez.

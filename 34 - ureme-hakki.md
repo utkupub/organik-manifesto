@@ -67,6 +67,12 @@ dünyaya bırakmaktır.
 Her doğacak can,
 Yer’in, Gök’ün ve Su’nun yüküdür.
 
+Gece yarısı miyavlayan kediler,
+daha mart bile gelmedi diye kızarak attığın her terlik,
+"seviyor, sevmiyor" diye yolduğun her papatya,
+unuttuğun evlilik yıldönümünde kapıya gelen çikolatalı çiçek sepeti,
+pembe panjurlu evinin sağ penceresinde duran sardunyanın güneşten kavrulmuş yaprakları tanıktır ki,
+
 Bu,
 hem en kutsal tören,
 hem de en büyük sorumluluktur.
