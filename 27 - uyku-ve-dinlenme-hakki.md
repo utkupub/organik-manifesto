@@ -25,8 +25,8 @@ yedi gökle olan bağlantını onarır.
 
 Gündüzü, geceye taşıyabileceğini sanıyorsun.
 Güneşi soldurur, ayı küstürür oldun.
-Ne kutsal yıldızların adını bilir,
-ne de karanlıktaki izlerini görüyorsun.
+Ne kutsal yıldızların adını bilirsin,
+ne de karanlıktaki izlerini görürsün.
 
 İnsanın ve hükmü altındaki canlıların gecesi,
 artık yapay aydınlıkla,
@@ -119,9 +119,9 @@ yalnızca mezarda.
 Karanlıkta, rüyalarda dinlenirken
 ruhumuz için o ışığı arar dururuz.
 
-Yüzlerini unuttuğun hatıraların,
+Yüzlerini unuttuğun hatıralar,
 ve hatırlamaya çalıştığın o rüya,
-ve toprağın altında ve üstüne huzurla yatanlar
+ve toprağın altında ve üstünde huzurla yatanlar
 tanıktır ki:
 
 Sessizlik,

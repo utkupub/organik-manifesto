@@ -1,4 +1,4 @@
-4. # **BÖLÜM \- İŞGALİMSİN** {#bölüm---i̇şgali̇msi̇n}
+4. # **BÖLÜM - İŞGALİMSİN** {#bölüm---i̇şgali̇msi̇n}
 
 *“Ne yapmış insan doğaya!”*
 

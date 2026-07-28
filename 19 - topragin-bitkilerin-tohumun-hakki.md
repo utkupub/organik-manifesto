@@ -44,9 +44,10 @@ Tek ürüne dayalı ekimden kaçın;
 çeşitliliği, yerli tohumu,
 komşu tarla uyumunu gözet.
 
-O tatlı,
+O kesilen dalın yarattığı budağa,
+o tatlı,
 o olgun şeftalinin,
-incecik kabuğuna andolsun ki
-Tohum toprağındır.
+incecik kabuğuna and olsun ki,
+tohum toprağındır.
 Kendini yeniden var etmek
 her bir tohuma hakdır.

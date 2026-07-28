@@ -18,71 +18,50 @@ görüp tanımak,
 bir kaya gölgesinde soluklanmak ister.
 Her yaşamın özü budur.
 Can, yerinde durmaz;
-ayak, yola düşmek ister.
 
-Hareket etmek, dolaşmak, gezebilmek
-tavuklara,
-davarlara,
-ineklere,
-köpeklere,
-kedilere,
-kuşlara;
-özellikle
-duvarların arasına,
-tel örgülerin ardına hapsedilmiş,
-betona mahkûm,
-odalara sıkışmış insan dâhil
-bütün canlılara haktır.
-
-Sirkleri,
-su parklarını,
-hayvanat bahçelerini
-eğlence sanırsın da
-o düşkün hallerini görmez misin?
-Senin hapishanelerini de
-dondurma yiyerek dolaşsalar
-sana eğlenceli gelir mi?
-Senin orada bulunman suçtur;
-hayvanların suçu ne?
-
-İnsan,
-yeryüzünde adım adım yürümeden
-kendi ruhunu bulamaz;
-dünyayı yürüdükçe tanır,
-görür, anlar,
-kıyaslar ve özgürleşir.
-
-Yürürken,
-gözlerindeki kut,
-konduğu yerde yurt kurar.
 Yola düşünce ayak,
-yoldaşlık eden,
-atlar ve kurtlardır;
-artık yol yolcuya yuvadır.
-
-Yazlar ve kışlar boyu
-yolda gördükleriyle olgunlaşır akıl.
-Bazıları için hayat sadece gezmekten ibarettir.
-“İt ayağı dolanmış bir kere onların ayağına.”
-
-Her can,
-barınağının dışına çıkıp
-özgürce dolaşma hakkına sahiptir.
+gözlerdeki kut ruhunu arar.
+Artık yol yolcuya yuvadır.
 
 Hiçbir kuş yalnızca bir göğe,
 hiçbir kurt
 yalnızca bir dağa hapsedilemez.
 
-Milli parklar,
-tel çitler,
-duvarlar,
-bunlar cana zindandır.
+Bazıları için hayat sadece gezmekten ibarettir.
+“İt ayağı dolanmış bir kere onların ayağına.”
+
 Dünya çok geniştir;
 her yön kutludur.
 Doğuya da gitmeli,
 batıya da;
 kuzeyin soğuğuna da,
 güneyin sıcağına da.
+
+Her kartal gönlündeki yöne uçar.
+Gök ve ötesi,
+suyun içi,
+yerin altı ve üstü
+her canın hakkıdır.
+
+Sirkleri,
+su parklarını,
+hayvanat bahçelerini
+eğlence sanırsın da
+o düşkün hâllerini görmez misin?
+Senin hapishanelerini de
+dondurma yiyerek dolaşsalar
+sana eğlenceli gelir mi?
+Senin orada bulunman suçtur;
+hayvanların suçu ne?
+
+Her can,
+barınağının dışına çıkıp
+özgürce dolaşma hakkına sahiptir.
+
+Milli parklar,
+tel çitler,
+duvarlar,
+bunlar cana zindandır.
 
 Yaban hayatının yolları,
 birbirine kavuşan damarlar gibi kesintisiz olmalı.
@@ -94,12 +73,6 @@ doğaya değmeden.
 Bil ki,
 insanın medeniyeti doğayı bölerse,
 sadece ölüm getirir.
-
-Her kartal gönlündeki yöne uçar.
-Gök ve ötesi,
-suyun içi,
-yerin altı ve üstü
-her canın hakkıdır.
 
 Diğerleri gibi insan da,
 dilediği dağı, vadiyi, ırmağı,
@@ -137,10 +110,17 @@ Bu dünyada sen de zoraki bir yolcusun,
 unutma.
 
 Bastığın her pedala,
-Aşağı saldığında yüzüne çarpan rüzgara,
-Hızın artarken içinde artan heyecana,
-Yorulduğunda oturduğun toprağa,
+aşağı saldığında yüzüne çarpan rüzgâra,
+hızın artarken içinde artan heyecana,
+yorulduğunda oturduğun toprağa,
 yaslandığın ağaca ve gölgesine and olsun ki,
+
+hareket etmek, dolaşmak, gezebilmek
+her hayvana, her insana,
+duvarların arasına,
+tel örgülerin ardına hapsedilmiş,
+betona mahkûm,
+bütün canlılara haktır.
 
 **Mavi göklerin altında,**
 **her canlı için dolaşmak haktır.**

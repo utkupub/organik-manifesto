@@ -58,15 +58,8 @@ Saçı geleneğini unutma!
 Eti keyif veya bolluk için değil;
 bedenin gerektirdiği ölçüde ye.
 
-Yerine başka bir şey koyabildiğin sürece
-artık hayvan tüketme.
-
-Sadece
-kürkü, postu, derisi için hayvan beslemek
-caniliktir.
-
 Güzellik, süs ya da boş heves için
-hiçbir canı denek etme.
+hiçbir canı öldürme, denek etme.
 
 Karınca da olsa, solucan da,
 fare de olsa, tavşan da olsa,
@@ -75,7 +68,7 @@ eziyet etmek
 büyük zalimliktir.
 
 Yılan derisi kemerlere,
-timsah derisi ayakkabılara, çantalara,
+timsah derisi çantalara,
 samur kürklere,
 vizon mantolara...
 Yemin olsun ki,

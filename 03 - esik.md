@@ -15,21 +15,21 @@ Seslenişlerim,
 Kızsam da, bağırsam da,
 öfkem, parçası olduğum insanlığa.
 
-Bunları okuduktan sonra ne yapacağın sana kalmış.
-Belki kedilere biraz daha fazla mama verirsin.
-Belki cebinde birkaç tohum taşır,
-geçtiğin yerlere saçarsın,
-bir fidan diker,
-bir köfteden vazgeçersin,
-bir geceyi ışıksız yaşarsın,
-Bil ki yalnız olmayacaksın!
-
 Doğa,
 küçük adımlarla milyarlarca yıl yol aldı.
 “ÇÖP Manifestosu” sana bu yolu tarifler.
 
-Çünkü her şey ÇÖP’e karışabilir.
-Ve her şey, yeniden ÇÖP’ten doğabilir.
+Bunları okuduktan sonra atacağın minik adımlar sana kalmış.
+Belki, yıllardır paslanan bisikletinin
+tekerleklerini yeniden şişirir, zincirini yağlarsın.
+Belki, kapında dolanan sıska tekire
+biraz daha mama verirsin.
+Belki, yanından geçtiğin parkta sağa sola dağılmış palamutları cebine doldurup,
+geçtiğin yerlere saçarsın.
+Ne bileyim!
+Belki, bir köfteden vazgeçersin.
+Bir geceyi ışıksız yaşarsın.
+Belki, bir termik santral kapattırmak için imza verirsin.
 
 Belki sen de,
 ÇÖP’e karışır,

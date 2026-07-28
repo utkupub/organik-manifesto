@@ -1,4 +1,4 @@
-3. # **BÖLÜM \- A++ İNSAN OLMAK** {#bölüm---a++-i̇nsan-olmak}
+3. # **BÖLÜM - A++ İNSAN OLMAK** {#bölüm---a++-i̇nsan-olmak}
 
 Gri gökyüzünün altında, ıslanmaktaydım.
 Kaldırımda yer bulmuş ağacın altına sığındım. 
@@ -49,7 +49,7 @@ acıklı bir sona doğru çok hızlı koşuyoruz.
 Oysa,
 insan da doğmadı mı bir anadan?
 Canı bir kuzudan daha mı kutsal?
-Anası sevmedi mi onu “kuzum” diye\!
+Anası sevmedi mi onu “kuzum” diye!
 
 Ve yazılan tarih tanıktır ki;
 İnsan hem cinslerine dahi eziyet ve soykırımlar yaptı.
@@ -59,7 +59,7 @@ Binlerce başka canlı türünü de yeryüzünden sildi.
 Kendi türümüzü dahi,
 uydurma sebeplerle hunharca katlederken,
 foklar ve ayılar için merhamet gösterecek
-değiliz elbette\!
+değiliz elbette!
 
 Kirpi, tavşan veya meşe
 nasıl yer bulur dünyamızda?
@@ -70,14 +70,14 @@ ve lale.
 Paranın satın aldığı şeyler
 “büyük ekran TV”
 veya “yıldızlı arabalar” mıdır?
-Buna “konforlu kölelik” dediler ya\!
+Buna “konforlu kölelik” dediler ya!
 
 Büyük, geniş, güvenli, 
 pahalı, gösterişli,
 hızlı, teknolojik, 
 ve farklı olan her şey çaldı aklımızı.
 
-“*İnsan istekleri sonsuz\!*” gerçekten.
+“*İnsan istekleri sonsuz!*” gerçekten.
 
 Doğal kaynaklarımız hesapsızca harcanan
 kredi kartlarına dönüştü.
@@ -94,7 +94,7 @@ dağlara ve adalara dönüşen miktarda çöp,
 nükleer atık, pestisitler,
 her türlü zehirli gaz ve karbondioksit.
 
-Saymaktan sıkılacak kadar üretiyoruz artık\!
+Saymaktan sıkılacak kadar üretiyoruz artık!
 
 Her geçen gün,
 şehirlerimizi,
@@ -138,7 +138,7 @@ ben mi söndüreceğim lambaları."
 
 "Ben de isterim bahçemde bir havuz."
 
-Bu nasıl bir ikilem\!
+Bu nasıl bir ikilem!
 Uçurumun kenarından bile dönemeyeceğiz artık.
 
 Hava durumu,
@@ -147,7 +147,7 @@ haberlerin sonunda sıkıcı bir eklenti.
 Seller ve orman yangınları,
 küresel ısınma gerçek mi?
 Bunların bize ulaşacağı güne dek bekleyecek miyiz?
-“*Harekete geçmek çok yorucu\!*”
+“*Harekete geçmek çok yorucu!*”
 
 Görmediği,
 bilmediği,
@@ -171,7 +171,7 @@ uyumlanıp devam edeceğiz.
 
 Yüz yıl sonra bu dünya,
 çocuklarımıza ne söyleyecek?
-“*Kimin umurunda\!*”
+“*Kimin umurunda!*”
 
 Bir gün,
 insan o drama filminin aktörü olduğunda ancak,

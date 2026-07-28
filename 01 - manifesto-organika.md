@@ -12,6 +12,10 @@ onunla birlikte nefes almaktır.
 Varoluş ve yaşamak için
 kimseye hesap vermemektir.
 
+Her şey ÇÖP’e karışabilir.
+Ve her şey, yeniden ÇÖP’ten doğabilir.
+
+
 MAHMUT UTKU ÇAKAR
 
 2025

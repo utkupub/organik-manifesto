@@ -38,5 +38,5 @@ Yaşama isteğindeki o güçlü kut bundandır.
 
 Çarpan her kalbe,
 suyun yürüdüğü damarlara
-ant olsun ki!
-Yaşamak her canlının kutsal hakkıdır.
+and olsun ki,
+yaşamak her canlının kutsal hakkıdır.

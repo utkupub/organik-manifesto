@@ -30,55 +30,43 @@ dokunulmazdır.
 
 Böylesine kutsal bir şey,
 herhangi bir ticaretin parçası olabilir mi?
+
 O
 satılamaz,
 kiralanamaz,
 özelleştirilemez.
 
-Suyun aktığı dereler,
-çaylar,
-nehirler,
-toplandığı göller,
-denizler,
-okyanuslar
+İşgalin hızla genişliyor.
+Tarım, şehir, sanayi, maden, turizm!
+Bahanelerin ne çok, doğadan çalmak için.
+
+Dağlar, ovalar, kayalar,
+dereler, nehirler, göller,
+denizler, okyanuslar
 en az insan kadar diğerlerinin de
 hakkı ve yuvasıdır.
-
-İnsan kendi işgalini
-ve müdahalesini sınırlayacak ki,
-doğa suyu da
-gıdayı da yenilesin.
-
-Diğer türler gıda için
-doğayı parça parça etmez.
-İnsan da etmeyecek.
-
-**Adil paylaşım,**
-**doğayla uyumun temelidir.**
-İnsan, açgözlülükten uzak durur,
-israfı önlerse,
-gerçek gereksiniminin ne denli az olduğunu görecektir.
 
 İnsan,
 artık başka canlıların beslenme alanlarını çalmayacak,
 onların sularını kirletmeyecek.
 
-Sıcak ekmeğin kokusuna,
-Köşeşinin çıtırına,
-Taze soğanı bandığın Tuz'a yemin olsun ki,
+Diğer türler gıda için
+doğayı parça parça etmez.
+İnsan da etmesin artık.
+
+İnsan, açgözlülükten uzak durur,
+sadece ihtiyacı kadar tüketirse, kimseye darlık düşmez.
 
 Çiftçinin emeği de,
 mısırları tırtıklayan karganın hayatı da
 kutsaldır.
 
+Sıcak ekmeğin kokusuna,
+köşesinin çıtırına,
+taze soğanı bandığın tuza yemin olsun ki,
+
 Dünya,
 kurdu kuşu, otu, ağacı, insanı da
-suladı, doyurdu.
-
-Yer, Gök ve Su’nun varoluş sebebi budur:
-her bir canlıyı
-yine sulamak,
-yine doyurmak.
-
+sular, doyurur.
 Yeter ki insan,
 her şeyi sadece kendine istemesin!

@@ -1,4 +1,4 @@
-5. # **BÖLÜM \- AKIL, BEDEN, UYUM** {#bölüm---akil,-beden,-uyum}
+5. # **BÖLÜM - AKIL, BEDEN, UYUM** {#bölüm---akil,-beden,-uyum}
 
 *Dünyanın yüzünde tek bir kural var:*
 *“Doğaya Uyumlan ya da Yok Ol”*
@@ -106,7 +106,7 @@ ve mum ışığında 10 dakika
 hiçbir şey yapmadan oturup,
 camdan dışarıyı
 ya da mum alevini seyredin.
-Anlayacaksın\!
+Anlayacaksın!
 
 Teknoloji ve konfor elbette gerekli,
 ama buna kölelik şart değil.
@@ -115,7 +115,7 @@ ama buna kölelik şart değil.
 doğal ve içgüdüsel bir tepkidir.
 
 Bu tepki sana
-7\. kata toprak taşıtıp
+7. kata toprak taşıtıp
 saksıya çiçek diktirir.
 Bu tepki sana
 çay demletip
@@ -131,7 +131,7 @@ yeni kesilmiş çimen kokusunu içine çektiren.
 Bu tepki sana
 güneşin doğuşunu
 ve batışını izletir.
-İçimde saymak istediğim şeyleri bir bilsen\!
+İçimde saymak istediğim şeyleri bir bilsen!
 İçindeki doğa özlemini çaresizlikten
 ya da umursamazlıktan unuttun ya da baskıladın.
 

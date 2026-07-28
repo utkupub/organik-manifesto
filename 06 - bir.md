@@ -1,28 +1,34 @@
 ## **BİR** {#bi̇r}
 
-Geniş göğüslü mavi gökyüzünün altında
-ve derin mavi suyun içinde
-ve uçsuz bucaksız tozlu toprağın üstünde
-doğanlar, yaşayanlar, soluk alıp verenler
+Geniş göğüslü mavi gökyüzünde,
+derin mavi suyun içinde,
+uçsuz bucaksız tozlu toprağın üzerinde
+doğanlar,
+yaşayanlar,
+soluk alıp verenler
 ve ölenler BİR’dir.
 
-Ve kırmızı kanın aktığı her kalbe,
-su yürüyen her damara ant olsun ki,
-hayat kutsal tek bir varlıktır
-ve hep var olacak.
+Kırmızı kanın aktığı her kalbe,
+su yürüyen her damara and olsun ki,
+yaşam, kutsal tek bir varlıktır.
 
-Ve toprağa inen her damla su,
-çakan her şimşek,
-kayan kara bulutlar bilir ki,
-her yeşil yaprak, her mahlukat,
-yere dik yürüyen sizler dâhil,
-bu varlığın ayrılmaz parçası.
+Ulu gökte çakan şimşek,
+kayan kara bulutlar,
+toprağa inen her damla su
+bilir ki,
+her yeşil yaprak,
+her mahlukat,
+yere dik yürüyen sizler de dâhil,
+bu varlığın ayrılmaz parçasıdır.
 
 Atan her kalp,
-su yürüyen her damar;
-ötekine canıyla bağlı.
-Yaşam, hem ölür, hem can verir,
-hem öldürür, hem ürer, can olur.
+damarlarına su yürüyen her bitki
+bilir ki,
+biri ötekine canıyla bağlıdır.
+
+Canlılar
+doğar, ürer, ölür, öldürür.
+
 Kut hiç eksilmez,
 kalp çarpıntısıyla artar,
 ayakta durur.
@@ -32,11 +38,19 @@ sıcak Güneş,
 ve uzak Yıldızlar bile,
 bu hassas ruhu kutsar, kollar.
 
-Her karış toprağa,
+İçinde solucanların,
+mantarların, böceklerin dolandığı
+her karış toprağa,
+içinde milyarlarca mikroskobik canlının, balıkların dolandığı,
 her damla suya,
-yaşamın kutsal soluğu üflenmiş.
+içinde kuşların, kara sineklerin, renkli kelebeklerin
+uçtuğu her soluk havaya,
+yaşamın kutsal soluğu üflenmiştir.
 
-Bu obur, yaşlı dünya
+Bu obur,
+koca yaşlı dünya
 her doğanın sevinciyle,
 her ölenin hüznüyle
-koca uzay boşluğunda döner durur.
+Güneşin ardı sıra,
+bir sonraki geceyi ve gündüzü özleyerek
+koca uzay boşluğunda öylece döner durur.

@@ -69,23 +69,14 @@ Denizlerdeki av başına buyruk
 kıyıma döndü.
 Dizginsiz açgözlülük yüzünden
 öldürülenlerin çoğu heder.
-
 **Sudaki can ticaretini bitir artık.**
-Kirletmemeyi başarabilirsen,
-su çiftlikleri açlığını azıcık yatıştırabilir.
 
-İlaç için yabandan
-yahut ormandan toplanan
-nadir otlar müstesna,
-gıda amaçlı
-yabani bitki, kök, ot veya mantar toplamak bile
-sürdürülemez hâle geldi.
-
-Bu yaşayışın kalıcılığı yoktur;
-doğaya onarılmaz yaralar açar.
+Bu, daha ne kadar sürebilir ki!
+Son Anadolu parsını öldürdüğün günü hatırla.
+Son ördeği, tavşanı, kekliği ve balığı da yakında avlayacaksın.
 “Gerçekten, avcı ve toplayıcı olma artık.”
 
 Attığın kurşunu eriten çıra bile ağladı,
-Attığın ağdaki ilmekler bile ağladı.
+attığın ağdaki ilmekler bile ağladı.
 En azından yabandaki canı özgür bırak,
 bu onların göksel hakkıdır.

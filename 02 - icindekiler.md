@@ -37,7 +37,7 @@
   - Destek Hakkı
   - Adalet Hakkı
   - Ölüm ve Ölülerin Hakkı
-  - Yok Olmama Hakkı
+  - Nükleersizlik Hakkı
   - Değişim Hakkı
   - Gelecek, Hayal ve Umut Hakkı
   - Mutluluk Hakkı

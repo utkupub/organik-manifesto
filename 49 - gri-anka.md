@@ -1,4 +1,4 @@
-7. # **BÖLÜM \- GRİ ANKA** {#bölüm---gri-anka}
+7. # **BÖLÜM - GRİ ANKA** {#bölüm---gri-anka}
 
 Bu yazılar durdurur mu?
 Ya filmler,
@@ -7,8 +7,8 @@ Ya uzaklardan gelen
 bir sel, bir açlık, bir kuraklık, bir sıcaklık 
 haberi?
 
-Dinleyenler, bağıranlar bir avuç insan\!
-Bize uğramasın ölümün melekleri, yeter\!
+Dinleyenler, bağıranlar bir avuç insan!
+Bize uğramasın ölümün melekleri, yeter!
 Ne okumak,
 ne görmek,
 ne duymak,

@@ -14,74 +14,50 @@ Aceleye getirilmemiş,
 derinlikli bir yaşam da
 bütün canlılara haktır.
 
-Bu hakkı
-çiftliklerdeki hayvanların elinden
-zaten aldık.
-Dünyadaki her şeyi hızlandırdık.
+Hızlı yaşa, genç öl.
+Çiftlik hayvanları için aslında bu slogan.
 
+Her şeyi hızlandırdık.
 Her şeyi hemen!
 Her şeyi hızlı istiyoruz.
-Her şeyin ölçü birimi dakika oldu.
 
 Hem üretim hem tüketim için bu hız!
 Can ve ruh buna dayanamaz oldu.
-Bu karmaşık teknolojik hıza
-hiç kimsenin uyum sağlaması mümkün değil!
+Bu karmaşık teknolojik hıza nasıl uyum sağlanır?
 
-Yavaşlık yalnızca bir ritmin yavaşlaması değildir.
-Yemek yerken, dolma ve fast-food arasındaki tercihtir.
-Bu semaverdeki çay ve Türk kahvesiyle,
-karton bardak tadındaki amerikano arasındaki farktır.
-Bakkal Ahmet amca ile,
-vending makinesi arasında bir seçimdir.
-Bu, hissetme,
-düşünme ve var olma biçimidir.
+Tam tersinden zevk aldığımız hâlde,
+yemekler,
+kahveler,
+trenler,
+dersler, kurslar,
+marketler,
+bankalar,
+kalpler ve aşk hızlı.
+
+Yaşayabildiğimizi anlayabileceğimiz
+ve anı hissedebileceğimiz bir ritim tutturmak gerek.
 
 “Yavaş şehir” çağrılarına kulak ver.
-Yavaşlık şehirlerin hakkıdır.
 
-Kocaman gökdelenlerden,
-klonlanmış kafe ve kahvelerden,
-sonsuz gross marketlerden,
-dev AVM'lerden kurtulmak,
-evlerin, yerel kafe ve kahvehanelerin,
-pazarların, bakkalın, manavın hakkıdır.
+Burnuna değen sardunya kokusuyla yürüdüğün sokaklar,
+gölgesinde dinlenirken sana yüzyılı anlatan çınarlar,
+üstüne basmamak için adımını kısalttığın güvercinler, serçeler,
+guguuuguk diye üzerine hikâyeler yazılan sabah kumruları,
+gürültücü, aceleci, çirkin kargalar ve saksağanlar,
+miskin kediler,
+arsız, tipsiz köpekler,
+bilir ki,
+onlar yavaş bir şehrin hakkıdır.
 
-Sokak sokak yürünebilen,
-scooter ve bisikletlerin,
-ağaçların ve çiçeklerin,
-kuşların,
-kedilerin, köpeklerin,
-çocukların, gençlerin ve yaşlıların
-sokakların bir parçası olması şehrin hakkıdır.
-
-Dev apartmanlar yerine,
-binaların ağaçların boyunu geçmediği
-küçük ve bahçeli evler;
-okullara, markete, manava yürüyerek gidilebilmesi,
-bitki ve hayvanlar dâhil
-şehirlilerin hakkıdır.
-
-Arnavut kaldırımı yavaştır.
-Hiç hız tümseği gördün mü?
-Yağmur da sızar altına.
 Taşların arasındaki yosunlar,
-pabucunun topuğu tıkırdatanlar
+pabucunun topuğunu tıkırdatanlar
 ve hızlı gitmeye çalışan şoförlerin küfürleri
 şahittir ki,
-arnavut kaldırımı sokakların hakkıdır.
+Arnavut kaldırımı sokakların hakkıdır.
 
-Bir şehirden öbürüne
-bir an önce akmak değil,
+Bir şehirden öbürüne ışınlanmaya çalışmak yerine,
 yolun sana getirdiklerine
-dokunabilmek yolcunun
-ve yol hikâyelerinin hakkıdır.
-
-Yaşamak,
-güneşin doğuşundan batışına bir an önce ulaşmak
-ve izin günlerini saymak değil,
-sevdiğin şeyle aylar boyunca uğraşıp
-geçimlik sağlayabilmektir.
+dokunabilmek yolcunun ve yol hikâyelerinin hakkıdır.
 
 Yavaşlamayı en çok yalnızken
 hem hisseder hem istersin.
@@ -92,16 +68,12 @@ kendine vakit ayırabilmek,
 doyasıya dinlenmek,
 yeniden doğmak için bir fırsattır.
 
-Canlıların,
-türdeşleriyle birlikte olmaya hakkı olduğu gibi,
-tek başına kalmaya da hakkı vardır.
-
 Gençliğin deli hızı bitip
 yaş ortaya gelince,
 herkes “hayat çok kısa” der!
 
 Göklerin altında ve
 yerin üstündeyken,
-Hamakların huzurlu salınmları tanık olsun ki,
+hamakların huzurlu salınımları tanık olsun ki,
 bu hakkı kullanıp yavaşlayabilirsen,
 yaşam sanıldığından çok daha uzundur.

@@ -26,39 +26,20 @@ Doğa insanı doğurdu;
 insan da tarihini ve kültürünü
 onun içinde kurdu.
 
-İnsanların dillerini,
-sözlü, danslı, müzikli kültürlerini,
-araştır;
-bul, kayda al, yaşat.
-
-Sen yaşatmazsan,
-her şey tarihin akışında kaybolup gider.
-
-Toprak altındaki fosili gün ışığına çıkar;
-mağara dibindeki iskeleti tarihle;
-öyküsünü anlat.
-Belgeselde, müzede, derste topluma sun,
-geçmiş geleceğe ancak böyle ışık tutar.
-
-Bilimsel araştırma,
-kayıt ve belgesel dışında,
-mağaralar turizm ve spor alanları değildir.
-Milyonlarca yıldır oldukları gibi,
-sessiz ve karanlık kalması
-onların ve içindekilerin hakkıdır.
-
-Tarihi eserleri,
-yapıları niteliksiz,
-ehliyetsiz kişilere bırakma.
-Profesyonel restorasyon,
-onların en tabii hakkıdır.
-
-Define avcılığı yapmak,
-tarihi eser kaçırmak,
-tahrip etmek ne bahaneyle olursa olsun,
-insanlık ayıbı ve suçudur.
+Destanlarını,
+dinlerini,
+tanrılarını,
+masallarını,
+şiirlerini duymadın mı?
+Danslarını oynadın mı?
+Şarkılarını, türkülerini duymadın mı onların?
+Dillerini konuşan da kalmadı artık.
+Onlar artık tarihte yoklar.
+Bir ot, bir solucan gibi.
+Yok olup gittiler.
 
 İnsan, tarihe iz bırakmaya çabalar durur...
+
 Bir ömür, unutulmamaya adanır:
 kimi türküsünde,
 kimi köprüsünde,
@@ -69,7 +50,17 @@ Bu mirası yok saymak
 ya da sessizliğe gömmek,
 insanlık onuruna vurulacak en büyük darbedir.
 
-Arkeloğun ince ince toprağı süpürürken ki sabrına,
+Bulunan her fosil yaşatır bir soyu.
+Mağaranın dibinden gün yüzüne çıkan her iskelet,
+ışık tutar karanlık dünyalara;
+duvara çizilen her resim bir öykü anlatır.
+Geçmiş geleceğe ancak böyle ışık tutar.
+
+Tarihi eserleri kaçırmak,
+tahrip etmek,
+insanlık ayıbı ve suçudur.
+
+Arkeoloğun ince ince toprağı süpürürkenki sabrına,
 buluntusunun heyecanına and olsun ki,
-Tanıtmak, anlatmak, yaşatmak,
+tanıtmak, anlatmak, yaşatmak,
 **doğanın, tarihin, kültürün ve atalarının hakkıdır.**

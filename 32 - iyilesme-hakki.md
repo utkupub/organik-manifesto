@@ -60,7 +60,7 @@ insana neden ağır gelir?
 
 Gökyüzünde uçanlara,
 suyun içinde gezenlere,
-toprakta yürüyüp sürünenlere ant olsun ki,
+toprakta yürüyüp sürünenlere and olsun ki,
 
 Bir solucanın, farenin, kedinin,
 yahut ağacın yaşamı,

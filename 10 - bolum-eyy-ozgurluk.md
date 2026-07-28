@@ -1,4 +1,4 @@
-1. # **BÖLÜM \- EYY ÖZGÜRLÜK**  {#bölüm---eyy-özgürlük}
+1. # **BÖLÜM - EYY ÖZGÜRLÜK** {#bölüm---eyy-özgürlük}
 
 *Dağa taşa, kuşların kanadına yazacaktık adını.*
 *Tarlalar çalındı, ufuk kapandı,*
@@ -24,10 +24,12 @@ beton duvarlar arasına sıkışmış bir parktan hiç havalanmadı.
 Bozkırın tezenesi çağırdığında,
 ılık, tozlu rüzgâr geldi aklına.
 
-Açık bozkırda küçücük bir barınak
-seni daha çok özgür kılabilir.
+Koca ovada,
+küçücük bir barınak seni daha özgür hissettirebilir.
+
 Çalı çırpıyla çevirdiğin sebze bahçenden
-bir domates seni özgür kılabilir.
+yediğin domates seni daha özgür hissettirebilir.
+
 Toprağın yüzünü tırmaladıktan sonra,
 kucağına tırmanan kedinin mırıltısına elini sokup,
 dibi kararmış çaydanlıkta
@@ -39,68 +41,24 @@ Söylenenlere bakma, hiç kimsenin de olmadı!
 Ama nefes aldığın sürece,
 sen onlarınsın, onlar da senin parçan.
 
-Özgürlük,
-saatlerini satışa çıkarmak ya da patron seçmek değildir.
-Patronsuz,
-müdürsüz sevdiğin iş ile geçimlik sağlayabilmektir.
-Emeğini harcadığında karşılığını adaletle alabilmektir.
+Zevk almadığın bir iş yaparak,
+saatlerini satışa çıkarmak,
+yarı zamanlı bir kölelik değil mi?
 
 Özgürlük,
-bilinçaltına sızdırılmış seçeneklere “Hayır” diyebilmek,
-gereksiz yüklerinden kurtulmak,
-dileğince çalışıp,
-dilediğinde tembellik yapabilmektir.
-
-Bir ayının, bir çakalın, bir ağacın
-yüzme havuzu yok!
-Bir yuvası, yavruları, bir avuç toprağı;
-başka neyi var?
-Süslü giysileri, aradığı başka tatları da yok!
-
-Özgürlük,
-sınırsızca tüketmek,
-paran yettiğince almak,
-her yeri gezmek
-veya sıkılınca yok etmek,
-öldürebilmek,
-başkasının hakkını çalabilmek değildir.
-Tükettiğimiz kadar borçlu, bir o kadar köleyiz...
-
-Adalet yoksa, özgürlük de yoktur.
-Özgürlük çalınmaz!
-
-Bazen yollarda yumruk kaldırmak,
-bazen hayallere düşen turuncu fırçanın duvardaki darbesidir.
-
-Özgürlük adına,
-ne bedeller ödendi!
-“Ya istiklal, ya ölüm!” dedirtecek keskindir,
-onun yoksunluğu.
-
-Bu yolun sonunda,
-salıncakta sallanmak da var,
-dar ağacında sallanmak da!
+zevkle, gururla, yaptığın işten,
+emeğini harcadığında karşılığını adaletle alabilmektir.
 
 Özgürlük,
 bir hamakta akşama kadar yatabilmek,
 otların arasında günlerce yürüyebilmektir.
 
-İlk nefesimizde özgürdük,
-bu koca sosyal çöplük köleleştirdi hepimizi.
-Bitmek bilmeyen arzularımızın esiriyiz.
+Sahile çadır atıp,
+gece sabaha kadar gökyüzünde yıldızları seyredip,
+saatlerce yüzebilmektir.
 
-Başarısızlık,
-korku, endişe salgın bir hastalık,
-biricik aklımızın zindanı.
-
-Apartmanların arasında,
-yarım saat güneş gören bir sardunya kadar
-huzurlu,
-çöplerin arasından yemek artığı bulan bir tekir kadar
-mutlu,
-yarı aç yarı tok gezen,
-çükleri kesilmiş ve küpelenmiş sokak köpekleri kadar
-özgürüz.
+Bazen, gereksiz yüklerinden kurtulmak,
+bazen, tembellik yapmaktır.
 
 Özgürlük,
 konuşabilmek, susabilmek, duyabilmek ve dinleyebilmektir.
@@ -112,7 +70,38 @@ Gök’ün altında,
 Yer’in üstündeyken nerede duracağın söylenmeden yürüyebilmek,
 haykırıp bağırabilmektir.
 
-Coğrafyana kafa tutabilmek,
+Özgürlük,
+bilinçaltına sızdırılmış seçeneklerin farkına varabilmektir.
+
+Apartmanların arasında,
+yarım saat güneş gören bir sardunya kadar
+huzurlu,
+çöplerin arasından yemek artığı bulan bir tekir kadar
+mutlu,
+yarı aç yarı tok gezen,
+çükleri kesilmiş ve küpelenmiş sokak köpekleri kadar
+özgürüz.
+
+Paran yettiğince satın almak,
+sıkılınca da yok etmek
+özgürlük mü?
+
+Borçlarımız,
+ayağımızdaki prangaya dönüştü.
+
+Başarısızlık,
+korku, endişe salgın bir hastalık,
+biricik aklımızın zindanı.
+
+İlk nefesimizde özgürdük,
+bu koca sosyal çöplük köleleştirdi hepimizi.
+Bitmek bilmeyen arzularımızın esiriyiz.
+
+Bazen yollarda yumruk kaldırmak,
+bazen hayallere düşen turuncu fırçanın duvardaki darbesidir.
+
+Özgürlük,
+coğrafyana kafa tutabilmek,
 içine doğduğun kültüre ve dine bağlı
 ya da aykırı olabilmektir.
 
@@ -121,9 +110,14 @@ rengine kendin karar verebilmendir.
 Dostluğun ve aşkın sınırına,
 hatta sınırsızlığına karar verebilmektir.
 
-Sahile çadır atıp,
-gece sabaha kadar gökyüzünde yıldızları seyredip,
-saatlerce yüzebilmektir.
+Özgürlük adına,
+ne bedeller ödendi!
+“Ya istiklal, ya ölüm!” dedirtecek keskindir,
+onun yoksunluğu.
+
+Bu yolun sonunda,
+salıncakta sallanmak da var,
+dar ağacında sallanmak da!
 
 Şekillendirilmiş çoğulcu demokrasilerde,
 A, B ya da C tarafından yönetilmeyi değil,
@@ -137,5 +131,8 @@ kazıtmak veya kapatabilmektir.
 Kalbinin ritmine uygun,
 dilediğince yaşayabilmektir.
 
-**Özgürlüğümüzü çalanlara lanet olsun.**
+Adalet yoksa,
+özgürlük de yoktur.
+Özgürlük çalınmaz!
 
+**Özgürlüğümüzü çalanlara lanet olsun.**

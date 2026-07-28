@@ -13,7 +13,7 @@ Bitkiler kökleriyle kümelenir,
 yan yana güç bulur.
 
 **O yuvasına koşuşturan milyonlarca karınca şahittir ki,**
-**Rahatsız edilmeden uyuyacağı,**
+**rahatsız edilmeden uyuyacağı,**
 **beslenip çiftleşeceği,**
 **yavrusunu büyüteceği bir yuva,**
 **her canlıya hakdır.**
@@ -30,25 +30,26 @@ yavrusunu doyuracak,
 geçimini sürdürecek,
 toprağa ve barınağa hakkı vardır.
 
-Yuvanı yaparken orada var olan canları sokağa atma,
-kimseye, özellikle doğaya zarar verme.
-Mümkünse, bir ağaç bile kesme.
-Zorda kalırsan önce taşımaya çalış.
-Eğer kesmek zorunda kalırsan,
-can borcunu aynı bölgede
-hemen yanı başına çok daha fazlasını dikerek öde.
+Sen,
+evini kurarken zaten orada yaşayanları düşün,
+greyderin önünde devrilen ağaçları,
+kaçışan kuşları,
+ikiye bölünen köstebekleri,
+ve kuruyan solucanları.
+
+Can borcunu aynı bölgede
+hemen yanı başında doğaya geri vererek öde.
+
 Yuva için,
 asla bir evlek alandan fazlasını işgal etme.
 Yuvanı beton yığını hâline getirme.
-O toprak sana emanettir,
-sen de o toprağa emanetsin.
-Her can bir gün toprağa dönecektir.
 
 Yuvanı, evini, bahçeni mütevazı yap.
 Yuvada ne lazımsa ancak o kadar.
+
 Suyu ziyan etme,
 mümkün olduğunca gıdanı bahçende üret.
-Bil ki, yuvadan bahçeden çöp bile çıkmaz.
+Bil ki, yuvadan, bahçeden çöp bile çıkmaz.
 
 Başkasının yuvasına,
 yurduna,
@@ -58,11 +59,14 @@ eşikten geçerken başını eğerek gir.
 
 Yuvan, evin senin ailen için bir kaledir,
 lakin duvarlarını alçak tut.
+
 Evinde,
 yuvanda ve bahçende
 her canlı türüne kapın açık olsun.
+
 Yuva kutsaldır,
 onun seninle birleşen kendi ruhu vardır.
+
 Kapıya gelen,
 kapıyı çalan boş döndürülmez.
 Gökler şahittir ki,
@@ -70,18 +74,22 @@ Gökler şahittir ki,
 Hiçbir yere “benimdir” deme,
 sen de o toprakta misafirsin, unutma.
 
+Yuvaladığın,
+baktığın toprak sana emanettir,
+sen de o toprağa emanetsin.
+Her can bir gün toprağa dönecektir.
+
 Dağlar,
 yaylaklar,
 ormanlar,
 nehirler,
 ağıllar,
-besihaneler,
 ağaçlar hep başkasının yuvasıdır.
 Hepsine aynı saygıyı göster.
 
 O minik kuşun,
 yuvası için gidip gelip topladığı her çöpe
-ve gayretine andolsun ki,
+ve gayretine and olsun ki,
 
 Dünya çok geniştir;
-açgözlülük olmasa hiçbir canlıya darlık düşmez.
+açgözlülük olmasa her canlıya yuva olur.

@@ -53,9 +53,9 @@ başka akıllar uyandırdık.
 
 Disklerde duran her byte'a,
 Search bara yazdığın her karaktere,
-ve filtresiz gelen her arama sonucuna and olsun ki!
+ve filtresiz gelen her arama sonucuna and olsun ki,
 
-Artık bilgi insanlığın
+artık bilgi insanlığın
 ve bütün yapay zekâ formlarının,
 ortak mirasıdır ve hakkıdır.
 

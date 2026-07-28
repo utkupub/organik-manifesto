@@ -4,24 +4,40 @@
 YANAN ATEŞ ETRAFINDA OTURABİLMEKTİR.*
 *BU, GÖĞÜN, SUYUN VE TOPRAĞIN SESİDİR.*
 
-Onlar olmadan ne hayat olur ne ölüm;
-ne yiyecek, ne gezinti,
-ne de dinginlik.
+Bütün hayat suda başladı, suda bitti.
+Bütün hayat toprakta başladı, toprakta bitti.
+Her lokma topraktan çıktı sudan çıktı.
+Her adım onda atıldı.
+Sabahın uğultusu,
+gecenin dingin sessizliği kulaklarına gelmedi mi?
 
-Varlıklarına,
-temizliğine, duruluğuna,
-kendi kendini yenileyişine
-engel olma.
+Duru suya,
+temiz toprağa yüzünü sürmedin mi?
 
-Suyu, toprağı, göğü
-zehirleme.
-Isıtma.
+Su da, toprak da, hava da,
+canlıdır,
+kendini yeniler,
+durultur,
+arınır.
+Bu yenilemenin senin elinle dengesi şaşar oldu.
+Ne pislettiğin toprak,
+ne zehirlediğin su,
+ne ısıttığın hava
+arıtabilir artık kendini.
 
-Gecenin dinginliğini gürültüyle,
-karanlığını ışıkla kirletme.
-Göğü, radyo dalgalarıyla doldurma.
+Uzaktan bir dinle şehri,
+gecenin dingin koynundan beyaz uğultu,
+arada kornalar, sirenler, makineler.
 
-İnsan dışındaki her can,
+Çık da tepeden bir bak şu şehre gece,
+senin için en güzel manzara belki,
+sarı, beyaz, yanan sönen her ışık doldurmuş her yeri,
+ne yıldız kalmış ne gece.
+Ya o sinyal kalabalığı,
+görmezsin, farkına da varmazsın çoğu zaman ama
+zihnini bulandırır sürekli.
+
+İnsan dışında her can,
 bu ölçüye sadıktır.
 Gece öten baykuş,
 akşam uluyan çakal,
@@ -51,11 +67,11 @@ ruhu da
 karartır zamanla.
 
 Kurumuş boğazlara,
-Sarı sıcak buğdaya,
-Vurulmuş uçurtmalara,
-Kaçmış balonlara and olsun ki!
+sarı sıcak buğdaya,
+vurulmuş uçurtmalara,
+kaçmış balonlara and olsun ki,
 
-Sağlıklı su,
+sağlıklı su,
 bereketli toprak,
 berrak gökyüzü ve güneş
 her cana hakdır.

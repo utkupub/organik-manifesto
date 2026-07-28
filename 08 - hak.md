@@ -55,4 +55,3 @@ Eğer bazılarının içindeki
 bilgelik, masumiyet ve sevgi olmasaydı,
 insan her kaynağı çoktan tüketir,
 savaş döngülerinde kaybolup giderdi.
-

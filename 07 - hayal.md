@@ -1,17 +1,13 @@
 ## **HAYAL** {#hayal}
 
-Bir baksan uzaydan bu mavi gezegene,
-sadece ağlarsın;
-sabah annesinden uzak
-huzursuz bir çocuk gibi.
+Bu mavi gezegene,
+bir bakabilsen uzaydan,
+gözlerinden yaşlar süzülür,
+etrafını saran buğulu atmosfer,
+senin zihnine bir yaşam amacı
+ve sevinci üfler.
 
-Dünyanın etrafını saran buğu
-kucağına yaşam amacı
-ve sevincini bırakıverir.
-Kül olmaktan dönen meşe gibi
-her bilinç yeniden doğar.
-
-Bu amaç
+Bu amaç,
 ayaklarını suya doğru sürer.
 Aklının kokusunu rüzgâra dolandırır.
 Bedenini gölgeden Güneş’e itekler.
@@ -25,6 +21,9 @@ acıtan bir gülümseme,
 aklına yeşeren bir umut uyanır.
 Bir bardak sıcak çayın renginde
 çözünür bu hayaller.
+
+Hayaller yeniden bağlanır
+kül olmaktan dönen meşenin rüyasına.
 
 ÇÖP’te eşelenenler,
 şehirlerde,

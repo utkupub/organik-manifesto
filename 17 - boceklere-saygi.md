@@ -53,9 +53,9 @@ Senin bahçen yahut
 rekreasyon alanı değil.
 
 Uğur böceğinin kırmızı fonda siyah noktalarına,
-Kelebebeğin bir aşağı bir yukarı saçma sapan uçuşuna,
-Bok böceğinin yuvarladığı boklara,
-Karıncanın biriktirdiklerine andolsun ki,
+kelebeğin bir aşağı bir yukarı saçma sapan uçuşuna,
+bok böceğinin yuvarladığı boklara,
+karıncanın biriktirdiklerine and olsun ki,
 
 Bataklık da,
 sığ su da,

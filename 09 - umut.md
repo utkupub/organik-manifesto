@@ -1,7 +1,10 @@
 ## **UMUT** {#umut}
 
 Bizim pis mirasımızın ardından,
-varlığın, yeşilin, toprağın, göğün ve suyun
+varlığın,
+yeşilin,
+toprağın,
+göğün ve suyun
 kutsallığını anlayan bir nesil geliyor;
 
 Özgürlüğü,
@@ -17,8 +20,8 @@ Sınavın,
 iş hayatının stresi ve hırsıyla
 tombullaştı hepsi!
 
-Cadılar ve Patronlar,
-ekranların ardından
+Masallarda cadılar,
+ekranların ardında patronlar,
 afiyetle izliyordu semirmelerini!
 
 Artık,
@@ -29,9 +32,9 @@ geçmiş düş kırıklarına evrildi.
 
 Gökyüzü kadar geniş internette,
 ekranlara serpilen ekmek kırıntılarına,
-her tıkladığımızda eve ulaşacağımızı sanırız.
+her tıkladığımızda eve ulaşacağımızı sanırlar.
 “Sepete at”, “satın al”;
-iyice kalınlaşır zincirlerimiz.
+iyice kalınlaşır zincirleri.
 
 *Zaten ekmek ve simit kırıntılarını, kargalar çoktan yedi.*
 *Ve gizlice sipariş ettiklerini, annene söylediler.*

@@ -31,7 +31,7 @@ suya, toprağa, göğe,
 hatta göğün ötesine pisliğini saçma!
 
 Çöp,
-organik olmalı
+organik olmalı,
 yahut en azından geri dönüşebilmeli,
 dönüştürülebilmeli,
 yeniden kullanılabilmeli.
@@ -50,17 +50,17 @@ Belki sen de,
 ÇÖP’e karışır,
 ÇÖP’ten yeniden doğarsın.
 
-Sonbahar da düşen her yaprağın rengarenk cesetlerine,
-Kararmış kütükte çıkan küflere, mantarlara,
-Bir kuytuda kalmış domuzun boşalmış gözlerine, kokan bedenine,
-Uzun zamandır girmediğin damda,
-Işığın vurduğu bir köşede,
-bir Örümceğin ağında kalan sineklerin boşalmış gövdelerine,
-Ve orana burana yapışan ağlarına
-And olsun ki,
+Sonbaharda düşen her yaprağın rengarenk cesetlerine,
+kararmış kütükte çıkan küflere, mantarlara,
+bir kuytuda kalmış domuzun boşalmış gözlerine, kokan bedenine,
+uzun zamandır girmediğin damda,
+ışığın vurduğu bir köşede,
+bir örümceğin ağında kalan sineklerin boşalmış gövdelerine,
+ve orana burana yapışan ağlarına
+and olsun ki,
 
-Hiçbir şey yok olmaz;
+hiçbir şey yok olmaz;
 hepsi biçim değiştirir,
-Her uyuyan ruh, tekrar tekrar can bulur.
+her uyuyan ruh, tekrar tekrar can bulur.
 ÇÖP olmak her canlıya,
-Çöpten geri doğmak her ruha haktır.
+ÇÖP’ten geri doğmak her ruha haktır.

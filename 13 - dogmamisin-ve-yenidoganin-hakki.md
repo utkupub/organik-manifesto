@@ -16,26 +16,24 @@ Her canlı doğmak,
 yaşama doğru koşmak
 ve ona tutunmak ister.
 
-Farkında değildim ama ben de istedim.
+Farkında değildim,
+ama ben de doğmak istedim.
 Sen de belki farkında değildin,
-ama sen de istedin.
+ama sen de doğmak istedin.
 Yoksa bu cümleyi nasıl okurdun?
 
-Bu,
-doğanın en eski,
-en yalın yasası.
-Önünde kimse duramaz.
-
-Eğer anaya zorluk geliyorsa,
+Doğacak olan,
+henüz farkına varmaz iken,
+anaya da zorluk geliyorsa,
 doğmamıştan vazgeçebilecek tek varlık,
 onu bağrında taşıyan
 anasıdır.
-“Ne zorlu bir karar!”
+“Ah, ne çetin bir ikilem...”
 
 Doğurmak istese de istemese de,
-zoru kolay edecek olan başkalarıdır.
-Her yönden zorluk çıkarana
-yazıklar olsun.
+anaların hayatını kolaylaştırın.
+“Her yönden zorluk çıkarana
+yazıklar olsun!”
 
 *Doğacak can,
 gökten alınmış kut taşır;

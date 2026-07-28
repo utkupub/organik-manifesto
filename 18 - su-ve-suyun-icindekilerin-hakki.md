@@ -1,4 +1,4 @@
-## **SU ve SUYUN İÇİNDEKİLERİN HAKKI**
+## **SU VE SUYUN İÇİNDEKİLERİN HAKKI**
 
 *BU, DENİZLERDEKİ AĞITLARA KULAK VERMEKTİR.*
 
@@ -13,33 +13,26 @@ Ahtapot, yengeç, ıstakoz, midye;
 yemek ya da başka bir nedenle
 toplama.
 
-Avcılık, denizlerdeki yaşamın sonunu getirdi.
-Üreme döngüleri çökme noktasında.
-Denizlerde avlanma artık.
+Avcılık,
+denizlerde dehşet ve ölüm saçıyor.
+Ne üreme mevsimi, ne üreme yerleri umurunda.
 
-Deniz kuşunu, memelisini, kaplumbağasını
-huzursuz etme.
-Yaşam ve yavrulama yurtlarını
+Rızkını denizde arayan kuşları,
+o sessiz kaplumbağaları huzursuz etme.
+
+Bilimsel araştırma,
+belgesel bakış istisna,
+yaşam ve yavrulama yurtlarını
 turizm ya da gezinti bahanesiyle
 işgal etme.
 
-Sadece bilimsel araştırma,
-belgesel bakış,
-inceleme ve kayıt kabul görür.
-
-Su sadece denizde, gölde, nehirde olmaz,
-yerin altı da su dolu,
-daha fazla çekme
-tarımsal sulama için.
+Yerin altından çekilen her damla su,
+geleceğinden eksiltir unutma.
 
 Bütün bitkilerin canı bu suya bağlı.
 Sadece obruktan korkarsın
 ama çölleştireceksin
 her yeri.
-
-Kirletme yer altı sularını
-tuzla,
-tarım ilaçlarıyla.
 
 Karalar yetmedi,
 suyu tapulamaya başladın.
@@ -69,7 +62,10 @@ Hele deneme diye attığın
 o nükleer bombalar,
 okyanuslarda ne balık bıraktı ne mercan.
 
-Su ve içindekilerin hakkını unutan insana,
-naylon içinde yüzen,
+O kuyudan su çektiğin paslı su kovasına,
+o tulumbaya bastığında çıkan lakırtılı sese,
+o pınarlardan şıkır şıkır akıp,
+akıl donduran sulara yemin olsun ki,
+su ve içindekilerin hakkını unutan insana,
 zehirli mikroplastik dolu balıklar
 müste-haktır.

@@ -1,6 +1,6 @@
-6. # **BÖLÜM \- İTİRAF** {#bölüm---i̇ti̇raf}
+6. # **BÖLÜM - İTİRAF** {#bölüm---i̇ti̇raf}
 
-*“Ya Ben\!”*
+*“Ya Ben!”*
 
 Hem çevre
 hem de özgürlük kısıtlarında
@@ -44,7 +44,7 @@ Bafa Gölü’nde,
 İstanbul’dan parçalanan,
 bölünen, kazınan,
 yok edilen doğanın çığlıklarını duydum.
-Sadece duydum\!
+Sadece duydum!
 Nereye başımı çevirsem bir kıyım.
 Nereye dönsem bir sel,
 nereye baksam bir kuraklık,
@@ -66,5 +66,3 @@ Bizden sonrakilere,
 dünya yerine acıklı bir distopya bırakıyoruz.
 Aç ve soluksuz çocukların,
 üzerine işeyeceği birer mezar taşıyız artık.
-
-#

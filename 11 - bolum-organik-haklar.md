@@ -1,4 +1,4 @@
-2. # **BÖLÜM**  \- **ORGANİK HAKLAR** {#bölüm---organi̇k-haklar}
+2. # **BÖLÜM**  - **ORGANİK HAKLAR** {#bölüm---organi̇k-haklar}
 
 *BU, DOĞAYA, MAHLUKATA HAKKINI TESLİM ETMEKTİR.*
 
