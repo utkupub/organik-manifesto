@@ -67,8 +67,8 @@ Ulu göğün altındaki,
 misket oynamaktan tongra tutmuş parmaklar,
 yalandan hüpletilen minik kahve fincanları,
 taranan plastik bebek saçları,
-"Tak tak" denince uyduruktan ölmesi gerekip de,
-"ıskaladın oğlum" deyip ölmeyen mızıkçılar,
+“Tak tak” denince uyduruktan ölmesi gerekip de,
+“ıskaladın oğlum” deyip ölmeyen mızıkçılar,
 saklambaç oynamaktan sıkılıp hemen sobelenenler
 ve SimCity’de elektrik için termik yerine fırfır kuranlar
 tanık olsun ki,

@@ -70,7 +70,7 @@ kelimeler ağzından çıkarken hıçkırıklara boğulanlar,
 söylemek istedikleri aklına sonradan gelip hayıflananlar,
 ve diğerleri bilsin ki:
 
-Sevdiğini bildirme,
+sevdiğini bildirme,
 yâd’a seslenme,
 yardım çağırma,
 öfkesini gösterme,

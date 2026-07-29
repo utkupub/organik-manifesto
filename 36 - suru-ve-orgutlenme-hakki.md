@@ -34,13 +34,20 @@ kiminde erkek;
 ama kutsal olan bireylerin zorlukta yürek
 ve amaç birliğidir.
 
-Bu yüzden,
-bireyler ve topluluklar,
-yaşamlarını ve haklarını korumak,
-özgürlük ve esenlik içinde sürdürmek için,
-bir araya gelmeye,
-örgütlenmeye,
-birlik kurmaya hakları vardır.
+Toprağa vurup su bulanlar,
+coşkun ırmağa ilk atlayanlar,
+gökyüzünde dönen kargalar,
+ve bildiriler okunurken soluksuz kalanlar,
+ve arkasına insan seli katıp yürüyenler
+içlerinde hisseder ve bilirler ki,
+yaşamak, özgürlük ve haklar için mücadele etmek,
+hatta mutlu olabilmek için,
+bir arada olmak, örgütlenmek,
+birlik kurmak hakkın ötesinde zorunluluktur.
+
+Yalnız aslan bile,
+sadece kocar, bir kuytuda ölür.
+Arkasından ne uluyanı ne ağlayanı olur.
 
 İnsan soyu,
 iş bölümü yapıp örgütlenmeseydi,
@@ -54,17 +61,11 @@ barınma,
 eğitim,
 gönenç ve mutluluk içindir.
 
-Yukarıda mavi gök,
-altta yağız yer şahittir ki,
-yazılan manifesto bir ateş yaktı,
-okunan her bir bildiri bir soluk kattı;
-milyarlarca insan bir araya geldi, örgütlendi.
-
 Kurduğun hayallerin en uçuk olanına,
 sallandığın salıncağın en uç noktasına,
-düştüğün umutsuzluk halinden seni çıkaran
+düştüğün umutsuzluk hâlinden seni çıkaran
 o şiirin, o şarkının her mısrasına and olsun ki,
 
-Daha nice hayaller kuracak insan.
+daha nice hayaller kuracak insan.
 Bu hakkı elinden ne krallar alabilir,
 ne de azılı diktatörler.

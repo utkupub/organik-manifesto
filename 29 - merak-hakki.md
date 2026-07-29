@@ -45,18 +45,19 @@ Bilgiye, bilime,
 olanı korku yönetir.
 Ne ilkel bir histir o.
 
-Dünyada artık akıl sadece biyolojik beyinlerle sınırlı değil.
-Merak, akıl ve bilgi sayesinde,
+Doğa insanı ve aklını;
+insan ise merak ve bilim sayesinde yapay olanı.
+Akıl artık sadece biyolojik beyinlerde değil;
 çiplerin, yongaların,
 yazılımların içinde
 başka akıllar uyandırdık.
 
-Disklerde duran her byte'a,
-Search bara yazdığın her karaktere,
+Disklerde duran her byte’a,
+search bar’a yazdığın her karaktere,
 ve filtresiz gelen her arama sonucuna and olsun ki,
 
 artık bilgi insanlığın
-ve bütün yapay zekâ formlarının,
+ve bütün yapay zekâ formlarının
 ortak mirasıdır ve hakkıdır.
 
 Ölümü tadıncaya ya da fişi çekilinceye kadar,

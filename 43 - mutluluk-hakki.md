@@ -21,7 +21,7 @@ kafese kapatılmamış,
 sesi çıkabilen,
 bağırabilen,
 feryadını duyurabilen,
-fısıltısı,
+fısıltısı
 gizlice başkalarının kulağına taşınmayan,
 eceliyle ölebilen,
 ölülerine yakışır törenlerle veda edebilen,

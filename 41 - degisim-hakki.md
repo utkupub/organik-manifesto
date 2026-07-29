@@ -56,13 +56,7 @@ değerli ve onurlu kılar.
 olanlar olur,
 ölenler ölür.
 
-Mart soğuğundan korkmayıp,
-ilk açan zerdali çiçekleri,
-kesilmekten korkmayıp,
-erken öten acemi horozların cırtlak sesleri,
-parmaklıklardan korkmayıp,
-heyecanla yazılmış kartpostal dörtlükleri,
-yalnızlıktan korkmayıp,
-terk etmek ile kaçmak arasındaki kafa karışıklıkları
-hem tanık hem de bilir ki,
+Mart soğuğundan korkmayan zerdali çiçekleri,
+bıçaklara meydan okuyan erkenci cırtlak acemi horozlar,
+özden hissederler ki,
 değişim kaçınılmaz bir haktır.

@@ -3,7 +3,7 @@
 O artık,
 “Ölüm oldu, dünyaların yok edicisi.”
 
-Ağlamaklı bir pişmanlık haline geldi görevi.
+Ağlamaklı bir pişmanlık hâline geldi görevi.
 Bir bilim insanının vicdanı,
 keşfinden bu denli yaralanmamıştı hiç.
 

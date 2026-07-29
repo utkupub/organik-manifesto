@@ -20,7 +20,7 @@ ve çırpınmadan muaf mı?
 Geleceğini,
 çocuklarını,
 torunlarını,
-mutluluğu,
+mutluluğu
 ve gönençli yarınları hayal eder durur.
 
 Hayalleri ve umutları elinden alınırsa,
@@ -51,5 +51,5 @@ Mars’ta kurulacak kolonideki kapı seslerine,
 kurtarılmış bir dünyanın,
 temiz ve mutlu bir habitatın
 hayalini kuranlara
-and olsun ki
+and olsun ki,
 her canlıya hayal ve umut hakdır.

@@ -1,80 +1,133 @@
 3. # **BÖLÜM - A++ İNSAN OLMAK** {#bölüm---a++-i̇nsan-olmak}
 
-Gri gökyüzünün altında, ıslanmaktaydım.
-Kaldırımda yer bulmuş ağacın altına sığındım. 
-Kafamı yukarı kaldırdım,
-çıplak dallarına yüzümü kaldırdım.
-İğne iğne gelen damlalar düştü yüzüme.
-Göğe kaldırdığı kollarını seyrettim.
-Damlalar gizledi gözlerimden akanı.
+Bakın, şu adamın kaç tarlası var.
+Bakın, şunun dizi dizi çocukları var.
+Bakın şu kadının şanına şöhretine,
+Bakın evlerine arabalarına, banka hesaplarına,
+Bakın bir bilgisine görgüsüne.
+insan nasıl bir ölçü belirledi kendi türü için?
 
-Doğa artık sadece,
+Birde doğaın gözüyle görsün kendini.
+O ayak izine bakar!
+Ne yer, ne içer, geride ne bırakır.
+Nerde yaşar, nerede beslenir.
+Nasıl yuvalanır, nasıl avlanır.
+Etrafına uyumlanmak için nasıl bir adaptasyon geliştirmiştir.
+Ne kadar yer kaplar.
+Kaç tane artı, kaç tane eksi yazılacak hanene?
+
+## UYUMLULUK SINIFI
+
+İnsan,
+Doğayı eğlencelik yaptığı gibi uyumunu da hatırlamaz oldu.
+
+Doğa onun gözünde sadece,
 büyük objektifli fotoğraf makinelerinin
-ve çok ödüllü 4K belgesellerin konusu.
+ve ünlü yaşlı adamların anlatıcı olduğu
+çok ödüllü 4K belgesellerin konusu.
 
-Yaşlı adamların anlattığı yaşam hikayelerinden,
-sisli amazonlar,
+Ayı yavrularına verilen saçma isimler,
+sisli Amazonlar,
 yağmur ormanları,
-sevişen aslanlar ve tozlu filler,
-şarkı söyleyen balinalar kalıyor
-akılda sadece.
+sevişen aslanlar ve tozlu fillerin yaşam hikâyeleri,
+ve şarkı söyleyen balinalar kalıyor
+izleyicilerin aklında sadece.
+
+Doğaya tutkun olduğunu söyleyenler ise yine eğlence peşinde.
+Dörtçekerli kamplar, avclık, mangal, dağcılık, en masumu yürüyüş meraklıları.
+
+Bir balık tatlı suya adapte olup,
+Soğuktan sıcağa göç ederken,
+İnsan soğuğu kombiyle,
+sıcağı klimayla düzeltir.
+
+Diğer canlılar karanlıkta uyurken,
+yahut karanlıktan yararlanıp avlanıp beslenirken,
+insan, karanlığı ışıkla paralar.
+Bütün bitkiler güneşi kullanıp nefes alırken,
+insan aydınlığı tenteyle önünü keser.
+
+Bir domuz,
+beslenme, su, korunma için dolambaçlı eğri büğrü patikalar oluştururken.
+İnsan, heryer düz ve büyük olsun ister,
+ağaçlar, evler, parklar, yollar hepsi geometrik olsun ister.
+
+İnsanın aklında, hep kısa yollar ve hızlı akan rotalar.
+Ulaşım için nereyi patlattığı nereyi doldurduğu kimin umurunda.
+
+Yaşadığı bölgede, o iklimde yetişeni değil,
+turfandayı sever.
+
+Su kıtsa,
+yatağını değiştirip bir nehri getirir zorla ayağına,
+milyonların tasarruf edesi yok.
+
+Uyumla tasarlamak yerine,
+zor kullalarak kendine uydurur herşeyi.
+
+Koca bir eksi sana.
+
+## KAPLADIĞI ALAN SINIFI
+
+Bacalarını tüttürdüğün sürece,
+hangi su havzasına sanayi kurduğun kimin umurunda?
+Kârlılığı koruduğun sürece,
+hangi çayı kirlettiğinin ne önemi var?
+
+Sebzeyi, meyveyi, yağı, şekeri, eti üretip,
+boğazları doldurabiliyorsan,
+dünyanın üçte birini tarla yaparken kim ses çıkardı?
+
+Dağları da,
+ormanları da
+paralayıp açtığın maden yaralarına,
+pansumanı köylüden başka kim yapar?
 
 Hektar nedir bilir misin?
 Yanan ormanların ölçü birimidir.
 Kolay kolay duymazsın başka yerde.
+
 Duman,
 içindekilerle beraber zehirler her şeyi.
-Alevler rüzgarın önünde koşan savaşçılar gibi,
+Alevler rüzgârın önünde koşan savaşçılar gibi,
 sıcak soluklarıyla sarar hektarlarca çamı,
 kaplumbağa, tilki, yılan ve tavşanı.
 
-Devirdiğimiz ağaçlar,
-kesilen, kurban edilen,
-avlanan hayvanlar.
+Kim ormanı bölen yola hayır diyebilir?
+Kim çıkabildi karşına havaalanlarının, limanlarının, otobanlarının?
+Kim durabildi önünde, yedi yıldızlı sahil otellerinin ve lüks golf sahalarının?
 
-Dağları,
-ormanları paralayıp maden açarız.
+Her geçen gün,
+yeni bağlanan yollar,
+turizme açılan milli parklar,
+işgal edilen sahiller,
+talan edilen ormanlar.
 
+Her geçen gün,
+yeni maden, enerji ve askeri alanlar.
 
-Sanayi ve tarım uğrunda,
-toprağı, suyu, denizi, havayı zehirliyoruz.
-Yerleşkeler, yollar, şehirler,
-barajlar kuruyoruz.
+Kulaklarda nakarat bu:
+Her geçen gün...
 
-İnsanın,
-Gökteki, Yerdeki ve Sudaki yansımasına
-yemin olsun ki,
-acıklı bir sona doğru çok hızlı koşuyoruz.
+Biz genişlerken,
+doğal alan ve orman küçülüyor;
+dönüşüyor, yanıyor yahut yalnızlaşıp ölüyor.
 
-Oysa,
-insan da doğmadı mı bir anadan?
-Canı bir kuzudan daha mı kutsal?
-Anası sevmedi mi onu “kuzum” diye!
+Anlaşılan,
+son ağaca kadar durmaya niyetin yok.
 
-Ve yazılan tarih tanıktır ki;
-İnsan hem cinslerine dahi eziyet ve soykırımlar yaptı.
-Binlerce başka canlı türünü de yeryüzünden sildi.
-Çoğu da yok oluş sırasını beklemekte.
+Koskoca bir eksi insanın hanesine.
 
-Kendi türümüzü dahi,
-uydurma sebeplerle hunharca katlederken,
-foklar ve ayılar için merhamet gösterecek
-değiliz elbette!
-
-Kirpi, tavşan veya meşe
-nasıl yer bulur dünyamızda?
-Beğendiğimiz bitkiler,
-mavi ladin, saha çimi
-ve lale.
+## TÜKETİM SINIFI
 
 Paranın satın aldığı şeyler
 “büyük ekran TV”
 veya “yıldızlı arabalar” mıdır?
 Buna “konforlu kölelik” dediler ya!
 
-Büyük, geniş, güvenli, 
+Büyük, geniş, güvenli,
 pahalı, gösterişli,
-hızlı, teknolojik, 
+hızlı, teknolojik
 ve farklı olan her şey çaldı aklımızı.
 
 “*İnsan istekleri sonsuz!*” gerçekten.
@@ -88,101 +141,151 @@ can sıkıcı bir detaya dönüştü.
 “Tüketici” gerçekten insana çok yakışan bir sıfat.
 Artarak tükettiğimiz şeyler sadece mal ve hizmet değil.
 Gök, Yer, Su, yeşil ve mavi.
-Ama üreticiyiz, aynı zamanda,
-beton, asfalt, naylon, plastik, lastik,
-dağlara ve adalara dönüşen miktarda çöp,
-nükleer atık, pestisitler,
-her türlü zehirli gaz ve karbondioksit.
-
-Saymaktan sıkılacak kadar üretiyoruz artık!
-
-Her geçen gün,
-şehirlerimizi,
-yollarımızı,
-turizm,
-enerji ve tarım alanlarımızı
-sürekli genişletiyoruz.
-
-Biz genişlerken,
-doğal alan ve orman küçülüyor;
-yalnızlaşıp ölüyor ya da yanıyor.
-
-'Üfff...' dedirten,
-hatırlatılması bile gereksizleşmiş,
-kulaklarımızda eskimiş bir nakarat bu:
-Her geçen gün...
-
-Bu gidişata karşı gelebilen olmayınca,
-İnsan ırkı vicdansızca zorbalaşıyor.
 
 Konfordan,
 klimadan,
 dört çekerden,
 zevkle içilenden,
 yenilen, gezilen, tatilden,
-alışverişten kim vazgeçebilir.
+alışverişten kim vazgeçebilir?
 
-“*Bir tek benim ayrıştırdığım,*
-*çöple mi dünya kurtulacak?*”
+Körüklenen arzuların
+ihtiyacının çok ötesinde,
+görmez misin?
 
-“*Ormanlar yakılıp talan edilirken,*
-*ben mi fidan dikeceğim?*”
+Karnende koca bir eksi.
 
-“*Millet,* *önüne yığdığı tavuk bacaklarını kemirirken,*
-*ben onlara mı bakacağım*?”.
+## GIDA SINIFI
 
-"Şehirler, tabelalar, AVM'ler ışıktan parlarken
-ben mi söndüreceğim lambaları."
+Avcı-toplayıcı iştahının
+sürdürülebilir bir tarafı kalmadı artık.
+Koskoca eksi senin hanende.
 
-"Ben de isterim her yerde telefon ve internet çeksin."
+Makineler bir boğazı keserken,
+kimse görmez, kimse umursamaz oldu.
+Daha ne kadar alacağı var dünyadan o koyunun, o tavuğun.
 
-"Ben de isterim bahçemde bir havuz."
+Oysa,
+insan da doğmadı mı bir anadan?
+Canı bir kuzudan daha mı kutsal?
+Anası sevmedi mi onu “kuzum” diye!
 
-Bu nasıl bir ikilem!
-Uçurumun kenarından bile dönemeyeceğiz artık.
+Ölüm karşısında, biraz saygı göster.
+Bacakları mangala atarken biraz yavaş ol.
 
-Hava durumu,
-haberlerin sonunda sıkıcı bir eklenti.
+Uçsuz bucaksız tarlaları sularken,
+bu suyun,
+bu gübrenin
+arkasını bir sor.
 
-Seller ve orman yangınları,
-küresel ısınma gerçek mi?
-Bunların bize ulaşacağı güne dek bekleyecek miyiz?
-“*Harekete geçmek çok yorucu!*”
+Dünyanın yarısı açlıktan, susuzluktan kavrulurken,
+öbür yarısı bolluk ve ziyan içinde.
 
-Görmediği,
-bilmediği,
-tanımadığı yerlerde olanlar
-ve ölenler
-kimsenin umurunda değil.
+Koskoca eksiler büyüyor karnende.
 
-Bize dokunmadığı sürece,
-seller TV'de yayınlanan,
-heyecanlı birer drama filmi.
+## ENERJİ SINIFI
+
+Tarlada ne çapa kaldı, ne bel, ne tırpan.
+Ne yol yürürsün, ne at sürersin, ne kağnı.
+Artık her şey ateşli, her şey yakıtlı.
+
+Fabrikada ne vida kaldı elle sıkılan,
+ne bir çivi elle çakılan.
+Evde,
+ne leğen kaldı,
+ne süpürge, ne faraş,
+ne kahve değirmeni,
+ne de bir şamdan.
+Artık her şey elektrikli, her şey pilli.
+
+Hangi hayvan pilli?
+Hangi ağaç mazotlu?
+İki yüzyıl önceyi hatırla, sen de değildin.
+Yine çalışıyor, yine yaşıyor ve yine mutluydun.
+
+Elbette, o günlere dönülemez.
+Ama ateş,
+artık yalnız şömineye yakışır.
+Bir şeyleri yakarak enerji üretmek karnende koca bir eksi.
+
+Kurduğun barajlar iklimi değiştirdi,
+iyi yönde mi, genelde şüpheli;
+hatta bazen savaş sebebi.
+
+Kâbusuyla,
+atığıyla gelen nükleer,
+enerji değil,
+güç gösterisi.
+
+Koca bir eksi.
+
+Güneşe,
+rüzgâra,
+yerin sıcak nefesine hevesin arttı;
+küçük bir artı yazılır belki.
+
+Ama enerji sınıfın hâlâ en beteri.
+
+## GERİ DÖNÜŞTÜRÜLEBİLİRLİK SINIFI
+
+Ölen koskaca bir filden geri ne kalır.
+Ya ölen ağaçtan.
+Sen de öyle olmalısın.
+Naçiz bedenin elbet bir gün toprak olacak;
+fikirlerin, sanatın, keşiflerin,
+yaratıların ilelebet payidar kalacak.
+
+Atıkların ve çöplerin değil.
+
+Ama ürettiğin ve tükettiğin her şey zehirli, toksit, pis.
+Gökte, Yerde, Suda, yeşilde ve mavide eserlerin süzülüp duruyor.
+
+Beton, asfalt, naylon, plastik, lastik,
+dağlara ve adalara dönüşen miktarda çöp,
+nükleer atık, pestisitler,
+her türlü zehirli gaz ve karbondioksit.
+Arkanda bıraktıkların yetti artık.
+Ancak herbiri karnende uzun süreli kalan eksiye dönüşür.
+
+## ZARAR ve YIKIM SINIFI
+
+Ve yazılan tarih tanıktır ki,
+insan hemcinslerine dahi eziyet ve soykırımlar yaptı.
+Binlerce başka canlı türünü de yeryüzünden sildi.
+Çoğu da yok oluş sırasını beklemekte.
+
+Kendi türümüzü dahi,
+uydurma sebeplerle hunharca katlederken,
+foklar ve ayılar için merhamet gösterecek
+değiliz elbette!
+
+Kirpi, tavşan veya meşe
+nasıl yer bulur dünyamızda?
+
+Beğendiğimiz bitkiler,
+sadece mavi ladin, çimen, gül ve lale.
+Artık bir de lavanta.
 
 Orman yangınları,
-heybetli ateş kusan ejderhalarla arazözlerin balesi.
-Terör ise “etkisiz hâle getirilenler”den ibaret.
+ateş kusan ejderhalar ve arazözlerin rüzgârdaki balesi.
+Seller ise TV'de heyecanlı birer aksiyon filmi.
 
-'Nükleer kış',
-bir gece ansızın çökmezse üstümüze,
-küresel ısınmaya, pisliğimize,
-zehrimize, kanserimize
-uyumlanıp devam edeceğiz.
+Görmediği, bilmediği yerlerde olanlar
+ve tanımadığı ölüler
+kimin umurunda?
 
-Yüz yıl sonra bu dünya,
-çocuklarımıza ne söyleyecek?
-“*Kimin umurunda!*”
+Dizi dizi eksiler var zarar sınıfında.
 
-Bir gün,
-insan o drama filminin aktörü olduğunda ancak,
-bir ateşin ortasında kaldığında
-yanan kaplumbağaları anlayabilir.
+## SONUÇ
 
-Ve çamurdan bacaklarını kurtaramayıp
-suda sürüklenirken,
-bir ağaç kütüğünün topraktan sökülüşünü hissedebilir.
-Ancak gittiği pazarda
-bir bomba patladığında
-derinden ölüm korkusunu
-ve kızıl kanın kokusunu duyar.
+Benim aklım,
+betonun içinde unutulmuş ağaca takılan uçurtmadaydı.
 
+Sen her şeyi ölçtün.
+Ürünü, verimi, enerjiyi, sınıfı.
+
+Ayak izin büyüdü ha büyüdü.
+Doğanın borç defteri doldu taştı.
+
+Her ürünün A++ olabilir;
+doğanın gözünde insan A---.

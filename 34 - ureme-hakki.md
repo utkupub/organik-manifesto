@@ -69,10 +69,10 @@ Yer’in, Gök’ün ve Su’nun yüküdür.
 
 Gece yarısı miyavlayan kediler,
 daha mart bile gelmedi diye kızarak attığın her terlik,
-"seviyor, sevmiyor" diye yolduğun her papatya,
+“seviyor, sevmiyor” diye yolduğun her papatya,
 unuttuğun evlilik yıldönümünde kapıya gelen çikolatalı çiçek sepeti,
-pembe panjurlu evinin sağ penceresinde duran sardunyanın güneşten kavrulmuş yaprakları tanıktır ki,
+hayalleriyle kandırdığın, pembe panjurlu evin sağ penceresinde duran sardunyanın güneşten kavrulmuş yaprakları tanıktır ki,
 
-Bu,
+bu,
 hem en kutsal tören,
 hem de en büyük sorumluluktur.

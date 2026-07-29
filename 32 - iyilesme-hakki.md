@@ -62,7 +62,7 @@ Gökyüzünde uçanlara,
 suyun içinde gezenlere,
 toprakta yürüyüp sürünenlere and olsun ki,
 
-Bir solucanın, farenin, kedinin,
+bir solucanın, farenin, kedinin,
 yahut ağacın yaşamı,
 herhangi bir insanın yaşamından daha az değerli değildir.
 
@@ -77,4 +77,4 @@ sadece kendi gözünden bakıyor.
 Sürekli oynayıp kaldırdığın yara kabukları,
 kırılan bacağının alçıdaki kaşıntısı
 ve aldığın son kür kemoterapi damlası tanıktır ki,
-Temiz olana, doğal olana ve ilaca erişim her canlıya haktır.
+temiz olana, doğal olana ve ilaca erişim her canlıya haktır.

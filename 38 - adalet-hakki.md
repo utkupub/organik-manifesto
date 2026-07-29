@@ -13,7 +13,7 @@ Her canlı,
 doğal hakları çalındığında geri ister.
 
 Civcivleri söz konusu ise,
-bir tavuk ile tilkiye kafa tutar.
+bir tavuk bile tilkiye kafa tutar.
 
 Fırtınada dik durabilir bir zeytin ağacı.
 Susuzluğa da sabredebilir.
@@ -28,7 +28,7 @@ bir tavuğun hayatını savunan da olur.
 Boşuna mı
 o kadının gözleri bağlı,
 elinde terazi?
-Hem hassas,
+Hem hassas
 hem herkes için eşit olmalıdır.
 
 Adalet,
@@ -37,7 +37,7 @@ diğer canlılar da onu ister.
 
 Yavrusu elinden alınan,
 suyu çalınan,
-toprağı barınağı bozulan,
+toprağı, barınağı bozulan,
 öldürülmek istenen,
 yaralanan,
 üremek isteyen ama eş bulamayan,

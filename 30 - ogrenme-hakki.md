@@ -30,8 +30,8 @@ bilgisini yavrusuna bir emanet gibi aktardı.
 sözle, gözle ve gönülle
 bildiğini sonraki nesle bıraktı.
 
-Bilgiyi sen sadece kitapta ararsın!
-O bir kuşun uçuşunda,
+Merak ettiğini sadece kitaplarda arama!
+O, bir kuşun uçuşunda,
 bir kurdun izinde,
 bir meşe gölgesinin sessizliğinde,
 gizlenen bir öğreti.
@@ -54,13 +54,14 @@ Bu hakkı açık tutmak,
 önceki neslin birincil görevidir.
 
 İlk kez çırpılan kanadın yorgunluğu,
-İlk avın heyecanı ve acemiliği,
-İlk tuttuğun boya kalemlerinin turuncusu,
-Yazmayı öğrendiğin ilk harfin acemi eğriliği,
-Kütüphanelerin tozlu rafları,
-Disklerin bütün katalogları,
-bu anda tanık olsun ki,
+ilk avın heyecanı ve acemiliği,
+ilk tuttuğun boya kalemlerinin turuncusu,
+yazmayı öğrendiğin ilk harfin acemi eğriliği,
+kütüphanelerin tozlu rafları,
+disklerin bütün katalogları,
+gören gözler,
+işiten kulaklar tanık olsun ki,
 
-Her akıllı varlığın,
+her akıllı varlığın,
 özgürce istediği konuda ve derinlikte
 öğrenmeye hakkı vardır.

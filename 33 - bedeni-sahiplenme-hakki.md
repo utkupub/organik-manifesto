@@ -64,15 +64,15 @@ dilden önceki sözüdür,
 **ruhunun görünür hâlidir.**
 
 İğnenin bedenine işlediği nakışın her vuruşuna,
-Günçiçeği oyalı yaşmak için ölen her ipek böceğine,
-Ayağını toprağa vurduğunda kalkan toza,
-and olsun ki
+günçiçeği oyalı yaşmak için ölen her ipek böceğine,
+ayağını toprağa vurduğunda kalkan toza
+and olsun ki,
 
-Her canlı birey,
+her canlı birey,
 türü, yaşı, cinsiyeti ve aidiyeti ne olursa olsun,
-bedenini istediği şekilde süslemeye,
-giyinmeye, kapanmaya, açılmaya,
-dans etmeye
+bedenini istediği şekilde süsleme,
+giyinme, kapanma, açılma,
+dans etme
 veya bedenini istediği biçimde kullanma
 hakkına sahiptir.
 

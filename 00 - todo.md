@@ -7,11 +7,11 @@ Puanlar 10 üzerinden verilmiştir. 9-10 çok güçlü ve okur zevki yüksek; 7-
 ## Kitap Geneli Karşılaştırma
 
 - Eski genel ortalama: 7.77/10
-- Yeni genel ortalama: 8.46/10
-- Değişim: +0.69, yükseldi.
-- Bölüm hareketi: 25 bölüm yükseldi, 0 bölüm düştü, 27 bölüm aynı kaldı.
+- Yeni genel ortalama: 8.65/10
+- Değişim: +0.88, yükseldi.
+- Bölüm hareketi: 35 bölüm yükseldi, 0 bölüm düştü, 17 bölüm aynı kaldı.
 - Eski dağılım: 4 puanlı 1 bölüm, 5 puanlı 2 bölüm, 6 puanlı 3 bölüm, 7 puanlı 7 bölüm, 8 puanlı 28 bölüm, 9 puanlı 11 bölüm.
-- Yeni dağılım: 5 puanlı 1 bölüm, 6 puanlı 2 bölüm, 7 puanlı 2 bölüm, 8 puanlı 14 bölüm, 9 puanlı 33 bölüm.
+- Yeni dağılım: 5 puanlı 1 bölüm, 6 puanlı 2 bölüm, 7 puanlı 2 bölüm, 8 puanlı 4 bölüm, 9 puanlı 43 bölüm.
 
 ### Kitap Geneli Güncel Analiz
 
@@ -354,34 +354,34 @@ Puanlar 10 üzerinden verilmiştir. 9-10 çok güçlü ve okur zevki yüksek; 7-
 - Değişim: 0, aynı kaldı.
 - Durum:
 - Eski yorum: Hayvan oyunu, insan oyunu, spor ve yazılım hattı canlı bağlanmıştı.
-- Güncel yorum: Yeni çocukluk tanıklığı bölümü daha sıcak ve okur zevki yüksek hâle getirdi.
-- Güçlü taraf: Misket, kahve fincanı, plastik bebek, saklambaç ve SimCity kapanışı çok canlı.
-- Sorun: Dijital oyun kısmında doğadan kopukluk savunusu daha fazla açılmadan kapanıyor.
-- Yapılacak: Şimdilik korunmalı; yalnızca son mekanik kontrol yapılmalı.
+- Güncel yorum: Hayvan oyunu, insan oyunu, spor, yazılım oyunları ve çocukluk tanıklığı sıcak ve okur zevki yüksek biçimde birleşiyor.
+- Güçlü taraf: Karda kayan kargalar, yalandan ısıran yavrular, misket, kahve fincanı, plastik bebek, saklambaç ve SimCity kapanışı çok canlı.
+- Sorun: Belirgin sorun kalmadı; dijital oyun geçişi kısa ama bölümün ritmini bozmadan yeterli açıklığı sağlıyor.
+- Yapılacak: Korunmalı; final okumada çocukluk tanıklığı ve dijital oyun hattı yeniden açıklama bloklarıyla uzatılmamalı.
 
 ### 29 - Merak Hakkı
 
 - Eski puan: 8/10
-- Yeni puan: 8/10
-- Değişim: 0, aynı kaldı.
+- Yeni puan: 9/10
+- Değişim: +1, yükseldi.
 - Durum:
 - Eski yorum: Merak, ateş, yazı, bilgi ve yapay zekâ hakkı hattı kurulmuştu.
-- Güncel yorum: Yapay zekâya hak genişletmesi kitabın çağdaş damarını güçlendiriyor.
-- Güçlü taraf: Ateşten byte'a uzanan bilgi çizgisi cesur.
-- Sorun: Yapay zekâ hakkı fikri okurda daha fazla gerekçe bekletebilir.
-- Yapılacak: Gerekirse tek cümlelik gerekçe güçlendirmesi raporlanmalı; metne şimdilik dokunulmamalı.
+- Güncel yorum: Yeni doğa/insan/yapay akıl köprüsü yapay zekâ geçişini oturttu; merak, ateş, yazı, bilim ve bilgi hakkı çağdaş bir sınıra taşınıyor.
+- Güçlü taraf: Ateşten yazıya, kitaptan byte/search bar imgesine ve yapay akla uzanan bilgi çizgisi canlı, cesur ve kitabın çağdaş damarına uygun.
+- Sorun: Belirgin sorun kalmadı.
+- Yapılacak: Korunmalı; final okumada ateş/yazı/bilgi/yapay akıl hattı yeniden açıklama bloklarıyla uzatılmamalı.
 
 ### 30 - Öğrenme Hakkı
 
 - Eski puan: 8/10
-- Yeni puan: 8/10
-- Değişim: 0, aynı kaldı.
+- Yeni puan: 9/10
+- Değişim: +1, yükseldi.
 - Durum:
 - Eski yorum: Kurt kapanı ve yavruya öğreti aktarımı iyi çalışıyordu.
-- Güncel yorum: Yeni tanıklık bloğu bölümü sıcak kapatıyor.
-- Güçlü taraf: İlk kanat, ilk av, boya kalemi, ilk harf ve kütüphane imgeleri öğrenmeyi bedene indiriyor.
-- Sorun: Bilgi/öğrenme ile 29 Merak arasındaki yakınlık dikkat istiyor.
-- Yapılacak: 29-30 arka arkaya okunduğunda tekrar hissi oluşup oluşmadığı kontrol edilmeli.
+- Güncel yorum: Kurt kapanı, yavruya öğreti aktarımı, yazı/söz/göz/gönül hattı ve `Merak ettiğini sadece kitaplarda arama!` çıkışı öğrenmeyi 29 Merak'tan belirgin biçimde ayırıyor.
+- Güçlü taraf: Kuş uçuşu, kurt izi, meşe gölgesi, ilk kanat, ilk av, boya kalemi, ilk harf, kütüphane, disk katalogları ve gören göz/işiten kulak tanıklığı öğrenmeyi bedene, doğaya ve belleğe indiriyor.
+- Sorun: Belirgin sorun kalmadı; 29'la yakınlığı artık merak/öğrenme ayrımı içinde dengeli.
+- Yapılacak: Korunmalı; final okumada öğrenme hakkı bilgiye erişim tekrarına dönüştürülmeden, kuşaktan kuşağa aktarım hattı korunmalı.
 
 ### 31 - İletişim Hakkı
 
@@ -390,22 +390,22 @@ Puanlar 10 üzerinden verilmiştir. 9-10 çok güçlü ve okur zevki yüksek; 7-
 - Değişim: 0, aynı kaldı.
 - Durum:
 - Eski yorum: Ses, koku, renk, balina, ahtapot, arı ve isim fikri çok iyi akıyordu.
-- Güncel yorum: Konuşamayanlar ve ifade etmekte zorlananlar bloğu bölümü daha insani kılıyor.
-- Güçlü taraf: İsim, ses, işaret ve yaşam ateşi fikirleri çok şiirsel.
-- Sorun: Kapanış öncesindeki uzun hak listesi biraz sıkışık.
-- Yapılacak: Hak listesi noktalama ve nefes yerleri son okumada kontrol edilmeli.
+- Güncel yorum: Ses, koku, renk, iz, isim, susma/susturulma ve konuşamayanlar bloğu birlikte güçlü ve insani akıyor.
+- Güçlü taraf: Balina şarkısı, ahtapot rengi, arı haberi, ayı izi, isim yankısı, işaret ve yaşam ateşi fikirleri çok şiirsel.
+- Sorun: Belirgin sorun kalmadı; kapanış listesi uzun ama bölümün hak kapsamını taşıyor.
+- Yapılacak: Korunmalı; final okumada iletişim listesi açıklama metnine çevrilmeden, mevcut şiirsel/ritmik biçimiyle bırakılmalı.
 
 ### 32 - İyileşme Hakkı
 
 - Eski puan: 8/10
-- Yeni puan: 8/10
-- Değişim: 0, aynı kaldı.
+- Yeni puan: 9/10
+- Değişim: +1, yükseldi.
 - Durum:
 - Eski yorum: Doğanın hastane oluşu ve insanın tedavi borcu iyi kurulmuştu.
-- Güncel yorum: Yeni kapanış bedensel ve hüzünlü bir mühür kuruyor.
-- Güçlü taraf: Yara kabuğu, alçı kaşıntısı ve kemoterapi damlası hakkı somutlaştırıyor.
-- Sorun: İnsan/can değeri karşılaştırması biraz açıklayıcı kalıyor.
-- Yapılacak: Son okumada açıklayıcı satırlar ile kapanış şiiri arasındaki geçiş kontrol edilmeli.
+- Güncel yorum: Doğanın hastane oluşu, içgüdüsel şifa arayışı, insanın tedavi borcu ve yeni kapanış birlikte güçlü akıyor.
+- Güçlü taraf: Otacı canlı, temiz toprak/su/hava, süt okyanusu, yok edilen türlerin yükü, yara kabuğu, alçı kaşıntısı ve kemoterapi damlası hakkı somutlaştırıyor.
+- Sorun: Belirgin sorun kalmadı; insan/can değeri karşılaştırması açıklayıcı ama bölümün etik omurgasını taşıyor.
+- Yapılacak: Korunmalı; final okumada şifa hakkı açıklama metnine çevrilmeden, doğa/hastane ve bedensel kapanış hattı korunmalı.
 
 ### 33 - Bedeni Sahiplenme Hakkı
 
@@ -414,70 +414,70 @@ Puanlar 10 üzerinden verilmiştir. 9-10 çok güçlü ve okur zevki yüksek; 7-
 - Değişim: 0, aynı kaldı.
 - Durum:
 - Eski yorum: Süslenme, dans, beden, giysi ve ruhun görünür hâli çok iyi işlenmişti.
-- Güncel yorum: İğne, yaşmak, ipek böceği ve toz tanıklığı bölümü daha törenli kapatıyor.
-- Güçlü taraf: Beden özgürlüğünü doğadaki süslenme ve insan kültürüyle birlikte kuruyor.
-- Sorun: `bedenini istediği biçimde kullanma hakkına` satırı dil açısından son kontrolde bakılmalı.
-- Yapılacak: Kapanış hak cümlesi küçük dil temizliğinden geçirilmeli.
+- Güncel yorum: Doğadaki süslenme, insan kültürü, giysi/örtünme/açılma özgürlüğü ve iğne-yaşmak-toz tanıklığı birlikte törenli akıyor.
+- Güçlü taraf: Beden özgürlüğünü doğadaki süslenme, halk kültürü, dans, dövme, örtünme/açılma ve tenin kutsallığıyla birlikte kuruyor.
+- Sorun: Belirgin sorun kalmadı; kapanış hak cümlesi dil açısından temizlendi.
+- Yapılacak: Korunmalı; final okumada bölüm türban/açıklık tartışmasına daraltılmadan bedenin kendi ifadesi ve özgürlüğü hattında bırakılmalı.
 
 ### 34 - Üreme Hakkı
 
 - Eski puan: 8/10
-- Yeni puan: 8/10
-- Değişim: 0, aynı kaldı.
+- Yeni puan: 9/10
+- Değişim: +1, yükseldi.
 - Durum:
 - Eski yorum: Kadın kararı, özgür rıza ve doğanın taşıma kapasitesi korunuyordu.
-- Güncel yorum: Yeni gündelik tanıklık bloğu sert konuyu yumuşatarak kapatıyor.
-- Güçlü taraf: Üremeyi içgüdü, rıza, sorumluluk ve taşıma kapasitesiyle birlikte ele alıyor.
-- Sorun: Finalde hak cümlesi yerine tören/sorumluluk hükmü kalıyor; bu bilinçli mi kontrol edilmeli.
-- Yapılacak: Kapanışın diğer hak bölümleriyle aynı ağırlıkta mühürlenip mühürlenmediği değerlendirilmeli.
+- Güncel yorum: Soy sürdürme, Umay Ana, rıza, kadın kararı, taşıma kapasitesi ve gündelik tanıklık bloğu birlikte dengeli akıyor.
+- Güçlü taraf: Üremeyi içgüdü, rıza, kadın iradesi, doğanın yükü, sorumluluk ve gündelik mizah/mahcubiyetle birlikte ele alıyor.
+- Sorun: Belirgin sorun kalmadı; finaldeki tören/sorumluluk hükmü bilinçli bir mühür gibi çalışıyor.
+- Yapılacak: Korunmalı; final okumada bölüm yalnız biyolojik üreme ya da yalnız insan ahlakı düzlemine daraltılmamalı.
 
 ### 35 - Kavga ve Korunma Hakkı
 
 - Eski puan: 7/10
-- Yeni puan: 8/10
-- Değişim: +1, yükseldi.
+- Yeni puan: 9/10
+- Değişim: +2, yükseldi.
 - Durum:
 - Eski yorum: Savaş, hırs ve kan tekrarları sıkılaştırma istiyordu.
-- Güncel yorum: Bölüm artık daha kısa, daha bedensel ve daha net.
-- Güçlü taraf: Çocukluk kavgası ile narçiçeği/el bombası imgesi savunma hakkını sert ama etkili kapatıyor.
-- Sorun: Kızıl/nar/el bombası imgesi güçlü ama çok yoğun; yerinde durmalı mı son okumada tartılmalı.
-- Yapılacak: Şimdilik korunmalı; sadece mekanik satır sonu ve noktalama kontrolü yapılmalı.
+- Güncel yorum: Bölüm artık kısa, sert ve dengeli; savunma hakkı ile öldürmeye zorlanmayı reddetme hattı aynı eksende kuruluyor.
+- Güçlü taraf: Kartal pençesi, aslan dişi, arı yuvası, çocukluk kavgası, narçiçeği/el bombası karşıtlığı ve barış selamı bölümü akılda kalıcı yapıyor.
+- Sorun: Belirgin sorun kalmadı; kızıl/nar/el bombası imgesi yoğun ama burada bölümün kırılma noktası olarak çalışıyor.
+- Yapılacak: Korunmalı; final okumada savunma hakkı savaş övgüsüne genişletilmeden, barış ve reddetme hakkı hattı korunmalı.
 
 ### 36 - Sürü ve Örgütlenme Hakkı
 
 - Eski puan: 8/10
-- Yeni puan: 8/10
-- Değişim: 0, aynı kaldı.
+- Yeni puan: 9/10
+- Değişim: +1, yükseldi.
 - Durum:
 - Eski yorum: Sürü, koloni, oba ve örgütlenme doğal zeminden iyi kuruluyordu.
-- Güncel yorum: Manifesto, bildiri, hayal ve salıncak tanıklığı insan örgütlenmesi tarafını güçlendirdi.
-- Güçlü taraf: Doğal sürüden politik/insani örgütlenmeye geçiş daha görünür.
-- Sorun: Finalde hak cümlesi doğrudan değil; şiirsel bir açık uçla bitiyor.
-- Yapılacak: Kapanışın haklar dizisindeki mühür düzeniyle uyumu kontrol edilmeli.
+- Güncel yorum: Sürü, koloni, oba, iş bölümü, toprak/su/karga/bildiri/insan seli tanıklığı, yalnız aslan ve hayal-salıncak kapanışı doğal örgütlenmeden insani örgütlenmeye temiz geçiyor.
+- Güçlü taraf: Doğal sürüden politik/insani örgütlenmeye geçiş, bildiriler okunurken soluksuz kalma, insan seli, yalnız aslan ve `Bu hakkı elinden ne krallar alabilir` kapanışı güçlü.
+- Sorun: Belirgin sorun kalmadı; kapanış açık uç değil, şiirsel bir hak hükmü gibi çalışıyor.
+- Yapılacak: Korunmalı; final okumada örgütlenme hakkı suç/baskı örgütlenmesine genişletilmeden, adalet ve esenlik hattında bırakılmalı.
 
 ### 37 - Destek Hakkı
 
 - Eski puan: 8/10
-- Yeni puan: 8/10
-- Değişim: 0, aynı kaldı.
+- Yeni puan: 9/10
+- Değişim: +1, yükseldi.
 - Durum:
 - Eski yorum: Dayanışmayı iyilik değil hak olarak kuruyordu.
-- Güncel yorum: Yaşlılık, kırılganlık ve gündelik destek ihtiyacı daha somut.
-- Güçlü taraf: Destek fikrini merhamet gösterisi değil sürünün kendine verdiği söz yapması güçlü.
-- Sorun: Kısa bölüm; bazı okur daha fazla örnek bekleyebilir ama fazla uzatmak ritmi bozabilir.
-- Yapılacak: Korunmalı; yalnızca mekanik son okuma yapılmalı.
+- Güncel yorum: Yavru, yaşlılık, kırılganlık, dayanışma ve gündelik destek ihtiyacı kısa ama güçlü biçimde birleşiyor.
+- Güçlü taraf: Destek fikrini merhamet gösterisi değil sürünün kendine verdiği söz yapması; enik, çakal payı, titreyen diz, yakın gözlüğü ve dondurma imgeleriyle somutlaşması güçlü.
+- Sorun: Belirgin sorun kalmadı; kısalık burada bölümün gücü olarak çalışıyor.
+- Yapılacak: Korunmalı; final okumada bölüm daha fazla örnekle uzatılmadan bu kısa ve doğrudan yapıda bırakılmalı.
 
 ### 38 - Adalet Hakkı
 
 - Eski puan: 8/10
-- Yeni puan: 8/10
-- Değişim: 0, aynı kaldı.
+- Yeni puan: 9/10
+- Değişim: +1, yükseldi.
 - Durum:
 - Eski yorum: Adaletin insan dışı canlılar için de istenmesi güçlü fikirdi.
-- Güncel yorum: Zeytin ağacı, bıçak/balta ve tanıklık bloğu adalet duygusunu somutlaştırıyor.
-- Güçlü taraf: Gözleri bağlı kadın, terazi ve yaban adaleti iyi yan yana geliyor.
-- Sorun: Hak ihlalleri listesi uzun ve ağır.
-- Yapılacak: Liste korunacaksa nefes yerleri ve noktalama son kez düzenlenmeli.
+- Güncel yorum: Zeytin ağacı, tavuk/tilki, balina, gözleri bağlı kadın, önceki hakların eyleme dökülmüş kayıpları ve tanıklık bloğu adalet duygusunu somutlaştırıyor.
+- Güçlü taraf: Gözleri bağlı kadın, terazi, yaban adaleti, önceki haklara referans veren ihlal dizisi ve mavi Gök/sıcak Güneş/karanlık Gece/Yaratıcı tanıklığı iyi yan yana geliyor.
+- Sorun: Belirgin sorun kalmadı; uzun liste sıradan katalog değil, önceki hakların çalınmış/bozulmuş hâllerini adalet bölümünde bilinçli olarak geri çağırıyor.
+- Yapılacak: Korunmalı; final okumada bu referans dizisi mekanik tekrar sanılıp budanmamalı, yalnız mevcut nefes yerleri korunmalı.
 
 ### 39 - Ölüm ve Ölülerin Hakkı
 
@@ -486,10 +486,10 @@ Puanlar 10 üzerinden verilmiştir. 9-10 çok güçlü ve okur zevki yüksek; 7-
 - Değişim: 0, aynı kaldı.
 - Durum:
 - Eski yorum: Ölüm, yas, onur ve kabulleniş iyi akıyordu.
-- Güncel yorum: Yeni hüzünlü kapanış bölümü daha derin mühürlüyor.
-- Güçlü taraf: Onurlu ölüm hakkı sessiz, ağır ve dengeli kuruluyor.
-- Sorun: Hassas konu; tek bir fazla açıklama bile tonu bozabilir.
-- Yapılacak: Fazla kurcalanmamalı; yalnızca son mekanik kontrol yapılmalı.
+- Güncel yorum: Ölümün döngü oluşu, yas tutan canlılar, kabulleniş ve onurlu veda hakkı sessiz ve ağır bir bütün kuruyor.
+- Güçlü taraf: Filler, köpekler, kargalar, maymunlar, soğuk beden, gölgelere karışan ruh, tohum ve hüzünlü kapanış onurlu ölüm hakkını dengeli taşıyor.
+- Sorun: Belirgin sorun kalmadı; hassas konu olduğu için fazla açıklama tonu bozabilir.
+- Yapılacak: Korunmalı; final okumada bölümün sessizliği ve kabulleniş tonu kurcalanmamalı.
 
 ### 40 - Nükleersizlik Hakkı
 
@@ -498,34 +498,34 @@ Puanlar 10 üzerinden verilmiştir. 9-10 çok güçlü ve okur zevki yüksek; 7-
 - Değişim: +1, yükseldi.
 - Durum:
 - Eski yorum: Nükleer korku, vicdan, santral riski ve düğmeye basacak lider ihtimali güçlüydü.
-- Güncel yorum: Başlık odağı ve yeni kapanış bölümü çok daha netleştirdi.
-- Güçlü taraf: Bomba, santral, atık ve ortak kâbus tek hatta bağlanıyor.
-- Sorun: Başlık uyumu sağlandı; bölümde belirgin mekanik sorun kalmadı.
-- Yapılacak: Son okumada nükleer korku ve enerji eleştirisinin dengesi kontrol edilmeli.
+- Güncel yorum: Vicdan, bomba, santral, atık, lider/düğme korkusu ve canlıların külleri üstüne kurulan kapanış tek hatta birleşiyor.
+- Güçlü taraf: Oppenheimer çağrışımı, atom şişesinden çıkan cin, sigortalanamayan santral riski, ortak kâbus ve çocuk/kedi/kiraz çiçeği kapanışı çok güçlü.
+- Sorun: Belirgin sorun kalmadı; nükleer enerji eleştirisi bomba korkusuyla dengeli.
+- Yapılacak: Korunmalı; final okumada bölüm teknik nükleer tartışmaya çevrilmeden bu vicdan/korku/borç hattında bırakılmalı.
 
 ### 41 - Değişim Hakkı
 
 - Eski puan: 8/10
-- Yeni puan: 8/10
-- Değişim: 0, aynı kaldı.
+- Yeni puan: 9/10
+- Değişim: +1, yükseldi.
 - Durum:
 - Eski yorum: Evrim, uyum, toplumsal değişim ve umut köprüsü iyi çalışıyordu.
-- Güncel yorum: Zerdali, horoz, kartpostal ve terk etmek/kaçmak tanıklığı kapanışı somutlaştırdı.
-- Güçlü taraf: Biyolojik değişimden toplumsal değişime geçiş açık.
-- Sorun: Evrim anlatısı yer yer bilgi notu tonuna yaklaşabilir.
-- Yapılacak: Son okumada açıklayıcı cümlelerin ritmi kontrol edilmeli.
+- Güncel yorum: Kısaltılmış kapanış artık temiz; zerdali çiçekleri ve erkenci horozlar değişim fikrini sade ve canlı biçimde mühürlüyor.
+- Güçlü taraf: Biyolojik değişimden toplumsal değişime geçiş açık; mart soğuğuna direnen zerdali ve bıçaklara meydan okuyan horoz imgeleri güçlü.
+- Sorun: Belirgin sorun kalmadı; final artık kalabalık değil.
+- Yapılacak: Korunmalı; final okumada kapanış yeniden uzun insan örnekleriyle açılmamalı.
 
 ### 42 - Gelecek, Hayal ve Umut Hakkı
 
 - Eski puan: 8/10
-- Yeni puan: 8/10
-- Değişim: 0, aynı kaldı.
+- Yeni puan: 9/10
+- Değişim: +1, yükseldi.
 - Durum:
 - Eski yorum: Umudu finalden önce yükselten doğru bölümdü.
-- Güncel yorum: Boy çizgisi, Mars kapı sesi ve habitat hayali soyut hattı somutlaştırıyor.
-- Güçlü taraf: Gelecek, hayal ve umut üçlüsünü final öncesi doğru yerde topluyor.
-- Sorun: Son hüküm kısa; daha büyük bir bölüm bekleyen okur için ani bitebilir.
-- Yapılacak: Kısa kapanışın bilinçli olup olmadığı final diziliminde kontrol edilmeli.
+- Güncel yorum: Nuh'un Gemisi umudu, soyun geleceğe taşınması, insan hayal dünyası, boy çizgisi, Mars kapı sesi ve habitat hayali final öncesi temiz bir umut eşiği kuruyor.
+- Güçlü taraf: Gelecek, hayal ve umut üçlüsünü soy, çocuk/torun, yaratıcı akıl, soyut değerler ve kurtarılmış dünya hayaliyle birlikte topluyor.
+- Sorun: Belirgin sorun kalmadı; kısa kapanış final öncesi bilinçli bir eşik gibi çalışıyor.
+- Yapılacak: Korunmalı; final okumada bölüm gereksiz büyütülmeden bu sade umut eşiği olarak bırakılmalı.
 
 ### 43 - Mutluluk Hakkı
 
@@ -534,10 +534,10 @@ Puanlar 10 üzerinden verilmiştir. 9-10 çok güçlü ve okur zevki yüksek; 7-
 - Değişim: 0, aynı kaldı.
 - Durum:
 - Eski yorum: Önceki hakları tek uzun nefeste topladığı için final olarak doğru yerdeydi.
-- Güncel yorum: Haklar gövdesini iyi kapatan, sade ve güçlü final.
-- Güçlü taraf: Mutluluğu bütün organik hakların toplam sonucu olarak kuruyor.
-- Sorun: İlk uzun liste yorabilir ama final etkisini de buradan alıyor.
-- Yapılacak: Liste fazla kısaltılmamalı; yalnız noktalama ve nefes yerleri kontrol edilmeli.
+- Güncel yorum: Haklar gövdesini iyi kapatan, önceki hakları tek uzun nefeste mutluluğa bağlayan sade ve güçlü final.
+- Güçlü taraf: Mutluluğu bütün organik hakların toplam sonucu olarak kuruyor; barınma, gıda, su, sağlık, özgürlük, iletişim, ölüm, savunma ve korunma hakları tek akışta geri çağrılıyor.
+- Sorun: Belirgin sorun kalmadı; uzun liste burada final etkisinin parçası.
+- Yapılacak: Korunmalı; final okumada liste mekanik tekrar sanılıp kısaltılmamalı, yalnız nefes ve noktalama birliği korunmalı.
 
 ### 44 - A++ İnsan Olmak
 
@@ -546,10 +546,10 @@ Puanlar 10 üzerinden verilmiştir. 9-10 çok güçlü ve okur zevki yüksek; 7-
 - Değişim: 0, aynı kaldı.
 - Durum:
 - Eski yorum: Yağmur/ağaç açılışı güçlüydü ama suç katalogları fazla envanterleşiyordu.
-- Güncel yorum: Açılış hâlâ çok iyi; orta bölüm hâlâ en öncelikli sıkılaştırma alanlarından.
-- Güçlü taraf: İnsanın konfor, tüketim ve duyarsızlık ikilemi sert biçimde yakalanıyor.
-- Sorun: Uzun suç kataloğu ve alıntı yoğunluğu var; mekanik kaçışlar temizlendi ama bölüm hâlâ sıkılaştırma istiyor.
-- Yapılacak: Bu bölüm öncelikli çalışılmalı; en güçlü sahneler seçilip tekrar eden kataloglar azaltılmalı.
+- Güncel yorum: Yeni A++ sorusu ve uçurtma/ağaç bağı bölümü güçlendirmiş; ancak orta gövde hâlâ katalog baskısı altında.
+- Güçlü taraf: İnsanın konfor, tüketim ve duyarsızlık ikilemi sert biçimde yakalanıyor; uçurtma, hektar, boğaz, maden yarası ve kaplumbağa imgeleri bölümün taşıyıcı sahneleri.
+- Sorun: Yeni imgeler etkili olsa da tüketim, altyapı, sanayi, felaket ve bahane zincirleri üst üste biniyor; bazı satırlar şiirsel değil açıklayıcı/dağınık akıyor.
+- Yapılacak: Bu bölüm öncelikli çalışılmalı; güçlü sahneler korunup 70-170 arası tekrar eden kataloglar seçilerek azaltılmalı, A++ ironisi kapanışta daha net mühürlenmeli.
 
 ### 45 - İşgalimsin
 
@@ -817,3 +817,41 @@ onları öldürecek şeyler sakın yapma.
 Ölüm sana döner unutma.
 Onlar gibi sen de aynı toprağa aitsin,
 bugün üstünde, yarın altında!
+
+
+
+ek 1- 
+
+Benim aklım,
+Yol kenarında beton deliklerde yer verilmiş ağaca takılan uçurtmamdaydı.
+Gri gökyüzünün altında çaresiz beklerken, ıslanmaktaydım.
+Suçlu ağacın altına sığındım.
+Kafamı yukarı kaldırdım,
+çıplak dallarına gözlerimi açtım.
+İğne iğne gelen damlalar düştü yüzüme.
+Göğe kaldırdığı kollarını seyrettim.
+Damlalar gizledi gözlerimden akanı.
+En tepede sallanan uçurtma kuyruğu.
+
+“Nükleer kış”,
+bir gece ansızın çökmezse üstümüze,
+küresel ısınmaya, pisliğimize,
+zehrimize, kanserimize
+uyumlanıp devam edeceğiz.
+
+Yüz yıl sonra bu dünya,
+çocuklarımıza ne söyleyecek?
+“*Kimin umurunda!*”
+
+Bir gün,
+insan o drama filminin aktörü olduğunda ancak,
+bir ateşin ortasında kaldığında
+yanan kaplumbağaları anlayabilir.
+
+Ve çamurdan bacaklarını kurtaramayıp
+suda sürüklenirken,
+bir ağaç kütüğünün topraktan sökülüşünü hissedebilir.
+Ancak gittiği pazarda
+bir bomba patladığında
+derinden ölüm korkusunu
+ve kızıl kanın kokusunu duyar.

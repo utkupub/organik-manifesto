@@ -7,7 +7,7 @@
 *ASLANIN DİŞİ*
 *VE İNSANIN AKLI OLMAKTIR.*
 
-Yılanın, akrebin zehri ne içindir!
+Yılanın, akrebin zehri ne içindir?
 Ya kartalın pençesi,
 kirpinin dikenleri,
 aslanın, çakalın dişleri?
