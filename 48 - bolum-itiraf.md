@@ -2,67 +2,83 @@
 
 *“Ya Ben!”*
 
-Hem çevre
-hem de özgürlük kısıtlarında
-yıllarca kulaklarını tıkayanlardan oldum
+Yıllarca,
+ne doğayı,
+ne de özgürlükleri baltayanları umursadım.
+
+Uzaklardan gelen çığlıklara,
+kulaklarımı tıkayanlardan oldum
 ve öz saygıma kıydım.
+
 “Bana ne” dedim,
 boş verdim.
-Hayatın çok kısa olduğunu düşünerek
+
+“Hayatın çok kısa” dedim,
 yedim, içtim, gezdim.
 
-Mücadele etmek yerine kaçmak;
-sorunların ve sorumluların etrafından dolaşmak,
-uzaklaşmak, uzlaşmak,
-alışmak çok daha kolay oldu.
+Mücadele yerine,
+kaçmak, alışmak çok kolaydı.
 
-Eşimle dostumla,
-gevezelik ederek,
-hiçbir şey yapmamanın vicdan azabından kurtuldum.
+Eşimle dostumla gevezelik ettim durdum.
+Çakırkeyf masalarda, atıp tutmak suçluluk terapisi.
+“Hiçbir şey yapmamanın dayanılmaz hafifliği” koydum adını.
 
-Çöp atanlara kızıp,
-bir taraftan mangal
-ve et peşinde koştuk.
-Koca koca dört çekerlerle
-şehirlerde gezmeye özendik.
+Hep beraber,
+çöp atanlara kızıp,
+bir taraftan köz ve et peşinde koştuk.
+
 Kedileri, köpekleri beslerken,
 kuzuların sessizliğini izledik.
+
+Koca koca dörtçekerlerle
+şehirlerde gezmeye özendik.
+
 Çeşmeleri damlayanlara kızarken,
 çimleri sulayıp durduk.
+
 Maden, kereste, odun,
-enerji uğruna ormanlar,
-sular, araziler, talan edilirken,
+enerji uğruna,
+toprak ve ormanlar
+talan edilirken,
 reklam tabelalarına takmıştık kafayı.
 
-Kaz Dağları’nda,
-Artvin’de,
-Konya Ovası’nda,
-Tuz Gölü'nde ve Salda Gölü'nde,
-Karadeniz’de ve onun yaylalarında,
-Menderes Ovası’nda,
-Bafa Gölü’nde,
-İstanbul’dan parçalanan,
-bölünen, kazınan,
-yok edilen doğanın çığlıklarını duydum.
-Sadece duydum!
-Nereye başımı çevirsem bir kıyım.
-Nereye dönsem bir sel,
+Kaz Dağları’nda bir maden.
+Artvin’de bir baraj.
+Konya Ovası’nda bir obruk.
+Menderes Ovası,
+Bafa Gölü,
+İstanbul.
+Ellerimi bastırsam da kulaklarıma,
+bölünen, kazınan, parçalanan doğanın çığlıkları,
+yine de yankılanır durur, birinden ötekine.
+
+Başımı başka yerlere çevirsem de,
+nereye dönsem bir kıyım, bir sel,
 nereye baksam bir kuraklık,
-bir obruk, bir kirlilik,
-bir çirkinlik,
+yukarıda is, pis, kirlilik,
+aşağıda çöp, çirkinlik,
 kanser ve ölüm.
 
-Vicdanları rahatlatan bu kelimeler yazıldı,
-belki senin vicdanında okuyunca rahatlar.
+Kaçacak yer kalmadı.
+Önüm arkam sağım solum sobe!
+
+Kaçmaktan terlemiş çocuğun
+soluksuz içtiği soğuk su gibi
+yazdım bunları.
 
 Ancak birimiz yazar,
 ötekimiz okuruz.
-Kimse yediğinden bir lokma dahi eksiltmez.
+
+Kimse,
+ne elini taşın altına koyar,
+ne de yediğinden bir lokma eksiltir.
+
 “*Bir dünya bırakın biz çocuklara,*
 *yazalım üzerine sevgili dünya*”
-sadece şarkılarda kaldı bu sözler.
+Sadece şarkılarda kaldı bu sözler.
 
 Bizden sonrakilere,
 dünya yerine acıklı bir distopya bırakıyoruz.
+
 Aç ve soluksuz çocukların,
 üzerine işeyeceği birer mezar taşıyız artık.

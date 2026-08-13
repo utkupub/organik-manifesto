@@ -1,90 +1,82 @@
 7. # **BÖLÜM - GRİ ANKA** {#bölüm---gri-anka}
 
-Bu yazılar durdurur mu?
-Ya filmler,
-Ya havalı binalarda yapılan anlaşmalar?
-Ya uzaklardan gelen 
-bir sel, bir açlık, bir kuraklık, bir sıcaklık 
-haberi?
+Alt yazılarda yanan,
+kırk beş bin hektar,
+ümitsizlik bırakır her bir eklemimde.
+
+Kirli bir yozlaşma var aklımda.
+Kalıcı bir duyarsızlık tadı bıraktı ağzımda.
 
 Dinleyenler, bağıranlar bir avuç insan!
 Bize uğramasın ölümün melekleri, yeter!
-Ne okumak,
-ne görmek,
-ne duymak,
-ne seyretmek,
-ne izlemekle
-harekete geçemiyor kimse!
 
-Yediğim ve içtiğim, hep benim sandım! 
-Tükettiğim ve arzularım, hep benim sandım!
-Kirli bir yozlaşma var aklımda.
-Bir çelişki doğdu sıcakla klimanın arasında.
-Kalıcı bir duyarsızlık tadı bıraktı ağzımda.
+Büyük tufana sebep!
+Kıydığımız soyumuz yetmezmiş gibi,
+bir de anamız tabiat.
 
-Üç uyaran dernek, üç uyarılan tesis.
-Beş çırpınan vakıf, kırk beş bin yanan hektar,
-ümitsizlik bırakır her bir eklemimde.
+Gökler kararınca umuda sarılırmış insan.
 
-Savaşlar ve ölümler açıktan ticaret.
-Ardından dua okunanlar azınlıkta.
-Mezarlar derin bile değil artık.
+Ey kurtuluşa inananlar!
+“**Nuh’un Gemisi**” kurtaracak dünyayı yeniden.
 
-Büyük tufana sebep, 
-yine günahlarımız, ama bu sefer, 
-kıydığımız soyumuzun yanında, tabiat ana.
+Yükleyin ambarları,
+tohumla ve hayvanla beraber,
+çocuklarımız için gelecek,
+bir de uygarlığın temiz yerini.
 
-Umut insanın ışığı! 
-Kurtuluşun mimarları,
-bir daha “**Nuh’un Gemisi”** yapacak.
-Gemiye yüklemek zorunda olduklarımız, 
-tohum ve hayvan dışında, artık bilgi var.
-
-Ne çok bilgi var yükleyecek, 
+Ne çok bilgi var yükleyecek,
 üretenlere selam olsun!
- 
-Yüzlerce, binlerce gemi gerekecek, 
-çocuklarımızı,
-doğayı ve geleceğimizi 
-kurtaracak!
 
-Binlerce Ağrı Dağı gerekecek,
-felaketlerin sonunda.
+Felaketin sonundaki ışığa,
+binlerce Ağrı Dağı’na selam olsun!
 
-Kargalar yetmez artık yolları, iskeleleri bulmaya.
+Kargadaki akıl yeter mi
+konacak bir dal bulmaya?
+O kibirlendiğin,
+bir buçuk kilogramlık beynin
+ne yapıyor o sırada?
 
-Büyük yıkımdan sonra,
-Aklım gelir başıma! 
 Samanlıkta,
 kibritle oynayıp,
 yangın sonrasında çırpınan ağlayan
-çocuklar gibi.
+çocuklar gibi,
+ancak gelir aklın başına!
 
-Yaşaması güç de olsa,
-bir pay kalırsa insana, 
+Sonrasında,
+bir pay kalırsa,
+insan cinsine dünyada,
 yeni bir gelecek kapısı aralanacak.
 
-Bunları yazdırtan da! 
-Doğanın kendi için yaratıldığını sanan da! 
-Kibirlendiği bir buçuk kilogramlık beyin.
+Küller küllere,
+tozlar tozlara,
+sular sulara karışacak,
+insanlık konacak bir Ağrı Dağı bulacak,
 
-“homo sapiens” için yakılmış **rüzgâr ağlatısını** okudun mu?
+Eski dünyanın
+hem mucidi,
+hem deccali
+“Homo sapiens” için yakılan ağıdı işittin mi?
 
-Küller küllere, 
-tozlar tozlara, 
-sular sulara karışır, 
-insanlık konacak bir Ağrı Dağı bulur, 
+Evrim,
+çatal dilini saplayacak böğrümüze!
 
-Küllerimizden yeniden doğacak, 
+Küllerimizden yeniden doğacak,
 gri bir Zümrüdüanka!
 
-Evrim, çatal dilini saplayacak böğrümüze!
-Gemiden inenler,
-bizi kötücül ve düşüncesiz atalar olarak anacak.
+Yeni bir insan türü inecek,
+dağılacak yeryüzüne.
 
-Onlar artık kendilerine,
-"Homo novae terrae" diyecekler;
-eski kökenlerini unutmak istercesine.
+Onlara,
+“Homo novae terrae” denecek.
 
-Yeni yeryüzünün insanları...
-Eski dünyanın hatasını hatırlayanlar.
+Onlar,
+kökenlerini unutmak istercesine,
+bizi,
+kötücül ve düşüncesiz atalar
+olarak anacaklar.
+
+Kara Toprak, Mavi Gök-Su,
+tanık olsun ki,
+bu buruk doğuş,
+bu yeniden dönüş yeryüzüne,
+artık son kez olacak.

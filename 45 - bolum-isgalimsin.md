@@ -11,7 +11,7 @@ meşeyi odun,
 çamları bardak yaptım.
 Dağları, taşları kırdım,
 tüneller, köprüler, ovalar,
-çöller aştım, yollar döşedim.
+çöller aştım, bulvarlar döşedim.
 
 Adamların dünyasında,
 arabalar, trenler yaptım.
@@ -22,27 +22,28 @@ Parayı bile icat ettim.
 Her şey anlamsız geldi,
 bir kadın bile yoktu yanımda.
 
-Gözüm hep yolda!
-Karıncadan çok araba yok mu yollarda?
+Karıncadan çok araba ürettim,
+saldım ortalığa!
 
-Uçsuz bucaksız evler, mahalleler, şehirler yaptım,
+Bir ufuktan öbürüne uzanan,
+evler, mahalleler, kentler yaptım,
 sazdan samandan değil,
 camdan, demirden, betondan.
 
 Burnumda asfalt ve tost kokusu.
 
-Yollarda domates, biber, patlıcan bağırışları,
+Sokakta domates, biber, patlıcan bağırışları,
 bir anda karartır dünyamı...
-Sokaklarda yankılanan sloganlar.
+Caddelerde yankılanan sloganlar.
 Televizyondan gelen, ezilmiş öğrenci ve işçi kokusu.
 
 Geceler boyu,
 tanrılara kafa tutmadım mı,
 Babil Kulesi'nden yüksek şaraplı teraslardan?
 
-Uçsuz bucaksız tarlalarımda,
-yorulmadım mı burçak yolmaktan;
-kıskanmadım mı kaç bin dönüm tarlası olan adamı?
+Sarı sıcakta burçak yolarken,
+hem yoruldum,
+hem nefret ettim bin dönüm tarlası olan adamdan.
 
 İşte ben,
 böyle bir sıcak Pamfilya akşamında,
@@ -54,74 +55,62 @@ asılan, gerilen,
 sadece insan mı sanırsın!
 
 Gözü güzel buzağılara,
-Zıplayan kuzulara,
-Sarı şirin civcivlere,
-Hızlandırılmış bir yaşam,
+zıplayan kuzulara,
+sarı şirin civcivlere,
+hızlandırılmış bir yaşam,
 verimli bir ölüm,
-Kan, ter ve gözyaşı vaat ettim.
+kan, ter ve gözyaşı vaat ettim.
 Hem dik hem baş aşağı.
 
 Mezbahanın adını yeniden koymadım mı?
 “entegre öldürme tesisi”.
 
-Kesmedim mi önünü betonla,
-dizginlemedim mi o çılgın suları?
-
 Döşemedim mi dağların sırtlarına,
 denizlerin içine binlerce fırfır?
 
-Güneş topladım senin için,
-kapkara parıldayan tarlalardan.
+Güneş topladım sana,
+kapkara ama ışıldayan güne bakan çayırlarından.
 
-Sıraladım direklerimi, görmedin mi?
+Çayır çimene basa basa sıraladım direklerimi!
 Üzerinde kuşlar pinekleyince,
 enerji hatlarını
 göklere uzanan fasulye sırığı mı sandın!
 
-Kurutmadım mı?
-Sinir bozan sivrisinekli, böcekli bataklıkları.
+Kurutup çimen ektim
+sinir bozan sivrisinekli, böcekli bataklıklara!
+Yoksa,
+o golf sopasını nasıl savururdun o sazlıkta?
 
-Yeryüzünün karnını deşmedim mi?
-Binlerce kez maden yarasıyla,
+Boynuna taktığın beşi birlik için,
+yeryüzünün karnını deşmedim mi defalarca?
 hırsını alamamış adamlar gibi.
+Siyanürle, can verdim suya toprağa.
 
-Çıkmadım mı!
-Hâkim karşısına ütülü kıravatımla.
-Hafifletilmiş cezayla kaç kez kurtuldum!
+Çıkmadım mı
+hâkim karşısına ütülü kıravatımla?
 
-Filtresiz termik bacalarımı
-sigara dumanı saydırdım kaç kere?
-Doyan boğazlar bahanesiyle.
+Filtresiz sigara diye yutturdum,
+koca termik bacalarını.
 
-Boynuna taktığın beşi birlik için
-az zehirlemedim toprağı?
-
-Misket oynar gibi,
-atom bombası denedim denizlerde.
+Parmaklarımın arasından misket savurur gibi,
+savurdum parlak ışıltılı atom bombalarını denizlere.
 
 Kedi boku gömer gibi gömdüm,
-radyoaktif dışkılarımı.
+radyoaktif pisliğimi.
 
+Orta Dünya'dan mermi ve bomba attım,
 Üçüncü Dünya'nın çocuklarına,
-horoz ve elma şekeri yerine
-mermi ve bombayı layık görmedim mi?
-Lanet etmediler mi orta dünyanın düzenine!
+horoz ve elma şekeri yerine.
 
 Gökkuşağını yeniden boyayacak kadar,
 boya üretirken,
 altından geçenleri horlamadım mı yeterince!
 
-Havalı, ateşli, dumanlı roketler icat ettim.
-Dünya'dan Ay'a gittim, Mars'a gittim.
-Yıldızlar kadar çok atmadım mı uyduyu?
-Döndürmedim mi göğü çöplüğe?
+Yanar döner, dumanlı roketlerle
+gittim geldim dokumacı kuşu gibi bir yere bir göğe.
+Döndürmedim mi göğü uydu çöplüğüne?
 
-Doldurmadım mı geceyi ışıkla?
-
-“nadir element”, “fiber”, “termoplastik”, “GDO”
-derken yeterince sözcük katmadım mı dağarcığına?
-
-Ne resif koydum, ne balina!
+Mercan, resif, balina derken,
 Ne mevsim koydum karışmayan, kaymayan,
 Ne akıntı koydum şaşmayan.
 

@@ -1,150 +1,142 @@
-5. # **BÖLÜM - AKIL, BEDEN, UYUM** {#bölüm---akil,-beden,-uyum}
+5. # **BÖLÜM - AKIL, BEDEN, UYUM**
 
 *Dünyanın yüzünde tek bir kural var:*
 *“Doğaya Uyumlan ya da Yok Ol”*
 
 *İnsan,*
-“*dünyayı kendine uydururum” diye düşünüyor.*
+*“dünyayı kendime uyduruyorum” sanıyor.*
 *Felaketlerin eşiğinde oturan insan,*
 *bunun bedelini henüz ödemedi.*
 
+Suyun kokusuna koşan salyangozun gayretini gördün mü?
+Senin gayretin de öyleydi,
+soğukta kaldığında odun toplarken,
+sana saldıranlara karşılık ararken.
 
+Hep aklın seni korudu, ısıttı.
+Sana bilim, sanat verdi.
+Hırsın seni uçurumun kenarına itti.
+Düşmemek için yine akıl lazım.
 
-İnsan aklıyla,
-evrim yasalarıyla çelişen birçok zafer kazandı.
+Nefes ve su,
+yiyecek ve giyecek,
+aşk ve uyku,
+artık lazım değil sanırsın?
 
-Aklını cam bir kavanoza koymadığı sürece,
-bedeni ve varlığı doğaya bağlı.
-Oksijen solumak,
-su içmek,
-karnını doyurmak
-ve üremek zorunda.
-Ve aşık olmak,
-yüzünde rüzgarı hissetmek,
-yürümek isteğinde.
+Hani sabah çok erken kalkarsın da,
+gün doğmadan yüzünde rüzgârı hissetmek
+ve yürümek istersin, unuttun mu?
 
-Soyunu ataları gibi sürdürmek istiyorsa,
-insan da evrim yasalarıyla barışmak zorunda.
-Yaşam biçimi doğaya aykırı olduğu sürece,
-dünyadaki her canlıya felaket saçıyor.
+Suyun içinde gelişip
+kabuğunu değiştiren bir sivrisinek larvası
+değil ki insan,
+doğayı ardında bırakıp hayal âlemine geçsin, uçsun.
 
-“Canlılar, çevresine uyumları ölçüsünde türlerini yaşatabilir.”
-Evrim bir teori değil,
-bir ritimdir: çevre değişir;
+İnsana rağmen,
+toprak, su ve hava,
+yaşam sürüyor.
+
+Amma,
+artık bildiğimiz, sevdiğimiz,
+bize iyi davranan doğa,
+orman, su yok.
+
+Evrim,
+aklını kurcalayan teori değil,
+yaşantında bir ritim olsun.
+
+Çevre değişir;
 uyumlanan sürer,
 direnip körleşen söner.
 
-İnsan,
-iklimi klima ile,
-suyu betonla,
-geceyi ışıkla,
-toprağı GDO’lu ürünle,
-yapay gübreyle kendine uydurmaya kalktı;
-bedel büyüdü büyüdü.
-Nehir yatağına asfalt dökmek,
-uyum değil savaştır;
-savaş o an kazanılsa da,
-ömür kısalır, anlamaz mı?
+Doğaya açtığın savaşın farkında değil misin?
+Don Kişot cesaretiyle saldırıyorsun iklime.
+Hep yanlış mızrak,
+hep yanlış kalkan.
+Stratejin çok bilimsel.
+Zırhın çok teknolojik.
 
-Uyum demek,
-Gök’ün,
-Yer-Su’nun temposuna dönmektir.
-Sıcağa gölgeyle,
-buhara esintiyle;
-suya geçirgen toprakla
-yanıt vermektir.
+Doğaya dönmek için,
+ne güzel bir strateji,
+ne kutlu bir zırh.
 
-Ev,
-apartman, site değil
-“yuva”, “yurt” kurulur,
-rüzgarı içeri alan,
-güneşi toplayan,
-geceyi loş bırakan.
+Sıcağa,
+klima değil, en çok ağaç gölgesi lazım.
+Ne çabuk unuttun eski icatları!
+Rüzgâr kapanlarını, kalkan duvarlarını.
 
-Tarlada yerel olan her bitkiye yer açılır,
-o kendi çevriminde bir ritimdir.
-İnsan ve hayvan tarlanın parçasıdır.
+Irmak yatağını betonlamak savaşmak değil mi!
+Dağ yamaçları yerine,
+düz ovaları, su kenarlarını ister oldun sadece.
 
-Şehir,
-uğuldayan, cam, beton
-ve asfalttan oluşan kirli bir hastalık değildir.
+Ya, geceye karşı yürüttüğün işgal.
+İyi ki icat ettin ampulü,
+her yer pırıl pırıl!
+Gece de çalış, gece de eğlen artık.
 
-Uyumla üreten bahçeler,
-hemzemin evler,
-okullar, hastaneler,
-ticarethaneleri ve sanayisiyle,
-gölge şeritleriyle,
-geçirgen zeminleriyle,
-yeşil koridorlarıyla doğanın parçasıdır.
+Ancak uyumla,
+Gök’ün, Yer-Su’nun temposuyla yaşam enerjisi çoğalır.
+Yelkenli nasıl yürür onunla.
+Bir yel değirmeni nasıl döner.
+Su nasıl temizler kendini.
+Bir üzüm nasıl şekerlenir.
+Bir kedi nasıl bu kadar sessiz!
 
-Isı adaları taşla değil,
-ağaçla söndürülür.
-Yollar hız için değil,
-makul bir ulaşım içindir.
-Tehlikesiz, yürünebilir,
-pedallanabilir, gürültüsüz
-ve eğlenceli yollar
-her varlığın hakkıdır.
-Nefes alan yaşayan mahalleler
-herkesin hayalidir.
+Dünya öyle bir yer ki,
+enerji her yerinden akıyor, esiyor,
+pırıldıyor, gürlüyor.
 
-Enerjiyi konfor için harcamak yerine,
-bedeni mevsime,
-saati ışığa uydurmak:
-yazın erken, kışın geç çalışmak;
-giysiyle, gölgeyle, ritimle
-yaşamak gerekir.
+Uyumlanabilsen,
+her yer tarla,
+her yer yerleşke.
 
-Kahve öğütücüsünden
-tuzluğa kadar,
-ve her türlü iş, eğlence
-artık elektrikli,
-her şey pilli.
+Doğanın dingin sakinliğinin ortasında,
+şehirler,
+beton, cam ve asfaltla
+uğuldayan, kirli, kalabalık bir hastalığa tutulmuş.
 
-Telefonlarınızı, laptoplarınızı ve sigortaları kapatın
-ve mum ışığında 10 dakika
-hiçbir şey yapmadan oturup,
-camdan dışarıyı
-ya da mum alevini seyredin.
-Anlayacaksın!
+Yol,
+hız için değil,
+bir öykü yazmak için değil mi?
 
-Teknoloji ve konfor elbette gerekli,
-ama buna kölelik şart değil.
+Yürürken kaç kişi kaza geçirir?
+Bisiklet ne kadar gürültü çıkarır?
+Nefes alan sokaklar,
+yaşayan mahalleler
+herkesin hayali değil mi?
 
-Çevreye uyum radikal değil,
-doğal ve içgüdüsel bir tepkidir.
+Uyumlanmak,
+doğal ve içgüdüsel bir tepki.
+Tıpkı görmeden üstüne bastığın
+bir sümüklü böceğin çıtırtısında,
+kalbinin sızlaması gibi.
 
-Bu tepki sana
+Bu tepki sana,
 7. kata toprak taşıtıp
 saksıya çiçek diktirir.
-Bu tepki sana
-çay demletip
-rüzgarlı balkona oturtur.
+
 Bu tepkidir sana tüy yumağı kedileri edindiren.
 Bu tepki seni kampa, mangala, ateşe çağırır.
 Bu tepki seni parkta bankta saatlerce oturtur.
 Bu tepki sana pembe panjurlu ev hayali kurdurur.
 Bu tepki seni su kenarına çeker.
+
 Bu tepkidir,
 alerjilerine rağmen,
 yeni kesilmiş çimen kokusunu içine çektiren.
-Bu tepki sana
+
+Bu tepki sana,
 güneşin doğuşunu
 ve batışını izletir.
-İçimde saymak istediğim şeyleri bir bilsen!
-İçindeki doğa özlemini çaresizlikten
-ya da umursamazlıktan unuttun ya da baskıladın.
 
-Bu tepkiyi serbest bırak.
-Ve doğal olmayana,
-plastiğe,
-kirli olana,
-basitçe
-“HAYIR” de.
+Bu tepki sana,
+çay demletip
+rüzgârlı balkona oturtur,
+farklı olana hayret ve merakla baktırır.
 
-Çeşitlilik uyumun gücüdür.
-Yerel bilgelik, dil, tohum,
-zanaat, hepsi birer uyum kasıdır.
-Uyum, boyun eğmek değil;
-ölçüyü bilmek ve o ölçüde serpilmektir.
+Farklı olan gösterir sana uyumun yolunu.
 
+Bu yol,
+boyun eğmekle değil;
+ölçüyü anlayabilmekle
+ve o ölçüye saygıyla yürünür.

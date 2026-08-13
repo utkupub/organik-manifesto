@@ -1,65 +1,73 @@
 8. # **BÖLÜM - YOLUN SONUNDA** {#bölüm---yolun-sonunda}
 
-Gök, Yer–Su tanık olsun ki:
-Her atık toprağa dönüşecek,
-bir damla suyu her varlık bölüşecek...
+BU,
+    MACERANIN SONU DEĞİLDİR,
+    PARLAK GÜNEŞİN ALTINDA TERLEYİP,
+    GECE ILIK RÜZGÂRDA YILDIZLARA KARŞI ÇAY İÇMEKTİR.
 
-Yeşil ve Gölge ve her fidan yaşayacak...
-Gecenin karanlığı ve sessizliği bozulmayacak.
-Yıldızların parlama hakkı
-büyük göğe geri verilecek.
+BU,
+    OTUN, GÜLÜN VE KARANFİLİN HALAYI,
+    DİKENİN KADİFEYE DOKUNUŞU,
+    BİR DAMLA SUYU PAYLAŞMAKTIR.
 
-Lokma kadar can verene, 
-borç asla unutulmayacak.
-İsrafa kapılar kapanacak, 
-Yemeğin, yedi günün en az üçünde bitkiden olacak.
-Her günün aydınlık varlığı 
-ve gecenin kapsayan karanlığı yarınları 
-şükürle yeniden kuracak.
+BU,
+    UZUN MASALARDA DOYASIYA YEMEK DEĞİLDİR,
+    BİR ZEYTİNİN KIYMETİNİ BİLMEK,
+    TUZUN KUTSAL YANINI HİSSETMEK,
+    ŞEKERİN MUTLULUĞUNU TATMAKTIR.
 
-Yollarda hiç iz bırakılmayacak, 
-doğanın, 
-rüzgârın, 
-denizlerin 
-ve yabanın yolları hep açık kalacak.
+BU,
+    KUZUNUN KORKUSUNU HİSSETMEK,
+    YEMEĞİN TEMELİNİ BİTKİYE VERMEKTİR.
 
-İnsanın varlığı,
-kuşa böceğe yuva,
-toprağa su ve nefes olacak.
+BU,
+    AT İZİNİN İT İZİNE KARIŞMASI DEĞİLDİR,
+    YAŞAM YOLUNDA,
+    ÇIPLAK AYAK DOLAŞIP
+    İZ BIRAKMAMAKTIR.
 
-Tohum ve bilgi sandığı yüceltilecek,
-herkesle paylaşılacak... 
-Çocuğa,
-hastaya,
-komşuya,
-yolcuya,
-zayıfa kapılar ve mallar açık olacak.
-Gönül birliği daim olacak.
+BU,
+    ÇÖPÜN GÜBREYE,
+    GÜBRENİN TOPRAĞA DÖNÜŞÜ,
+    TOPRAĞIN TOHUMLA BULUŞMASI,
+    TOHUM SANDIĞINI HERKESE AÇMAKTIR.
 
-Hasatta saçı saçılacak.
+BU,
+    KUŞA BÖCEĞE YUVA OLMAK,
+    YABANIN YOLLARINI HEP AÇIK TUTMAKTIR.
 
-Ot dahi yolunsa,
-aldığım canın karşılığı doğaya misliyle ödenecek.
-Adakta, can alınmayacak, 
-her cana yeni, yeniden hayat verip yaşatılacak.
+BU,
+    HASATTA DA,
+    ADALETTE DE,
+    ÖZGÜRLÜKTE DE,
+    HER MAHLUKATA ÇIKAN PAYDIR.
 
-Farklı görünen,
-farklı akış,
-farklı kültür,
-zenginlik sayılacak.
+BU,
+    KİRLETİLENİ,
+    ZEHİRLENENİ,
+    ARSIZCA ÖLDÜRÜLENİ UNUTMAK DEĞİLDİR.
 
-Her can ve varlık için 
-adalet ve özgürlük kutsal bilinip, 
-gün gün büyütülecek.
+BU,
+    PİS BİR MİRASIN
+    GERİ ÖDENMESİDİR.
 
-Ve yine gün gün; 
-kirlettiklerimiz, 
-zehirlediklerimiz, 
-tükettiklerimiz, 
-öldürdüklerimiz,
-yaktıklarımız ve yaptıklarımıza bakıp; 
-arsızca edindiğimiz mirası geri ödeyeceğiz.
+BU,
+    ZAYIFIN, MUHTACIN GÜLÜMSEMESİ,
+    BEKTAŞ'IN DUASI,
+    GÖNÜLDEN BİR EYVALLAH ÇEKMEKTİR.
 
-Büyük yok oluşu geciktirebilmek adına 
-Gök, Yer–Su tanık olsun ki,
-henüz bugünden “yeryüzü insanı” olacağız.
+BU,
+    AŞK VERENE AŞK,
+    CAN VERENE CAN OLMAKTIR.
+
+BU,
+    AYDINLIĞI VE KARANLIĞI ANLAMAK,
+    YARINLARI ŞÜKÜRLE KURMAKTIR.
+
+BU,
+    DOĞANIN VARLIĞINI İNSANA ADAMAK DEĞİL,
+    İNSANIN VARLIĞINI DOĞAYA ADAMAKTIR.
+
+BU,
+    YÜRÜYÜŞÜN SONUNDA,
+    YENİ İNSANLIĞA ŞAHİTLİK ETMEKTİR.

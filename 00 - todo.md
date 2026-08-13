@@ -1,23 +1,23 @@
 ## --- YORUM VE YAPILACAKLAR ---
 
-Bu dosya, kitabın baştan sona güncel editoryal değerlendirmesidir. Eski puanlar önceki todo değerlendirmesinden alınmıştır; yeni puanlar dosyaların mevcut hâline göre verilmiştir. Amaç, her bölümün yükselip düşmediğini görmek, güçlü tarafı, sorunu ve yapılacak işi yeniden belirlemektir.
+Bu dosya, kitabın baştan sona güncel editoryal değerlendirmesidir. Eski puanlar önceki todo değerlendirmesinden alınmıştır; yeni puanlar dosyaların mevcut hâline göre verilmiştir. Amaç, her bölümün yükselip düşmediğini görmek, güçlü tarafı, sorunu ve yapılacak işi yeniden belirlemektir. Çıkarılan bölümler aktif ortalamaya dahil edilmez; gerekçesi kısa notla korunur.
 
 Puanlar 10 üzerinden verilmiştir. 9-10 çok güçlü ve okur zevki yüksek; 7-8 çalışıyor ama ince sıkılaştırma ister; 6 ve altı öncelikli editoryal çalışma ister.
 
 ## Kitap Geneli Karşılaştırma
 
-- Eski genel ortalama: 7.77/10
-- Yeni genel ortalama: 8.65/10
-- Değişim: +0.88, yükseldi.
-- Bölüm hareketi: 35 bölüm yükseldi, 0 bölüm düştü, 17 bölüm aynı kaldı.
-- Eski dağılım: 4 puanlı 1 bölüm, 5 puanlı 2 bölüm, 6 puanlı 3 bölüm, 7 puanlı 7 bölüm, 8 puanlı 28 bölüm, 9 puanlı 11 bölüm.
-- Yeni dağılım: 5 puanlı 1 bölüm, 6 puanlı 2 bölüm, 7 puanlı 2 bölüm, 8 puanlı 4 bölüm, 9 puanlı 43 bölüm.
+- Eski genel ortalama: 7.80/10
+- Yeni genel ortalama: 8.98/10
+- Değişim: +1.18, yükseldi.
+- Bölüm hareketi: 40 bölüm yükseldi, 0 bölüm düştü, 10 bölüm aynı kaldı, 2 bölüm çıkarıldı.
+- Eski dağılım: 4 puanlı 1 bölüm, 5 puanlı 2 bölüm, 6 puanlı 2 bölüm, 7 puanlı 7 bölüm, 8 puanlı 28 bölüm, 9 puanlı 11 bölüm.
+- Yeni dağılım: 8 puanlı 1 bölüm, 9 puanlı 49 bölüm.
 
 ### Kitap Geneli Güncel Analiz
 
 - Güçlü taraf: Kitabın ana omurgası artık daha belirgin. Haklar bölümü, özellikle 28-43 hattındaki yeni kapanış tanıklıklarıyla daha canlı, daha duyusal ve daha kişisel bir ritim kazandı. Masal, şiir, şarkı sözü ve genel kültür göndermeleri kültürlü okuru yakalayan bilinçli ikinci katman olarak korunmalı.
-- Sorun: 44-52 son hattında hâlâ tekrar, teknik liste dili ve ham not kalıntısı hissi var. Büyük mekanik izler temizlendi; artık asıl mesele ritim ve sıkılaştırma.
-- Yapılacak: Önce 44, 46 ve 52 çalışılmalı. Sonra 45 ve 49'un uzun suç/mitik açıklama blokları ritim açısından gözden geçirilmeli. En son bütün kitapta son noktalama birliği yapılmalı; kültürel göndermeler mekanik hata sanılıp sadeleştirilmemeli.
+- Sorun: 46, 48 ve 49 toparlandı; 47 bilinçli olarak çıkarıldı. Son hatta asıl açık iş 50-52 çevresinde tekrar, teknik liste dili ve ham not kalıntısı riskidir. Kitabın geneline yayılan yok oluş, suç, borç ve insan yıkımı duygusu güçlü; bu ağırlık bilinçli ama aralara umut, onarım, gündelik iyilik ve mümkün gelecek notları yeterince serpiştirilmezse okurda karamsarlık yığılması yaratabilir.
+- Yapılacak: Önce 52 çalışılmalı. Sonra 50-51 hattının ritmi gözden geçirilmeli. Kitap genelinde olumsuzluğu dağıtacak küçük umut, eylem, onarım ve yaşama sevinci işaretleri korunmalı veya gerekli yerlere eklenmeli. En son bütün kitapta son noktalama birliği yapılmalı; kültürel göndermeler mekanik hata sanılıp sadeleştirilmemeli.
 
 ## Bölüm Bölüm Güncel Değerlendirme
 
@@ -542,74 +542,73 @@ Puanlar 10 üzerinden verilmiştir. 9-10 çok güçlü ve okur zevki yüksek; 7-
 ### 44 - A++ İnsan Olmak
 
 - Eski puan: 6/10
-- Yeni puan: 6/10
-- Değişim: 0, aynı kaldı.
+- Yeni puan: 9/10
+- Değişim: +3, yükseldi.
 - Durum:
 - Eski yorum: Yağmur/ağaç açılışı güçlüydü ama suç katalogları fazla envanterleşiyordu.
-- Güncel yorum: Yeni A++ sorusu ve uçurtma/ağaç bağı bölümü güçlendirmiş; ancak orta gövde hâlâ katalog baskısı altında.
-- Güçlü taraf: İnsanın konfor, tüketim ve duyarsızlık ikilemi sert biçimde yakalanıyor; uçurtma, hektar, boğaz, maden yarası ve kaplumbağa imgeleri bölümün taşıyıcı sahneleri.
-- Sorun: Yeni imgeler etkili olsa da tüketim, altyapı, sanayi, felaket ve bahane zincirleri üst üste biniyor; bazı satırlar şiirsel değil açıklayıcı/dağınık akıyor.
-- Yapılacak: Bu bölüm öncelikli çalışılmalı; güçlü sahneler korunup 70-170 arası tekrar eden kataloglar seçilerek azaltılmalı, A++ ironisi kapanışta daha net mühürlenmeli.
+- Güncel yorum: Bölüm artık haklar dizisinden sonra gelen karar/hesap aynası gibi çalışıyor. Karne fikri doğrudan not vermekten çıkıp doğanın ölçüsü, evlatlık, ayak izi ve A--- finali üzerinden okurun kendi hükmünü kurmasına bırakılmış.
+- Güçlü taraf: 43 `Mutluluk Hakkı`ndan sonra insanın bu haklar karşısındaki hâlini sorguluyor; 45 `İşgalimsin`deki itirafa sağlam bir köprü kuruyor. `Doğa Ana / evlat`, `ayak izi`, `karbon/plastik/nükleer iz` ve `doğanın gözünde insan A---` hattı kitap genelindeki Bir, Çöp, Nükleersizlik, Uyum ve Yolun Sonunda bölümleriyle güçlü biçimde konuşuyor.
+- Sorun: Belirgin büyük yapısal sorun kalmadı; bölüm haklar metinlerinden daha uzun ve daha büyük bir hesaplaşma olduğu için yayın düzeninde bilinçli eşik olarak hissettirilmezse okur bunu sıradan bir hak bölümü gibi bekleyebilir.
+- Yapılacak: Korunmalı. 44'ün başında veya İçindekiler/yerleşim düzeyinde bunun haklar dizisinden sonra gelen karar/hesap bölümü olduğu sezdirilmeli. Son okumada yalnız ince ritim, noktalama ve alt başlıklar arası geçiş birliği kontrol edilmeli.
 
 ### 45 - İşgalimsin
 
 - Eski puan: 8/10
-- Yeni puan: 8/10
-- Değişim: 0, aynı kaldı.
+- Yeni puan: 9/10
+- Değişim: +1, yükseldi.
 - Durum:
 - Eski yorum: İnsan ağzından işgal itirafı çok iyi fikirdi.
-- Güncel yorum: Hâlâ sert, yaratıcı ve akılda kalıcı bir bölüm.
-- Güçlü taraf: Asfalt/tost kokusu, entegre öldürme tesisi, radyoaktif dışkı ve işgal ordusu imgeleri çok güçlü.
-- Sorun: Orta bölümde teknik ve suç listesi çok yoğun.
-- Yapılacak: İşgalci anlatıcı sesi korunarak düz teknik liste satırları azaltılmalı.
+- Güncel yorum: Suç listesi artık dağılmış; bölüm işgalci insanın kirli, alaycı, suçunu bilen ama kendini de açıklamaya çalışan sesiyle daha tek parça akıyor.
+- Güçlü taraf: Asfalt/tost kokusu, Pamfilya akşamı, entegre öldürme tesisi, Karındeşen Jack çağrışımlı `yeryüzünün karnını deşmek`, siyanürle `can vermek` ironisi, radyoaktif pislik, `Orta Dünya / Üçüncü Dünya` göndermesi, `Ne ... koydum` argo/küfür gölgesi ve işgal ordusu imgeleri çok güçlü.
+- Not: `Orta Dünya / Üçüncü Dünya` karşıtlığı Tolkien'in Middle-earth çağrışımını ve kendini medeniyetin merkezi sanan dünyanın üçüncü dünyayı aşağılamasını bilinçli olarak taşıyor; mekanik hata sanılıp sadeleştirilmemeli. `Siyanürle, can verdim suya toprağa` ve `Ne ... koydum` satırları da bilinçli ters/sert kullanımlardır.
+- Sorun: Belirgin büyük sorun kalmadı; yalnız suç itirafının yüksek yoğunluğu korunurken son okumada nefes ve noktalama birliği kontrol edilmeli.
+- Yapılacak: Korunmalı; işgalci anlatıcı sesi, kültürel göndermeler ve bilinçli kirli/argo ton törpülenmemeli.
 
 ### 46 - Akıl, Beden, Uyum
 
 - Eski puan: 7/10
-- Yeni puan: 8/10
-- Değişim: +1, yükseldi.
+- Yeni puan: 9/10
+- Değişim: +2, yükseldi.
 - Durum:
 - Eski yorum: Uyum fikri güçlüydü ama şehir/enerji kısmı kent planlama notuna yaklaşıyordu.
-- Güncel yorum: Yeni evrim/uyum omurgası bölümü daha toparlanmış kılıyor.
-- Güçlü taraf: `Doğaya Uyumlan ya da Yok Ol` ilkesi kitabın çözüm kapısı gibi çalışıyor.
-- Sorun: Şehir, yol, enerji ve teknoloji kısmı hâlâ yer yer proje dili taşıyor.
-- Yapılacak: Plan dili şiirsel manifesto sesine yaklaştırılmalı; `Bu tepki sana...` tekrarları sıkılaştırılmalı.
+- Güncel yorum: Bölüm artık akıl, beden ve uyum fikrini daha şiirsel ve duyusal bir hatta taşıyor; salyangoz, Don Kişot, üzüm, kedi, şehir, yol ve sümüklü böcek imgeleri aynı uyum düşüncesine bağlanıyor.
+- Güçlü taraf: `Doğaya Uyumlan ya da Yok Ol` ilkesi kitabın çözüm kapısı gibi çalışıyor; bilim/teknoloji ironisi akla karşı değil, aklın yanlış kullanımına karşı konuştuğu için bölümü dengeliyor.
+- Sorun: Belirgin büyük sorun kalmadı; şehir kısmı bilerek karanlık ama ardından yol, yürüyüş, bisiklet, sokak ve içgüdüsel tepkiyle nefes alıyor.
+- Yapılacak: Korunmalı; son okumada yalnız küçük noktalama, soru işaretleri ve `Bu tepki` tekrarlarının ritmi kontrol edilmeli.
 
-### 47 - Sözler
+### 47 - Sözler (Çıkarıldı)
 
 - Eski puan: 6/10
-- Yeni puan: 6/10
-- Değişim: 0, aynı kaldı.
-- Durum:
+- Yeni puan: Aktif değerlendirmeden çıkarıldı.
+- Değişim: Bölüm kaldırıldı; puan hesabına dahil değil.
+- Durum: Çıkarıldı.
 - Eski yorum: Ana ilkeleri kısa sözlere indiriyordu ama format tutarsızdı.
-- Güncel yorum: Biçim ve açık yazım pürüzleri temizlenince bölüm yeniden işlevsel seviyeye çıktı.
-- Güçlü taraf: Kitabın ilkelerini kapanıştan önce özlü biçimde toplamaya uygun.
-- Sorun: Bazı sözler hâlâ açıklayıcı; şiirsel yoğunluk bölümden bölüme değişiyor.
-- Yapılacak: Son okumada sözlerin sırası ve ritmi değerlendirilmeli.
+- Güncel yorum: 46'dan 48'e geçişin doğrudan kurulması bilinçli edit kararıdır; `Sözler` bölümü kitapta zaten sahnelerle anlatılan ilkeleri aforizma gibi tekrar ettiği ve `İtiraf` bölümüne giden akışı yavaşlattığı için ana gövdeden çıkarıldı.
+- Yapılacak: Yeniden ele alınmayacak; yayın düzeninde 46'dan sonra doğrudan 48'e geçilecek.
 
 ### 48 - İtiraf
 
 - Eski puan: 8/10
-- Yeni puan: 8/10
-- Değişim: 0, aynı kaldı.
+- Yeni puan: 9/10
+- Değişim: +1, yükseldi.
 - Durum:
 - Eski yorum: Yazarın kendini de suçun içine koyması kitabı insanileştiriyordu.
-- Güncel yorum: Samimi, ağır ve gerekli bir bölüm.
-- Güçlü taraf: Dışarıdan ahkâm kesmek yerine kendi payını itiraf ediyor.
-- Sorun: Boş başlık temizlendi; yer adları listesi uzun ama burada çalışıyor.
-- Yapılacak: Yer adları listesi yalnız ritim açısından kontrol edilmeli.
+- Güncel yorum: 47 çıkarıldıktan sonra 46'dan doğrudan gelen güçlü bir kişisel kırılma hâline geldi; itiraf artık soyut suçtan gündelik kaçışa, oradan çocukluk `sobe` imgesiyle yakalanma duygusuna bağlanıyor.
+- Güçlü taraf: Dışarıdan ahkâm kesmek yerine kendi payını itiraf ediyor; `çakırkeyf masalar`, `dayanılmaz hafiflik`, yer adları, kulaklara bastırılan eller ve `Önüm arkam sağım solum sobe!` hattı bölümü kişisel ve akılda kalıcı yapıyor.
+- Sorun: Belirgin büyük sorun kalmadı; son iki dize çok sert ama 49'a karanlık eşik olarak çalışıyor.
+- Yapılacak: Korunmalı; son okumada yalnız tırnak biçimi, şarkı sözü göndermesi ve son noktalama kontrol edilmeli.
 
 ### 49 - Gri Anka
 
 - Eski puan: 7/10
-- Yeni puan: 7/10
-- Değişim: 0, aynı kaldı.
+- Yeni puan: 9/10
+- Değişim: +2, yükseldi.
 - Durum:
 - Eski yorum: Nuh'un Gemisi, bilgi sandığı, Ağrı Dağı ve Homo novae terrae fikirleri güçlüydü.
-- Güncel yorum: Mitik final fikri hâlâ iyi ama biçim ve ritim pürüzleri belirgin.
-- Güçlü taraf: Bilgi sandığı, felaket sonrası yeni insan ve gri Zümrüdüanka çok güçlü imgeler.
-- Sorun: Kaçış karakterleri temizlendi; fazla açıklama ve bazı tekrarlar bölümü zayıflatıyor.
-- Yapılacak: Orta bölüm sıkılaştırılmalı; mitik imge açıklamaya boğulmadan parlatılmalı.
+- Güncel yorum: Bölüm artık 48'in itiraf karanlığından mitik bir yeniden doğuş kapısı açıyor; Nuh'un Gemisi, Ağrı Dağı, karga, beyin, evrim, Gri Zümrüdüanka ve `Homo novae terrae` hattı tek omurgaya bağlandı.
+- Güçlü taraf: `uygarlığın temiz yeri`, `Küller küllere`, evrimin çatal dili, gri Zümrüdüanka ve `Kara Toprak, Mavi Gök-Su` tanıklığı bölümü kitap genelindeki mitolojik/organik dile güçlü biçimde bağlıyor.
+- Sorun: Belirgin büyük sorun kalmadı; yalnız Nuh gemisi çağrısındaki emir tonu ve `Homo novae terrae` açıklaması son okumada fazla düzleşmeden korunmalı.
+- Yapılacak: Korunmalı; final okumada yalnız noktalama, özel ad biçimi ve mitik kapanışın nefesi kontrol edilmeli.
 
 ### 50 - Yolun Sonunda
 
@@ -618,43 +617,41 @@ Puanlar 10 üzerinden verilmiştir. 9-10 çok güçlü ve okur zevki yüksek; 7-
 - Değişim: 0, aynı kaldı.
 - Durum:
 - Eski yorum: Ant metni gibi çalışıyor; kitabı eylem ve yeminle kapatıyordu.
-- Güncel yorum: Hâlâ çok güçlü kapanış.
-- Güçlü taraf: Kitabın bütün etik borcunu ant ve pratik sözler halinde topluyor.
-- Sorun: Tohum, çocuk, hasta, komşu, yolcu, hasat ve adak kısmı biraz listeleşiyor.
-- Yapılacak: Ritim düzeltmesi yapılmalı; anlam sırası korunmalı.
+- Güncel yorum: Bölüm, eski gelecek zamanlı ant/listeden çıkıp 04 `Yola Çıkış`a cevap veren şiirsel bir `BU` kapanışına dönüştü; kitabı gündelik emek, sofra, iz bırakmama, çöp-gübre-toprak-tohum, hesap, dua, aşk/can ve doğaya adanma çizgisiyle kapatıyor.
+- Güçlü taraf: `maceranın sonu değildir`, `çıplak ayak dolaşıp iz bırakmamak`, çöp-gübre-toprak-tohum zinciri, `Bektaş'ın duası / gönülden bir eyvallah` ve doğanın varlığını insana değil insanın varlığını doğaya adama hattı final duygusunu güçlü biçimde taşıyor.
+- Sorun: Belirgin büyük sorun kalmadı; yalnız `pis bir mirasın geri ödenmesi` bloğu bilinçli ağır bir hesap durağı olarak korunmalı.
+- Yapılacak: Korunmalı; yayın öncesi son okumada yalnız noktalama, özel ad biçimi ve kapanış nefesi kontrol edilmeli.
 
 ### 51 - Teşekkür
 
 - Eski puan: 7/10
-- Yeni puan: 7/10
-- Değişim: 0, aynı kaldı.
+- Yeni puan: 9/10
+- Değişim: +2, yükseldi.
 - Durum:
 - Eski yorum: Kişisel teşekkür samimiydi; final şiiri karanlık etki bırakıyordu.
-- Güncel yorum: Teşekkür iyi, ardından gelen kıyamet şiiri hâlâ kapanış duygusunu karartıyor.
-- Güçlü taraf: Kişisel adama bölümü içten ve yerinde.
-- Sorun: `Yolun Sonunda`dan sonra gelen karanlık şiir okurun son duygusunu yeniden aşağı çekiyor.
-- Yapılacak: Bu şiirin yeri ya bilinçli final gölgesi olarak korunmalı ya da daha önceki bir bölüme taşınması düşünülmeli.
+- Güncel yorum: Bölüm artık normal anlatı bölümü değil; Gagauz türküsü epigrafı, teşekkür, ithaf ve künye olarak 50 `Yolun Sonunda`nın umutlu finalini bozmadan kitabı insani bir paratekstle kapatıyor.
+- Güçlü taraf: Bahar, Hıdırellez, yürüyüş ve iz çağrışımı 50'nin kapanışıyla konuşuyor; Bahar, Toprak ve Nehir adları kişisel teşekkürle kitabın doğa sözlüğünü birbirine bağlıyor. İthaf cümlesi kitabın etik borcunu kısa ve güçlü biçimde taşıyor.
+- Sorun: Belirgin büyük sorun kalmadı; yalnız Gagauz türküsü açıklaması fazla uzatılmadan korunmalı, sayfanın sadeliği bozulmamalı.
+- Yapılacak: Korunmalı; yayın öncesi son okumada yalnız adlar, apostrof, kaynak/gönderme biçimi ve künye düzeni kontrol edilmeli.
 
 ### 52 - Sözlük
 
 - Eski puan: 5/10
-- Yeni puan: 5/10
-- Değişim: 0, aynı kaldı.
+- Yeni puan: Aktif değerlendirmeden çıkarıldı.
+- Değişim: Bölüm kaldırıldı; puan hesabına dahil değil.
 - Durum:
 - Eski yorum: `Saçı` açıklaması ritüel dili destekliyordu ama sözlük çok kısaydı.
-- Güncel yorum: Hâlâ tamamlanmamış yardımcı bölüm.
-- Güçlü taraf: `Saçı` maddesi kitap içindeki borç/adak dilini açıklıyor.
-- Sorun: Kitapta geçen özel kavramların çoğu hâlâ yok.
-- Yapılacak: `Kut`, `Etügen`, `Yer-Su`, `hakdır`, `saçı`, `organik hak`, `uyum`, `gönenç`, `ÇÖP` gibi kavramlarla genişletilmeli.
+- Güncel yorum: Sözlük bölümü kaldırıldı; tek maddelik yardımcı bölüm kitabın 51'deki temiz kapanışından sonra gereksiz bir ek etkisi yaratıyordu.
+- Güçlü taraf: `Saçı` maddesinin ritüel/borç dili değerliydi; bu anlam artık metin içi bağlamda taşınacak.
+- Sorun: Kaldırıldı; aktif sorun değil.
+- Yapılacak: Yeniden ele alınmayacak; özel kavramlar gerekirse metin içinde bağlamla taşınmalı.
 
 ## Güncel Öncelik Sırası
 
-1. `44 - A++ İnsan Olmak`: Uzun suç katalogları sıkılaştırılmalı.
-2. `52 - Sözlük`: Kitabın özel kavramlarıyla genişletilmeli.
-3. `46 - Akıl, Beden, Uyum`: Şehir/enerji/teknoloji kısmındaki plan dili şiirsel manifesto sesine yaklaştırılmalı.
-4. `45 - İşgalimsin`: Teknik suç listeleri anlatıcı sesini boğmadan inceltilmeli.
-5. `49 - Gri Anka`: Mitik imge açıklamaya boğulmadan parlatılmalı.
-6. Genel son okuma: noktalama, tırnak ve ritim birliği yayın öncesi son kez kontrol edilmeli.
+1. Genel umut dengesi: Kitabın geneline hâkim olumsuzluk ve karamsarlığı dağıtacak umut, onarım, gündelik iyilik, yaşama sevinci ve mümkün gelecek notları kontrol edilmeli.
+2. `44 - A++ İnsan Olmak`: Metin korunmalı; yalnız 44'ün başında veya İçindekiler'de haklar dizisinden sonra gelen karar/hesap bölümü olduğu sezdirilmeli.
+3. `45 - İşgalimsin`: Metin korunmalı; yalnız son noktalama okuması yapılmalı, bilinçli kültürel/argo göndermeler sadeleştirilmemeli.
+4. Genel son okuma: noktalama, tırnak ve ritim birliği yayın öncesi son kez kontrol edilmeli.
 
 ## Not Havuzu / Ham Malzeme
 
@@ -855,3 +852,20 @@ Ancak gittiği pazarda
 bir bomba patladığında
 derinden ölüm korkusunu
 ve kızıl kanın kokusunu duyar.
+
+
+## ek 2
+Dinleyenler, bağıranlar bir avuç insan!
+Bize uğramasın ölümün melekleri, yeter!
+
+Uyaran dernekler,
+uyarılan tesisler.
+Nerede bir iş, bir oluş!
+
+Kirli bir yozlaşma var aklımda.
+Bir çelişki doğdu sıcakla klimanın arasında.
+Kalıcı bir duyarsızlık tadı bıraktı ağzımda.
+
+Savaşlar ve ölümler açıktan ticaret.
+Ardından dua okunanlar azınlıkta.
+Mezarlar derin bile değil artık.
