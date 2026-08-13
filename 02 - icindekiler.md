@@ -7,8 +7,8 @@
   - Hayal
   - Hak
   - Umut
-- 1.Bölüm - Eyy Özgürlük
-- 2.Bölüm - Organik Haklar
+- 1. Bölüm - Eyy Özgürlük
+- 2. Bölüm - Organik Haklar
   - Yaşam Hakkı
   - Doğmamışın ve Yenidoğanın Hakkı
   - Suyun, Toprağın ve Göğün Hakkı
@@ -41,12 +41,10 @@
   - Değişim Hakkı
   - Gelecek, Hayal ve Umut Hakkı
   - Mutluluk Hakkı
-- 3.Bölüm - A++ İnsan Olmak
-- 4.Bölüm - İşgalimsin
-- 5.Bölüm - Akıl, Beden, Uyum
-  - Sözler
-- 6.Bölüm - İtiraf
-- 7.Bölüm - Gri Anka
-- 8.Bölüm - Yolun Sonunda
+- 3. Bölüm - A++ İnsan Olmak
+- 4. Bölüm - İşgalimsin
+- 5. Bölüm - Akıl, Beden, Uyum
+- 6. Bölüm - İtiraf
+- 7. Bölüm - Gri Anka
+- 8. Bölüm - Yolun Sonunda
 - Teşekkür
-- Sözlük
